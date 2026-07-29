@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "External AEP orientation curve row",
+  "description": "Produced by the engineering repository and consumed read-only here.",
+  "type": "object",
+  "required": ["farm_id", "theta_deg", "aep_gwh"],
+  "properties": {
+    "farm_id": {"type": "string", "minLength": 1},
+    "theta_deg": {"type": "number", "minimum": 0, "exclusiveMaximum": 180},
+    "aep_gwh": {"type": "number", "minimum": 0},
+    "model": {"type": "string"},
+    "wind_period": {"type": "string"},
+    "source_version": {"type": "string"}
+  },
+  "additionalProperties": true
+}
+

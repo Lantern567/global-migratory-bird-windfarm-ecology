@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {"id":"a0f1c2d3e4b59687","type":"group","x":-40,"y":-40,"width":920,"height":400,"label":"双角输入","color":"5"},
+    {"id":"b1e2d3c4a5968778","type":"file","x":20,"y":20,"width":380,"height":280,"file":"literature/ecological-concession-price/02-双角模型与指标体系.md"},
+    {"id":"c2d3e4f5a6877889","type":"file","x":440,"y":20,"width":380,"height":280,"file":"literature/ecological-concession-price/04-数据源与可获得性.md"},
+    {"id":"d3e4f5a6b7788990","type":"text","x":980,"y":20,"width":360,"height":180,"text":"# 经济价格\n\n$C_{AEP}=AEP(\\theta_{econ})-AEP(\\theta_{eco})$","color":"2"},
+    {"id":"e4f5a6b7c8899001","type":"text","x":980,"y":260,"width":360,"height":220,"text":"# 生态产出\n\n优先：避免碰撞死亡数/年\n\n次级：相对暴露下降\n\n另列：屏障与绕飞代价","color":"4"},
+    {"id":"f5a6b7c8d9900112","type":"text","x":1460,"y":120,"width":400,"height":260,"text":"# 能源—生态交换率\n\n$\\eta=\\Delta N_{collision}/\\Delta AEP$\n\n或：每损失 1% AEP，减少多少相对暴露","color":"6"},
+    {"id":"a6b7c8d9e0011223","type":"file","x":980,"y":580,"width":380,"height":280,"file":"literature/ecological-concession-price/03-研究设计-从方向代理到因果检验.md"},
+    {"id":"b7c8d9e0f1122334","type":"file","x":1460,"y":580,"width":400,"height":280,"file":"literature/ecological-concession-price/07-反证与失败条件.md"},
+    {"id":"c8d9e0f1a2233445","type":"file","x":1460,"y":940,"width":400,"height":280,"file":"literature/ecological-concession-price/05-写作主线-低成本高生态增益.md"}
+  ],
+  "edges": [
+    {"id":"10a2b3c4d5e6f789","fromNode":"b1e2d3c4a5968778","fromSide":"right","toNode":"d3e4f5a6b7788990","toSide":"left","toEnd":"arrow","label":"AEP曲线给价格"},
+    {"id":"21b3c4d5e6f7a890","fromNode":"c2d3e4f5a6877889","fromSide":"right","toNode":"e4f5a6b7c8899001","toSide":"left","toEnd":"arrow","label":"方向+通量+高度"},
+    {"id":"32c4d5e6f7a8b901","fromNode":"d3e4f5a6b7788990","fromSide":"right","toNode":"f5a6b7c8d9900112","toSide":"left","toEnd":"arrow"},
+    {"id":"43d5e6f7a8b9c012","fromNode":"e4f5a6b7c8899001","fromSide":"right","toNode":"f5a6b7c8d9900112","toSide":"left","toEnd":"arrow"},
+    {"id":"54e6f7a8b9c0d123","fromNode":"f5a6b7c8d9900112","fromSide":"bottom","toNode":"a6b7c8d9e0011223","toSide":"top","toEnd":"arrow","label":"实证识别"},
+    {"id":"65f7a8b9c0d1e234","fromNode":"a6b7c8d9e0011223","fromSide":"right","toNode":"b7c8d9e0f1122334","toSide":"left","toEnd":"arrow","label":"竞争假设"},
+    {"id":"76a8b9c0d1e2f345","fromNode":"a6b7c8d9e0011223","fromSide":"bottom","toNode":"c8d9e0f1a2233445","toSide":"top","toEnd":"arrow","label":"验证后写作"},
+    {"id":"87b9c0d1e2f3a456","fromNode":"b7c8d9e0f1122334","fromSide":"bottom","toNode":"c8d9e0f1a2233445","toSide":"top","toEnd":"arrow","label":"边界条件"}
+  ]
+}
+

@@ -1,0 +1,6 @@
+farm_id,theta_deg,risk_score
+demo-farm,0,80.0
+demo-farm,30,40.0
+demo-farm,60,10.0
+demo-farm,90,5.0
+

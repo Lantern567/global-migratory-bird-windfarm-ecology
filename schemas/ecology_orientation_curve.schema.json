@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ecology orientation curve row",
+  "type": "object",
+  "required": ["farm_id", "theta_deg", "risk_score"],
+  "properties": {
+    "farm_id": {"type": "string", "minLength": 1},
+    "theta_deg": {"type": "number", "minimum": 0, "exclusiveMaximum": 180},
+    "risk_score": {"type": "number", "minimum": 0},
+    "risk_kind": {"type": "string"},
+    "model_version": {"type": "string"}
+  },
+  "additionalProperties": true
+}
+

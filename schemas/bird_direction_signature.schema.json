@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bird direction signature row",
+  "type": "object",
+  "required": [
+    "farm_id",
+    "receptor_id",
+    "season",
+    "direction_deg",
+    "concentration",
+    "flux",
+    "rotor_height_fraction",
+    "evidence_level"
+  ],
+  "properties": {
+    "farm_id": {"type": "string", "minLength": 1},
+    "receptor_id": {"type": "string", "minLength": 1},
+    "season": {"type": "string", "minLength": 1},
+    "direction_deg": {"type": "number", "minimum": 0, "exclusiveMaximum": 360},
+    "concentration": {"type": "number", "minimum": 0, "maximum": 1},
+    "flux": {"type": "number", "minimum": 0},
+    "rotor_height_fraction": {"type": "number", "minimum": 0, "maximum": 1},
+    "conservation_weight": {"type": "number", "exclusiveMinimum": 0},
+    "evidence_level": {"type": "string", "enum": ["local-track", "radar", "regional-track", "coarse-flyway"]},
+    "n_observations": {"type": "integer", "minimum": 1},
+    "source": {"type": "string"}
+  },
+  "additionalProperties": true
+}
+

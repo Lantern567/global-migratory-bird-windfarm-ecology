@@ -1,0 +1,6 @@
+farm_id,theta_deg,aep_gwh
+demo-farm,0,100.0
+demo-farm,30,99.5
+demo-farm,60,99.1
+demo-farm,90,97.0
+

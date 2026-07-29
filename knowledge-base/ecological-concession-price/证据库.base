@@ -1,0 +1,61 @@
+filters:
+  and:
+    - 'file.inFolder("literature/ecological-concession-price")'
+    - 'file.ext == "md"'
+formulas:
+  readiness: 'if(status == "verified", "可引用", if(status == "screened", "待全文", if(status == "active", "工作中", "待处理")))'
+  source_kind: 'if(type == "source", "文献", if(type == "dataset", "数据", "综合笔记"))'
+properties:
+  file.name:
+    displayName: "笔记"
+  type:
+    displayName: "类型"
+  evidence_role:
+    displayName: "证据角色"
+  evidence_level:
+    displayName: "证据等级"
+  full_text:
+    displayName: "读取范围"
+  year:
+    displayName: "年份"
+  formula.readiness:
+    displayName: "状态"
+  formula.source_kind:
+    displayName: "类别"
+views:
+  - type: table
+    name: "核心文献"
+    filters:
+      and:
+        - 'type == "source"'
+    order:
+      - file.name
+      - year
+      - evidence_role
+      - evidence_level
+      - full_text
+      - formula.readiness
+    groupBy:
+      property: evidence_role
+      direction: ASC
+  - type: table
+    name: "数据源"
+    filters:
+      and:
+        - 'type == "dataset"'
+    order:
+      - file.name
+      - direction_ready
+      - flux_ready
+      - access
+      - resolution
+      - formula.readiness
+  - type: table
+    name: "全部知识卡"
+    order:
+      - file.name
+      - formula.source_kind
+      - type
+      - formula.readiness
+      - file.mtime
+
