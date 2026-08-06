@@ -1,0 +1,3250 @@
+﻿farm_id,theta_deg,risk_score,country,group,evidence
+0,0.0,93.51,China,East Asia,coarse-flyway
+0,10.0,76.92,China,East Asia,coarse-flyway
+0,20.0,59.27,China,East Asia,coarse-flyway
+0,30.0,42.68,China,East Asia,coarse-flyway
+0,40.0,29.16,China,East Asia,coarse-flyway
+0,50.0,20.33,China,East Asia,coarse-flyway
+0,60.0,17.27,China,East Asia,coarse-flyway
+0,70.0,20.33,China,East Asia,coarse-flyway
+0,80.0,29.16,China,East Asia,coarse-flyway
+0,90.0,42.68,China,East Asia,coarse-flyway
+0,100.0,59.27,China,East Asia,coarse-flyway
+0,110.0,76.92,China,East Asia,coarse-flyway
+0,120.0,93.51,China,East Asia,coarse-flyway
+0,130.0,107.03,China,East Asia,coarse-flyway
+0,140.0,115.86,China,East Asia,coarse-flyway
+0,150.0,118.93,China,East Asia,coarse-flyway
+0,160.0,115.86,China,East Asia,coarse-flyway
+0,170.0,107.03,China,East Asia,coarse-flyway
+0,0.0,93.51,China,East Asia,coarse-flyway
+1,0.0,93.51,China,East Asia,coarse-flyway
+1,10.0,76.92,China,East Asia,coarse-flyway
+1,20.0,59.27,China,East Asia,coarse-flyway
+1,30.0,42.68,China,East Asia,coarse-flyway
+1,40.0,29.16,China,East Asia,coarse-flyway
+1,50.0,20.33,China,East Asia,coarse-flyway
+1,60.0,17.27,China,East Asia,coarse-flyway
+1,70.0,20.33,China,East Asia,coarse-flyway
+1,80.0,29.16,China,East Asia,coarse-flyway
+1,90.0,42.68,China,East Asia,coarse-flyway
+1,100.0,59.27,China,East Asia,coarse-flyway
+1,110.0,76.92,China,East Asia,coarse-flyway
+1,120.0,93.51,China,East Asia,coarse-flyway
+1,130.0,107.03,China,East Asia,coarse-flyway
+1,140.0,115.86,China,East Asia,coarse-flyway
+1,150.0,118.93,China,East Asia,coarse-flyway
+1,160.0,115.86,China,East Asia,coarse-flyway
+1,170.0,107.03,China,East Asia,coarse-flyway
+1,0.0,93.51,China,East Asia,coarse-flyway
+2,0.0,272399.56,Belgium,Europe (direction data),radar
+2,10.0,191549.03,Belgium,Europe (direction data),radar
+2,20.0,117074.67,Belgium,Europe (direction data),radar
+2,30.0,57959.18,Belgium,Europe (direction data),radar
+2,40.0,21332.77,Belgium,Europe (direction data),radar
+2,50.0,11613.12,Belgium,Europe (direction data),radar
+2,60.0,29972.57,Belgium,Europe (direction data),radar
+2,70.0,74196.69,Belgium,Europe (direction data),radar
+2,80.0,138951.4,Belgium,Europe (direction data),radar
+2,90.0,216426.34,Belgium,Europe (direction data),radar
+2,100.0,297276.87,Belgium,Europe (direction data),radar
+2,110.0,371751.23,Belgium,Europe (direction data),radar
+2,120.0,430866.72,Belgium,Europe (direction data),radar
+2,130.0,467493.13,Belgium,Europe (direction data),radar
+2,140.0,477212.78,Belgium,Europe (direction data),radar
+2,150.0,458853.33,Belgium,Europe (direction data),radar
+2,160.0,414629.21,Belgium,Europe (direction data),radar
+2,170.0,349874.5,Belgium,Europe (direction data),radar
+2,0.0,272399.56,Belgium,Europe (direction data),radar
+3,0.0,93.51,China,East Asia,coarse-flyway
+3,10.0,76.92,China,East Asia,coarse-flyway
+3,20.0,59.27,China,East Asia,coarse-flyway
+3,30.0,42.68,China,East Asia,coarse-flyway
+3,40.0,29.16,China,East Asia,coarse-flyway
+3,50.0,20.33,China,East Asia,coarse-flyway
+3,60.0,17.27,China,East Asia,coarse-flyway
+3,70.0,20.33,China,East Asia,coarse-flyway
+3,80.0,29.16,China,East Asia,coarse-flyway
+3,90.0,42.68,China,East Asia,coarse-flyway
+3,100.0,59.27,China,East Asia,coarse-flyway
+3,110.0,76.92,China,East Asia,coarse-flyway
+3,120.0,93.51,China,East Asia,coarse-flyway
+3,130.0,107.03,China,East Asia,coarse-flyway
+3,140.0,115.86,China,East Asia,coarse-flyway
+3,150.0,118.93,China,East Asia,coarse-flyway
+3,160.0,115.86,China,East Asia,coarse-flyway
+3,170.0,107.03,China,East Asia,coarse-flyway
+3,0.0,93.51,China,East Asia,coarse-flyway
+4,0.0,93.51,China,East Asia,coarse-flyway
+4,10.0,76.92,China,East Asia,coarse-flyway
+4,20.0,59.27,China,East Asia,coarse-flyway
+4,30.0,42.68,China,East Asia,coarse-flyway
+4,40.0,29.16,China,East Asia,coarse-flyway
+4,50.0,20.33,China,East Asia,coarse-flyway
+4,60.0,17.27,China,East Asia,coarse-flyway
+4,70.0,20.33,China,East Asia,coarse-flyway
+4,80.0,29.16,China,East Asia,coarse-flyway
+4,90.0,42.68,China,East Asia,coarse-flyway
+4,100.0,59.27,China,East Asia,coarse-flyway
+4,110.0,76.92,China,East Asia,coarse-flyway
+4,120.0,93.51,China,East Asia,coarse-flyway
+4,130.0,107.03,China,East Asia,coarse-flyway
+4,140.0,115.86,China,East Asia,coarse-flyway
+4,150.0,118.93,China,East Asia,coarse-flyway
+4,160.0,115.86,China,East Asia,coarse-flyway
+4,170.0,107.03,China,East Asia,coarse-flyway
+4,0.0,93.51,China,East Asia,coarse-flyway
+5,0.0,272399.56,United Kingdom,Europe (direction data),radar
+5,10.0,191549.03,United Kingdom,Europe (direction data),radar
+5,20.0,117074.67,United Kingdom,Europe (direction data),radar
+5,30.0,57959.18,United Kingdom,Europe (direction data),radar
+5,40.0,21332.77,United Kingdom,Europe (direction data),radar
+5,50.0,11613.12,United Kingdom,Europe (direction data),radar
+5,60.0,29972.57,United Kingdom,Europe (direction data),radar
+5,70.0,74196.69,United Kingdom,Europe (direction data),radar
+5,80.0,138951.4,United Kingdom,Europe (direction data),radar
+5,90.0,216426.34,United Kingdom,Europe (direction data),radar
+5,100.0,297276.87,United Kingdom,Europe (direction data),radar
+5,110.0,371751.23,United Kingdom,Europe (direction data),radar
+5,120.0,430866.72,United Kingdom,Europe (direction data),radar
+5,130.0,467493.13,United Kingdom,Europe (direction data),radar
+5,140.0,477212.78,United Kingdom,Europe (direction data),radar
+5,150.0,458853.33,United Kingdom,Europe (direction data),radar
+5,160.0,414629.21,United Kingdom,Europe (direction data),radar
+5,170.0,349874.5,United Kingdom,Europe (direction data),radar
+5,0.0,272399.56,United Kingdom,Europe (direction data),radar
+6,0.0,93.51,China,East Asia,coarse-flyway
+6,10.0,76.92,China,East Asia,coarse-flyway
+6,20.0,59.27,China,East Asia,coarse-flyway
+6,30.0,42.68,China,East Asia,coarse-flyway
+6,40.0,29.16,China,East Asia,coarse-flyway
+6,50.0,20.33,China,East Asia,coarse-flyway
+6,60.0,17.27,China,East Asia,coarse-flyway
+6,70.0,20.33,China,East Asia,coarse-flyway
+6,80.0,29.16,China,East Asia,coarse-flyway
+6,90.0,42.68,China,East Asia,coarse-flyway
+6,100.0,59.27,China,East Asia,coarse-flyway
+6,110.0,76.92,China,East Asia,coarse-flyway
+6,120.0,93.51,China,East Asia,coarse-flyway
+6,130.0,107.03,China,East Asia,coarse-flyway
+6,140.0,115.86,China,East Asia,coarse-flyway
+6,150.0,118.93,China,East Asia,coarse-flyway
+6,160.0,115.86,China,East Asia,coarse-flyway
+6,170.0,107.03,China,East Asia,coarse-flyway
+6,0.0,93.51,China,East Asia,coarse-flyway
+7,0.0,272399.56,Netherlands,Europe (direction data),radar
+7,10.0,191549.03,Netherlands,Europe (direction data),radar
+7,20.0,117074.67,Netherlands,Europe (direction data),radar
+7,30.0,57959.18,Netherlands,Europe (direction data),radar
+7,40.0,21332.77,Netherlands,Europe (direction data),radar
+7,50.0,11613.12,Netherlands,Europe (direction data),radar
+7,60.0,29972.57,Netherlands,Europe (direction data),radar
+7,70.0,74196.69,Netherlands,Europe (direction data),radar
+7,80.0,138951.4,Netherlands,Europe (direction data),radar
+7,90.0,216426.34,Netherlands,Europe (direction data),radar
+7,100.0,297276.87,Netherlands,Europe (direction data),radar
+7,110.0,371751.23,Netherlands,Europe (direction data),radar
+7,120.0,430866.72,Netherlands,Europe (direction data),radar
+7,130.0,467493.13,Netherlands,Europe (direction data),radar
+7,140.0,477212.78,Netherlands,Europe (direction data),radar
+7,150.0,458853.33,Netherlands,Europe (direction data),radar
+7,160.0,414629.21,Netherlands,Europe (direction data),radar
+7,170.0,349874.5,Netherlands,Europe (direction data),radar
+7,0.0,272399.56,Netherlands,Europe (direction data),radar
+8,0.0,93.51,China,East Asia,coarse-flyway
+8,10.0,76.92,China,East Asia,coarse-flyway
+8,20.0,59.27,China,East Asia,coarse-flyway
+8,30.0,42.68,China,East Asia,coarse-flyway
+8,40.0,29.16,China,East Asia,coarse-flyway
+8,50.0,20.33,China,East Asia,coarse-flyway
+8,60.0,17.27,China,East Asia,coarse-flyway
+8,70.0,20.33,China,East Asia,coarse-flyway
+8,80.0,29.16,China,East Asia,coarse-flyway
+8,90.0,42.68,China,East Asia,coarse-flyway
+8,100.0,59.27,China,East Asia,coarse-flyway
+8,110.0,76.92,China,East Asia,coarse-flyway
+8,120.0,93.51,China,East Asia,coarse-flyway
+8,130.0,107.03,China,East Asia,coarse-flyway
+8,140.0,115.86,China,East Asia,coarse-flyway
+8,150.0,118.93,China,East Asia,coarse-flyway
+8,160.0,115.86,China,East Asia,coarse-flyway
+8,170.0,107.03,China,East Asia,coarse-flyway
+8,0.0,93.51,China,East Asia,coarse-flyway
+9,0.0,51.26,United Kingdom,Europe (no direction data),radar
+9,10.0,37.88,United Kingdom,Europe (no direction data),radar
+9,20.0,25.22,United Kingdom,Europe (no direction data),radar
+9,30.0,14.79,United Kingdom,Europe (no direction data),radar
+9,40.0,7.86,United Kingdom,Europe (no direction data),radar
+9,50.0,5.26,United Kingdom,Europe (no direction data),radar
+9,60.0,7.31,United Kingdom,Europe (no direction data),radar
+9,70.0,13.76,United Kingdom,Europe (no direction data),radar
+9,80.0,23.82,United Kingdom,Europe (no direction data),radar
+9,90.0,36.29,United Kingdom,Europe (no direction data),radar
+9,100.0,49.67,United Kingdom,Europe (no direction data),radar
+9,110.0,62.33,United Kingdom,Europe (no direction data),radar
+9,120.0,72.75,United Kingdom,Europe (no direction data),radar
+9,130.0,79.68,United Kingdom,Europe (no direction data),radar
+9,140.0,82.28,United Kingdom,Europe (no direction data),radar
+9,150.0,80.24,United Kingdom,Europe (no direction data),radar
+9,160.0,73.79,United Kingdom,Europe (no direction data),radar
+9,170.0,63.73,United Kingdom,Europe (no direction data),radar
+9,0.0,51.26,United Kingdom,Europe (no direction data),radar
+10,0.0,43.64,United Kingdom,Europe (no direction data),radar
+10,10.0,30.52,United Kingdom,Europe (no direction data),radar
+10,20.0,19.0,United Kingdom,Europe (no direction data),radar
+10,30.0,10.47,United Kingdom,Europe (no direction data),radar
+10,40.0,5.95,United Kingdom,Europe (no direction data),radar
+10,50.0,6.0,United Kingdom,Europe (no direction data),radar
+10,60.0,10.6,United Kingdom,Europe (no direction data),radar
+10,70.0,19.21,United Kingdom,Europe (no direction data),radar
+10,80.0,30.77,United Kingdom,Europe (no direction data),radar
+10,90.0,43.91,United Kingdom,Europe (no direction data),radar
+10,100.0,57.03,United Kingdom,Europe (no direction data),radar
+10,110.0,68.55,United Kingdom,Europe (no direction data),radar
+10,120.0,77.08,United Kingdom,Europe (no direction data),radar
+10,130.0,81.59,United Kingdom,Europe (no direction data),radar
+10,140.0,81.55,United Kingdom,Europe (no direction data),radar
+10,150.0,76.94,United Kingdom,Europe (no direction data),radar
+10,160.0,68.34,United Kingdom,Europe (no direction data),radar
+10,170.0,56.77,United Kingdom,Europe (no direction data),radar
+10,0.0,43.64,United Kingdom,Europe (no direction data),radar
+11,0.0,11.36,Germany,Europe (direction data),radar
+11,10.0,3.22,Germany,Europe (direction data),radar
+11,20.0,0.03,Germany,Europe (direction data),radar
+11,30.0,2.16,Germany,Europe (direction data),radar
+11,40.0,9.38,Germany,Europe (direction data),radar
+11,50.0,20.79,Germany,Europe (direction data),radar
+11,60.0,35.03,Germany,Europe (direction data),radar
+11,70.0,50.38,Germany,Europe (direction data),radar
+11,80.0,64.99,Germany,Europe (direction data),radar
+11,90.0,77.1,Germany,Europe (direction data),radar
+11,100.0,85.24,Germany,Europe (direction data),radar
+11,110.0,88.43,Germany,Europe (direction data),radar
+11,120.0,86.29,Germany,Europe (direction data),radar
+11,130.0,79.08,Germany,Europe (direction data),radar
+11,140.0,67.67,Germany,Europe (direction data),radar
+11,150.0,53.42,Germany,Europe (direction data),radar
+11,160.0,38.07,Germany,Europe (direction data),radar
+11,170.0,23.46,Germany,Europe (direction data),radar
+11,0.0,11.36,Germany,Europe (direction data),radar
+12,0.0,93.51,China,East Asia,coarse-flyway
+12,10.0,76.92,China,East Asia,coarse-flyway
+12,20.0,59.27,China,East Asia,coarse-flyway
+12,30.0,42.68,China,East Asia,coarse-flyway
+12,40.0,29.16,China,East Asia,coarse-flyway
+12,50.0,20.33,China,East Asia,coarse-flyway
+12,60.0,17.27,China,East Asia,coarse-flyway
+12,70.0,20.33,China,East Asia,coarse-flyway
+12,80.0,29.16,China,East Asia,coarse-flyway
+12,90.0,42.68,China,East Asia,coarse-flyway
+12,100.0,59.27,China,East Asia,coarse-flyway
+12,110.0,76.92,China,East Asia,coarse-flyway
+12,120.0,93.51,China,East Asia,coarse-flyway
+12,130.0,107.03,China,East Asia,coarse-flyway
+12,140.0,115.86,China,East Asia,coarse-flyway
+12,150.0,118.93,China,East Asia,coarse-flyway
+12,160.0,115.86,China,East Asia,coarse-flyway
+12,170.0,107.03,China,East Asia,coarse-flyway
+12,0.0,93.51,China,East Asia,coarse-flyway
+13,0.0,51.26,United Kingdom,Europe (no direction data),radar
+13,10.0,37.88,United Kingdom,Europe (no direction data),radar
+13,20.0,25.22,United Kingdom,Europe (no direction data),radar
+13,30.0,14.79,United Kingdom,Europe (no direction data),radar
+13,40.0,7.86,United Kingdom,Europe (no direction data),radar
+13,50.0,5.26,United Kingdom,Europe (no direction data),radar
+13,60.0,7.31,United Kingdom,Europe (no direction data),radar
+13,70.0,13.76,United Kingdom,Europe (no direction data),radar
+13,80.0,23.82,United Kingdom,Europe (no direction data),radar
+13,90.0,36.29,United Kingdom,Europe (no direction data),radar
+13,100.0,49.67,United Kingdom,Europe (no direction data),radar
+13,110.0,62.33,United Kingdom,Europe (no direction data),radar
+13,120.0,72.75,United Kingdom,Europe (no direction data),radar
+13,130.0,79.68,United Kingdom,Europe (no direction data),radar
+13,140.0,82.28,United Kingdom,Europe (no direction data),radar
+13,150.0,80.24,United Kingdom,Europe (no direction data),radar
+13,160.0,73.79,United Kingdom,Europe (no direction data),radar
+13,170.0,63.73,United Kingdom,Europe (no direction data),radar
+13,0.0,51.26,United Kingdom,Europe (no direction data),radar
+14,0.0,93.51,China,East Asia,coarse-flyway
+14,10.0,76.92,China,East Asia,coarse-flyway
+14,20.0,59.27,China,East Asia,coarse-flyway
+14,30.0,42.68,China,East Asia,coarse-flyway
+14,40.0,29.16,China,East Asia,coarse-flyway
+14,50.0,20.33,China,East Asia,coarse-flyway
+14,60.0,17.27,China,East Asia,coarse-flyway
+14,70.0,20.33,China,East Asia,coarse-flyway
+14,80.0,29.16,China,East Asia,coarse-flyway
+14,90.0,42.68,China,East Asia,coarse-flyway
+14,100.0,59.27,China,East Asia,coarse-flyway
+14,110.0,76.92,China,East Asia,coarse-flyway
+14,120.0,93.51,China,East Asia,coarse-flyway
+14,130.0,107.03,China,East Asia,coarse-flyway
+14,140.0,115.86,China,East Asia,coarse-flyway
+14,150.0,118.93,China,East Asia,coarse-flyway
+14,160.0,115.86,China,East Asia,coarse-flyway
+14,170.0,107.03,China,East Asia,coarse-flyway
+14,0.0,93.51,China,East Asia,coarse-flyway
+15,0.0,272399.56,Netherlands,Europe (direction data),radar
+15,10.0,191549.03,Netherlands,Europe (direction data),radar
+15,20.0,117074.67,Netherlands,Europe (direction data),radar
+15,30.0,57959.18,Netherlands,Europe (direction data),radar
+15,40.0,21332.77,Netherlands,Europe (direction data),radar
+15,50.0,11613.12,Netherlands,Europe (direction data),radar
+15,60.0,29972.57,Netherlands,Europe (direction data),radar
+15,70.0,74196.69,Netherlands,Europe (direction data),radar
+15,80.0,138951.4,Netherlands,Europe (direction data),radar
+15,90.0,216426.34,Netherlands,Europe (direction data),radar
+15,100.0,297276.87,Netherlands,Europe (direction data),radar
+15,110.0,371751.23,Netherlands,Europe (direction data),radar
+15,120.0,430866.72,Netherlands,Europe (direction data),radar
+15,130.0,467493.13,Netherlands,Europe (direction data),radar
+15,140.0,477212.78,Netherlands,Europe (direction data),radar
+15,150.0,458853.33,Netherlands,Europe (direction data),radar
+15,160.0,414629.21,Netherlands,Europe (direction data),radar
+15,170.0,349874.5,Netherlands,Europe (direction data),radar
+15,0.0,272399.56,Netherlands,Europe (direction data),radar
+16,0.0,272399.56,Netherlands,Europe (direction data),radar
+16,10.0,191549.03,Netherlands,Europe (direction data),radar
+16,20.0,117074.67,Netherlands,Europe (direction data),radar
+16,30.0,57959.18,Netherlands,Europe (direction data),radar
+16,40.0,21332.77,Netherlands,Europe (direction data),radar
+16,50.0,11613.12,Netherlands,Europe (direction data),radar
+16,60.0,29972.57,Netherlands,Europe (direction data),radar
+16,70.0,74196.69,Netherlands,Europe (direction data),radar
+16,80.0,138951.4,Netherlands,Europe (direction data),radar
+16,90.0,216426.34,Netherlands,Europe (direction data),radar
+16,100.0,297276.87,Netherlands,Europe (direction data),radar
+16,110.0,371751.23,Netherlands,Europe (direction data),radar
+16,120.0,430866.72,Netherlands,Europe (direction data),radar
+16,130.0,467493.13,Netherlands,Europe (direction data),radar
+16,140.0,477212.78,Netherlands,Europe (direction data),radar
+16,150.0,458853.33,Netherlands,Europe (direction data),radar
+16,160.0,414629.21,Netherlands,Europe (direction data),radar
+16,170.0,349874.5,Netherlands,Europe (direction data),radar
+16,0.0,272399.56,Netherlands,Europe (direction data),radar
+17,0.0,272399.56,United Kingdom,Europe (direction data),radar
+17,10.0,191549.03,United Kingdom,Europe (direction data),radar
+17,20.0,117074.67,United Kingdom,Europe (direction data),radar
+17,30.0,57959.18,United Kingdom,Europe (direction data),radar
+17,40.0,21332.77,United Kingdom,Europe (direction data),radar
+17,50.0,11613.12,United Kingdom,Europe (direction data),radar
+17,60.0,29972.57,United Kingdom,Europe (direction data),radar
+17,70.0,74196.69,United Kingdom,Europe (direction data),radar
+17,80.0,138951.4,United Kingdom,Europe (direction data),radar
+17,90.0,216426.34,United Kingdom,Europe (direction data),radar
+17,100.0,297276.87,United Kingdom,Europe (direction data),radar
+17,110.0,371751.23,United Kingdom,Europe (direction data),radar
+17,120.0,430866.72,United Kingdom,Europe (direction data),radar
+17,130.0,467493.13,United Kingdom,Europe (direction data),radar
+17,140.0,477212.78,United Kingdom,Europe (direction data),radar
+17,150.0,458853.33,United Kingdom,Europe (direction data),radar
+17,160.0,414629.21,United Kingdom,Europe (direction data),radar
+17,170.0,349874.5,United Kingdom,Europe (direction data),radar
+17,0.0,272399.56,United Kingdom,Europe (direction data),radar
+18,0.0,272399.56,Germany,Europe (direction data),radar
+18,10.0,191549.03,Germany,Europe (direction data),radar
+18,20.0,117074.67,Germany,Europe (direction data),radar
+18,30.0,57959.18,Germany,Europe (direction data),radar
+18,40.0,21332.77,Germany,Europe (direction data),radar
+18,50.0,11613.12,Germany,Europe (direction data),radar
+18,60.0,29972.57,Germany,Europe (direction data),radar
+18,70.0,74196.69,Germany,Europe (direction data),radar
+18,80.0,138951.4,Germany,Europe (direction data),radar
+18,90.0,216426.34,Germany,Europe (direction data),radar
+18,100.0,297276.87,Germany,Europe (direction data),radar
+18,110.0,371751.23,Germany,Europe (direction data),radar
+18,120.0,430866.72,Germany,Europe (direction data),radar
+18,130.0,467493.13,Germany,Europe (direction data),radar
+18,140.0,477212.78,Germany,Europe (direction data),radar
+18,150.0,458853.33,Germany,Europe (direction data),radar
+18,160.0,414629.21,Germany,Europe (direction data),radar
+18,170.0,349874.5,Germany,Europe (direction data),radar
+18,0.0,272399.56,Germany,Europe (direction data),radar
+19,0.0,93.51,China,East Asia,coarse-flyway
+19,10.0,76.92,China,East Asia,coarse-flyway
+19,20.0,59.27,China,East Asia,coarse-flyway
+19,30.0,42.68,China,East Asia,coarse-flyway
+19,40.0,29.16,China,East Asia,coarse-flyway
+19,50.0,20.33,China,East Asia,coarse-flyway
+19,60.0,17.27,China,East Asia,coarse-flyway
+19,70.0,20.33,China,East Asia,coarse-flyway
+19,80.0,29.16,China,East Asia,coarse-flyway
+19,90.0,42.68,China,East Asia,coarse-flyway
+19,100.0,59.27,China,East Asia,coarse-flyway
+19,110.0,76.92,China,East Asia,coarse-flyway
+19,120.0,93.51,China,East Asia,coarse-flyway
+19,130.0,107.03,China,East Asia,coarse-flyway
+19,140.0,115.86,China,East Asia,coarse-flyway
+19,150.0,118.93,China,East Asia,coarse-flyway
+19,160.0,115.86,China,East Asia,coarse-flyway
+19,170.0,107.03,China,East Asia,coarse-flyway
+19,0.0,93.51,China,East Asia,coarse-flyway
+20,0.0,272399.56,Netherlands,Europe (direction data),radar
+20,10.0,191549.03,Netherlands,Europe (direction data),radar
+20,20.0,117074.67,Netherlands,Europe (direction data),radar
+20,30.0,57959.18,Netherlands,Europe (direction data),radar
+20,40.0,21332.77,Netherlands,Europe (direction data),radar
+20,50.0,11613.12,Netherlands,Europe (direction data),radar
+20,60.0,29972.57,Netherlands,Europe (direction data),radar
+20,70.0,74196.69,Netherlands,Europe (direction data),radar
+20,80.0,138951.4,Netherlands,Europe (direction data),radar
+20,90.0,216426.34,Netherlands,Europe (direction data),radar
+20,100.0,297276.87,Netherlands,Europe (direction data),radar
+20,110.0,371751.23,Netherlands,Europe (direction data),radar
+20,120.0,430866.72,Netherlands,Europe (direction data),radar
+20,130.0,467493.13,Netherlands,Europe (direction data),radar
+20,140.0,477212.78,Netherlands,Europe (direction data),radar
+20,150.0,458853.33,Netherlands,Europe (direction data),radar
+20,160.0,414629.21,Netherlands,Europe (direction data),radar
+20,170.0,349874.5,Netherlands,Europe (direction data),radar
+20,0.0,272399.56,Netherlands,Europe (direction data),radar
+21,0.0,93.51,China,East Asia,coarse-flyway
+21,10.0,76.92,China,East Asia,coarse-flyway
+21,20.0,59.27,China,East Asia,coarse-flyway
+21,30.0,42.68,China,East Asia,coarse-flyway
+21,40.0,29.16,China,East Asia,coarse-flyway
+21,50.0,20.33,China,East Asia,coarse-flyway
+21,60.0,17.27,China,East Asia,coarse-flyway
+21,70.0,20.33,China,East Asia,coarse-flyway
+21,80.0,29.16,China,East Asia,coarse-flyway
+21,90.0,42.68,China,East Asia,coarse-flyway
+21,100.0,59.27,China,East Asia,coarse-flyway
+21,110.0,76.92,China,East Asia,coarse-flyway
+21,120.0,93.51,China,East Asia,coarse-flyway
+21,130.0,107.03,China,East Asia,coarse-flyway
+21,140.0,115.86,China,East Asia,coarse-flyway
+21,150.0,118.93,China,East Asia,coarse-flyway
+21,160.0,115.86,China,East Asia,coarse-flyway
+21,170.0,107.03,China,East Asia,coarse-flyway
+21,0.0,93.51,China,East Asia,coarse-flyway
+22,0.0,48.6,Germany,Europe (no direction data),radar
+22,10.0,35.32,Germany,Europe (no direction data),radar
+22,20.0,23.09,Germany,Europe (no direction data),radar
+22,30.0,13.39,Germany,Europe (no direction data),radar
+22,40.0,7.39,Germany,Europe (no direction data),radar
+22,50.0,5.81,Germany,Europe (no direction data),radar
+22,60.0,8.85,Germany,Europe (no direction data),radar
+22,70.0,16.14,Germany,Europe (no direction data),radar
+22,80.0,26.79,Germany,Europe (no direction data),radar
+22,90.0,39.53,Germany,Europe (no direction data),radar
+22,100.0,52.81,Germany,Europe (no direction data),radar
+22,110.0,65.04,Germany,Europe (no direction data),radar
+22,120.0,74.74,Germany,Europe (no direction data),radar
+22,130.0,80.74,Germany,Europe (no direction data),radar
+22,140.0,82.32,Germany,Europe (no direction data),radar
+22,150.0,79.28,Germany,Europe (no direction data),radar
+22,160.0,71.99,Germany,Europe (no direction data),radar
+22,170.0,61.34,Germany,Europe (no direction data),radar
+22,0.0,48.6,Germany,Europe (no direction data),radar
+23,0.0,272399.56,Netherlands,Europe (direction data),radar
+23,10.0,191549.03,Netherlands,Europe (direction data),radar
+23,20.0,117074.67,Netherlands,Europe (direction data),radar
+23,30.0,57959.18,Netherlands,Europe (direction data),radar
+23,40.0,21332.77,Netherlands,Europe (direction data),radar
+23,50.0,11613.12,Netherlands,Europe (direction data),radar
+23,60.0,29972.57,Netherlands,Europe (direction data),radar
+23,70.0,74196.69,Netherlands,Europe (direction data),radar
+23,80.0,138951.4,Netherlands,Europe (direction data),radar
+23,90.0,216426.34,Netherlands,Europe (direction data),radar
+23,100.0,297276.87,Netherlands,Europe (direction data),radar
+23,110.0,371751.23,Netherlands,Europe (direction data),radar
+23,120.0,430866.72,Netherlands,Europe (direction data),radar
+23,130.0,467493.13,Netherlands,Europe (direction data),radar
+23,140.0,477212.78,Netherlands,Europe (direction data),radar
+23,150.0,458853.33,Netherlands,Europe (direction data),radar
+23,160.0,414629.21,Netherlands,Europe (direction data),radar
+23,170.0,349874.5,Netherlands,Europe (direction data),radar
+23,0.0,272399.56,Netherlands,Europe (direction data),radar
+24,0.0,93.51,China,East Asia,coarse-flyway
+24,10.0,76.92,China,East Asia,coarse-flyway
+24,20.0,59.27,China,East Asia,coarse-flyway
+24,30.0,42.68,China,East Asia,coarse-flyway
+24,40.0,29.16,China,East Asia,coarse-flyway
+24,50.0,20.33,China,East Asia,coarse-flyway
+24,60.0,17.27,China,East Asia,coarse-flyway
+24,70.0,20.33,China,East Asia,coarse-flyway
+24,80.0,29.16,China,East Asia,coarse-flyway
+24,90.0,42.68,China,East Asia,coarse-flyway
+24,100.0,59.27,China,East Asia,coarse-flyway
+24,110.0,76.92,China,East Asia,coarse-flyway
+24,120.0,93.51,China,East Asia,coarse-flyway
+24,130.0,107.03,China,East Asia,coarse-flyway
+24,140.0,115.86,China,East Asia,coarse-flyway
+24,150.0,118.93,China,East Asia,coarse-flyway
+24,160.0,115.86,China,East Asia,coarse-flyway
+24,170.0,107.03,China,East Asia,coarse-flyway
+24,0.0,93.51,China,East Asia,coarse-flyway
+25,0.0,62.76,Sweden,Europe (no direction data),radar
+25,10.0,45.21,Sweden,Europe (no direction data),radar
+25,20.0,29.32,Sweden,Europe (no direction data),radar
+25,30.0,17.0,Sweden,Europe (no direction data),radar
+25,40.0,9.74,Sweden,Europe (no direction data),radar
+25,50.0,8.42,Sweden,Europe (no direction data),radar
+25,60.0,13.19,Sweden,Europe (no direction data),radar
+25,70.0,23.48,Sweden,Europe (no direction data),radar
+25,80.0,38.05,Sweden,Europe (no direction data),radar
+25,90.0,55.14,Sweden,Europe (no direction data),radar
+25,100.0,72.69,Sweden,Europe (no direction data),radar
+25,110.0,88.58,Sweden,Europe (no direction data),radar
+25,120.0,100.9,Sweden,Europe (no direction data),radar
+25,130.0,108.15,Sweden,Europe (no direction data),radar
+25,140.0,109.47,Sweden,Europe (no direction data),radar
+25,150.0,104.7,Sweden,Europe (no direction data),radar
+25,160.0,94.41,Sweden,Europe (no direction data),radar
+25,170.0,79.84,Sweden,Europe (no direction data),radar
+25,0.0,62.76,Sweden,Europe (no direction data),radar
+26,0.0,272399.56,United Kingdom,Europe (direction data),radar
+26,10.0,191549.03,United Kingdom,Europe (direction data),radar
+26,20.0,117074.67,United Kingdom,Europe (direction data),radar
+26,30.0,57959.18,United Kingdom,Europe (direction data),radar
+26,40.0,21332.77,United Kingdom,Europe (direction data),radar
+26,50.0,11613.12,United Kingdom,Europe (direction data),radar
+26,60.0,29972.57,United Kingdom,Europe (direction data),radar
+26,70.0,74196.69,United Kingdom,Europe (direction data),radar
+26,80.0,138951.4,United Kingdom,Europe (direction data),radar
+26,90.0,216426.34,United Kingdom,Europe (direction data),radar
+26,100.0,297276.87,United Kingdom,Europe (direction data),radar
+26,110.0,371751.23,United Kingdom,Europe (direction data),radar
+26,120.0,430866.72,United Kingdom,Europe (direction data),radar
+26,130.0,467493.13,United Kingdom,Europe (direction data),radar
+26,140.0,477212.78,United Kingdom,Europe (direction data),radar
+26,150.0,458853.33,United Kingdom,Europe (direction data),radar
+26,160.0,414629.21,United Kingdom,Europe (direction data),radar
+26,170.0,349874.5,United Kingdom,Europe (direction data),radar
+26,0.0,272399.56,United Kingdom,Europe (direction data),radar
+27,0.0,272399.56,Denmark,Europe (direction data),radar
+27,10.0,191549.03,Denmark,Europe (direction data),radar
+27,20.0,117074.67,Denmark,Europe (direction data),radar
+27,30.0,57959.18,Denmark,Europe (direction data),radar
+27,40.0,21332.77,Denmark,Europe (direction data),radar
+27,50.0,11613.12,Denmark,Europe (direction data),radar
+27,60.0,29972.57,Denmark,Europe (direction data),radar
+27,70.0,74196.69,Denmark,Europe (direction data),radar
+27,80.0,138951.4,Denmark,Europe (direction data),radar
+27,90.0,216426.34,Denmark,Europe (direction data),radar
+27,100.0,297276.87,Denmark,Europe (direction data),radar
+27,110.0,371751.23,Denmark,Europe (direction data),radar
+27,120.0,430866.72,Denmark,Europe (direction data),radar
+27,130.0,467493.13,Denmark,Europe (direction data),radar
+27,140.0,477212.78,Denmark,Europe (direction data),radar
+27,150.0,458853.33,Denmark,Europe (direction data),radar
+27,160.0,414629.21,Denmark,Europe (direction data),radar
+27,170.0,349874.5,Denmark,Europe (direction data),radar
+27,0.0,272399.56,Denmark,Europe (direction data),radar
+28,0.0,93.51,China,East Asia,coarse-flyway
+28,10.0,76.92,China,East Asia,coarse-flyway
+28,20.0,59.27,China,East Asia,coarse-flyway
+28,30.0,42.68,China,East Asia,coarse-flyway
+28,40.0,29.16,China,East Asia,coarse-flyway
+28,50.0,20.33,China,East Asia,coarse-flyway
+28,60.0,17.27,China,East Asia,coarse-flyway
+28,70.0,20.33,China,East Asia,coarse-flyway
+28,80.0,29.16,China,East Asia,coarse-flyway
+28,90.0,42.68,China,East Asia,coarse-flyway
+28,100.0,59.27,China,East Asia,coarse-flyway
+28,110.0,76.92,China,East Asia,coarse-flyway
+28,120.0,93.51,China,East Asia,coarse-flyway
+28,130.0,107.03,China,East Asia,coarse-flyway
+28,140.0,115.86,China,East Asia,coarse-flyway
+28,150.0,118.93,China,East Asia,coarse-flyway
+28,160.0,115.86,China,East Asia,coarse-flyway
+28,170.0,107.03,China,East Asia,coarse-flyway
+28,0.0,93.51,China,East Asia,coarse-flyway
+29,0.0,63.31,Sweden,Europe (no direction data),radar
+29,10.0,45.39,Sweden,Europe (no direction data),radar
+29,20.0,29.27,Sweden,Europe (no direction data),radar
+29,30.0,16.92,Sweden,Europe (no direction data),radar
+29,40.0,9.81,Sweden,Europe (no direction data),radar
+29,50.0,8.8,Sweden,Europe (no direction data),radar
+29,60.0,14.02,Sweden,Europe (no direction data),radar
+29,70.0,24.83,Sweden,Europe (no direction data),radar
+29,80.0,39.93,Sweden,Europe (no direction data),radar
+29,90.0,57.51,Sweden,Europe (no direction data),radar
+29,100.0,75.43,Sweden,Europe (no direction data),radar
+29,110.0,91.54,Sweden,Europe (no direction data),radar
+29,120.0,103.9,Sweden,Europe (no direction data),radar
+29,130.0,111.01,Sweden,Europe (no direction data),radar
+29,140.0,112.01,Sweden,Europe (no direction data),radar
+29,150.0,106.8,Sweden,Europe (no direction data),radar
+29,160.0,95.99,Sweden,Europe (no direction data),radar
+29,170.0,80.88,Sweden,Europe (no direction data),radar
+29,0.0,63.31,Sweden,Europe (no direction data),radar
+30,0.0,272399.56,United Kingdom,Europe (direction data),radar
+30,10.0,191549.03,United Kingdom,Europe (direction data),radar
+30,20.0,117074.67,United Kingdom,Europe (direction data),radar
+30,30.0,57959.18,United Kingdom,Europe (direction data),radar
+30,40.0,21332.77,United Kingdom,Europe (direction data),radar
+30,50.0,11613.12,United Kingdom,Europe (direction data),radar
+30,60.0,29972.57,United Kingdom,Europe (direction data),radar
+30,70.0,74196.69,United Kingdom,Europe (direction data),radar
+30,80.0,138951.4,United Kingdom,Europe (direction data),radar
+30,90.0,216426.34,United Kingdom,Europe (direction data),radar
+30,100.0,297276.87,United Kingdom,Europe (direction data),radar
+30,110.0,371751.23,United Kingdom,Europe (direction data),radar
+30,120.0,430866.72,United Kingdom,Europe (direction data),radar
+30,130.0,467493.13,United Kingdom,Europe (direction data),radar
+30,140.0,477212.78,United Kingdom,Europe (direction data),radar
+30,150.0,458853.33,United Kingdom,Europe (direction data),radar
+30,160.0,414629.21,United Kingdom,Europe (direction data),radar
+30,170.0,349874.5,United Kingdom,Europe (direction data),radar
+30,0.0,272399.56,United Kingdom,Europe (direction data),radar
+31,0.0,272399.56,Netherlands,Europe (direction data),radar
+31,10.0,191549.03,Netherlands,Europe (direction data),radar
+31,20.0,117074.67,Netherlands,Europe (direction data),radar
+31,30.0,57959.18,Netherlands,Europe (direction data),radar
+31,40.0,21332.77,Netherlands,Europe (direction data),radar
+31,50.0,11613.12,Netherlands,Europe (direction data),radar
+31,60.0,29972.57,Netherlands,Europe (direction data),radar
+31,70.0,74196.69,Netherlands,Europe (direction data),radar
+31,80.0,138951.4,Netherlands,Europe (direction data),radar
+31,90.0,216426.34,Netherlands,Europe (direction data),radar
+31,100.0,297276.87,Netherlands,Europe (direction data),radar
+31,110.0,371751.23,Netherlands,Europe (direction data),radar
+31,120.0,430866.72,Netherlands,Europe (direction data),radar
+31,130.0,467493.13,Netherlands,Europe (direction data),radar
+31,140.0,477212.78,Netherlands,Europe (direction data),radar
+31,150.0,458853.33,Netherlands,Europe (direction data),radar
+31,160.0,414629.21,Netherlands,Europe (direction data),radar
+31,170.0,349874.5,Netherlands,Europe (direction data),radar
+31,0.0,272399.56,Netherlands,Europe (direction data),radar
+32,0.0,93.51,China,East Asia,coarse-flyway
+32,10.0,76.92,China,East Asia,coarse-flyway
+32,20.0,59.27,China,East Asia,coarse-flyway
+32,30.0,42.68,China,East Asia,coarse-flyway
+32,40.0,29.16,China,East Asia,coarse-flyway
+32,50.0,20.33,China,East Asia,coarse-flyway
+32,60.0,17.27,China,East Asia,coarse-flyway
+32,70.0,20.33,China,East Asia,coarse-flyway
+32,80.0,29.16,China,East Asia,coarse-flyway
+32,90.0,42.68,China,East Asia,coarse-flyway
+32,100.0,59.27,China,East Asia,coarse-flyway
+32,110.0,76.92,China,East Asia,coarse-flyway
+32,120.0,93.51,China,East Asia,coarse-flyway
+32,130.0,107.03,China,East Asia,coarse-flyway
+32,140.0,115.86,China,East Asia,coarse-flyway
+32,150.0,118.93,China,East Asia,coarse-flyway
+32,160.0,115.86,China,East Asia,coarse-flyway
+32,170.0,107.03,China,East Asia,coarse-flyway
+32,0.0,93.51,China,East Asia,coarse-flyway
+33,0.0,93.51,China,East Asia,coarse-flyway
+33,10.0,76.92,China,East Asia,coarse-flyway
+33,20.0,59.27,China,East Asia,coarse-flyway
+33,30.0,42.68,China,East Asia,coarse-flyway
+33,40.0,29.16,China,East Asia,coarse-flyway
+33,50.0,20.33,China,East Asia,coarse-flyway
+33,60.0,17.27,China,East Asia,coarse-flyway
+33,70.0,20.33,China,East Asia,coarse-flyway
+33,80.0,29.16,China,East Asia,coarse-flyway
+33,90.0,42.68,China,East Asia,coarse-flyway
+33,100.0,59.27,China,East Asia,coarse-flyway
+33,110.0,76.92,China,East Asia,coarse-flyway
+33,120.0,93.51,China,East Asia,coarse-flyway
+33,130.0,107.03,China,East Asia,coarse-flyway
+33,140.0,115.86,China,East Asia,coarse-flyway
+33,150.0,118.93,China,East Asia,coarse-flyway
+33,160.0,115.86,China,East Asia,coarse-flyway
+33,170.0,107.03,China,East Asia,coarse-flyway
+33,0.0,93.51,China,East Asia,coarse-flyway
+34,0.0,93.51,China,East Asia,coarse-flyway
+34,10.0,76.92,China,East Asia,coarse-flyway
+34,20.0,59.27,China,East Asia,coarse-flyway
+34,30.0,42.68,China,East Asia,coarse-flyway
+34,40.0,29.16,China,East Asia,coarse-flyway
+34,50.0,20.33,China,East Asia,coarse-flyway
+34,60.0,17.27,China,East Asia,coarse-flyway
+34,70.0,20.33,China,East Asia,coarse-flyway
+34,80.0,29.16,China,East Asia,coarse-flyway
+34,90.0,42.68,China,East Asia,coarse-flyway
+34,100.0,59.27,China,East Asia,coarse-flyway
+34,110.0,76.92,China,East Asia,coarse-flyway
+34,120.0,93.51,China,East Asia,coarse-flyway
+34,130.0,107.03,China,East Asia,coarse-flyway
+34,140.0,115.86,China,East Asia,coarse-flyway
+34,150.0,118.93,China,East Asia,coarse-flyway
+34,160.0,115.86,China,East Asia,coarse-flyway
+34,170.0,107.03,China,East Asia,coarse-flyway
+34,0.0,93.51,China,East Asia,coarse-flyway
+35,0.0,93.51,China,East Asia,coarse-flyway
+35,10.0,76.92,China,East Asia,coarse-flyway
+35,20.0,59.27,China,East Asia,coarse-flyway
+35,30.0,42.68,China,East Asia,coarse-flyway
+35,40.0,29.16,China,East Asia,coarse-flyway
+35,50.0,20.33,China,East Asia,coarse-flyway
+35,60.0,17.27,China,East Asia,coarse-flyway
+35,70.0,20.33,China,East Asia,coarse-flyway
+35,80.0,29.16,China,East Asia,coarse-flyway
+35,90.0,42.68,China,East Asia,coarse-flyway
+35,100.0,59.27,China,East Asia,coarse-flyway
+35,110.0,76.92,China,East Asia,coarse-flyway
+35,120.0,93.51,China,East Asia,coarse-flyway
+35,130.0,107.03,China,East Asia,coarse-flyway
+35,140.0,115.86,China,East Asia,coarse-flyway
+35,150.0,118.93,China,East Asia,coarse-flyway
+35,160.0,115.86,China,East Asia,coarse-flyway
+35,170.0,107.03,China,East Asia,coarse-flyway
+35,0.0,93.51,China,East Asia,coarse-flyway
+36,0.0,46.79,United Kingdom,Europe (direction data),radar
+36,10.0,33.51,United Kingdom,Europe (direction data),radar
+36,20.0,21.46,United Kingdom,Europe (direction data),radar
+36,30.0,12.11,United Kingdom,Europe (direction data),radar
+36,40.0,6.58,United Kingdom,Europe (direction data),radar
+36,50.0,5.53,United Kingdom,Europe (direction data),radar
+36,60.0,9.1,United Kingdom,Europe (direction data),radar
+36,70.0,16.85,United Kingdom,Europe (direction data),radar
+36,80.0,27.84,United Kingdom,Europe (direction data),radar
+36,90.0,40.76,United Kingdom,Europe (direction data),radar
+36,100.0,54.04,United Kingdom,Europe (direction data),radar
+36,110.0,66.08,United Kingdom,Europe (direction data),radar
+36,120.0,75.43,United Kingdom,Europe (direction data),radar
+36,130.0,80.97,United Kingdom,Europe (direction data),radar
+36,140.0,82.01,United Kingdom,Europe (direction data),radar
+36,150.0,78.45,United Kingdom,Europe (direction data),radar
+36,160.0,70.7,United Kingdom,Europe (direction data),radar
+36,170.0,59.7,United Kingdom,Europe (direction data),radar
+36,0.0,46.79,United Kingdom,Europe (direction data),radar
+37,0.0,93.51,China,East Asia,coarse-flyway
+37,10.0,76.92,China,East Asia,coarse-flyway
+37,20.0,59.27,China,East Asia,coarse-flyway
+37,30.0,42.68,China,East Asia,coarse-flyway
+37,40.0,29.16,China,East Asia,coarse-flyway
+37,50.0,20.33,China,East Asia,coarse-flyway
+37,60.0,17.27,China,East Asia,coarse-flyway
+37,70.0,20.33,China,East Asia,coarse-flyway
+37,80.0,29.16,China,East Asia,coarse-flyway
+37,90.0,42.68,China,East Asia,coarse-flyway
+37,100.0,59.27,China,East Asia,coarse-flyway
+37,110.0,76.92,China,East Asia,coarse-flyway
+37,120.0,93.51,China,East Asia,coarse-flyway
+37,130.0,107.03,China,East Asia,coarse-flyway
+37,140.0,115.86,China,East Asia,coarse-flyway
+37,150.0,118.93,China,East Asia,coarse-flyway
+37,160.0,115.86,China,East Asia,coarse-flyway
+37,170.0,107.03,China,East Asia,coarse-flyway
+37,0.0,93.51,China,East Asia,coarse-flyway
+38,0.0,93.51,China,East Asia,coarse-flyway
+38,10.0,76.92,China,East Asia,coarse-flyway
+38,20.0,59.27,China,East Asia,coarse-flyway
+38,30.0,42.68,China,East Asia,coarse-flyway
+38,40.0,29.16,China,East Asia,coarse-flyway
+38,50.0,20.33,China,East Asia,coarse-flyway
+38,60.0,17.27,China,East Asia,coarse-flyway
+38,70.0,20.33,China,East Asia,coarse-flyway
+38,80.0,29.16,China,East Asia,coarse-flyway
+38,90.0,42.68,China,East Asia,coarse-flyway
+38,100.0,59.27,China,East Asia,coarse-flyway
+38,110.0,76.92,China,East Asia,coarse-flyway
+38,120.0,93.51,China,East Asia,coarse-flyway
+38,130.0,107.03,China,East Asia,coarse-flyway
+38,140.0,115.86,China,East Asia,coarse-flyway
+38,150.0,118.93,China,East Asia,coarse-flyway
+38,160.0,115.86,China,East Asia,coarse-flyway
+38,170.0,107.03,China,East Asia,coarse-flyway
+38,0.0,93.51,China,East Asia,coarse-flyway
+39,0.0,68.1,Taiwan,East Asia,coarse-flyway
+39,10.0,50.71,Taiwan,East Asia,coarse-flyway
+39,20.0,35.43,Taiwan,East Asia,coarse-flyway
+39,30.0,24.08,Taiwan,East Asia,coarse-flyway
+39,40.0,18.04,Taiwan,East Asia,coarse-flyway
+39,50.0,18.04,Taiwan,East Asia,coarse-flyway
+39,60.0,24.08,Taiwan,East Asia,coarse-flyway
+39,70.0,35.43,Taiwan,East Asia,coarse-flyway
+39,80.0,50.71,Taiwan,East Asia,coarse-flyway
+39,90.0,68.1,Taiwan,East Asia,coarse-flyway
+39,100.0,85.48,Taiwan,East Asia,coarse-flyway
+39,110.0,100.77,Taiwan,East Asia,coarse-flyway
+39,120.0,112.12,Taiwan,East Asia,coarse-flyway
+39,130.0,118.15,Taiwan,East Asia,coarse-flyway
+39,140.0,118.15,Taiwan,East Asia,coarse-flyway
+39,150.0,112.12,Taiwan,East Asia,coarse-flyway
+39,160.0,100.77,Taiwan,East Asia,coarse-flyway
+39,170.0,85.48,Taiwan,East Asia,coarse-flyway
+39,0.0,68.1,Taiwan,East Asia,coarse-flyway
+40,0.0,43.64,United Kingdom,Europe (no direction data),radar
+40,10.0,30.52,United Kingdom,Europe (no direction data),radar
+40,20.0,19.0,United Kingdom,Europe (no direction data),radar
+40,30.0,10.47,United Kingdom,Europe (no direction data),radar
+40,40.0,5.95,United Kingdom,Europe (no direction data),radar
+40,50.0,6.0,United Kingdom,Europe (no direction data),radar
+40,60.0,10.6,United Kingdom,Europe (no direction data),radar
+40,70.0,19.21,United Kingdom,Europe (no direction data),radar
+40,80.0,30.77,United Kingdom,Europe (no direction data),radar
+40,90.0,43.91,United Kingdom,Europe (no direction data),radar
+40,100.0,57.03,United Kingdom,Europe (no direction data),radar
+40,110.0,68.55,United Kingdom,Europe (no direction data),radar
+40,120.0,77.08,United Kingdom,Europe (no direction data),radar
+40,130.0,81.59,United Kingdom,Europe (no direction data),radar
+40,140.0,81.55,United Kingdom,Europe (no direction data),radar
+40,150.0,76.94,United Kingdom,Europe (no direction data),radar
+40,160.0,68.34,United Kingdom,Europe (no direction data),radar
+40,170.0,56.77,United Kingdom,Europe (no direction data),radar
+40,0.0,43.64,United Kingdom,Europe (no direction data),radar
+41,0.0,93.51,China,East Asia,coarse-flyway
+41,10.0,76.92,China,East Asia,coarse-flyway
+41,20.0,59.27,China,East Asia,coarse-flyway
+41,30.0,42.68,China,East Asia,coarse-flyway
+41,40.0,29.16,China,East Asia,coarse-flyway
+41,50.0,20.33,China,East Asia,coarse-flyway
+41,60.0,17.27,China,East Asia,coarse-flyway
+41,70.0,20.33,China,East Asia,coarse-flyway
+41,80.0,29.16,China,East Asia,coarse-flyway
+41,90.0,42.68,China,East Asia,coarse-flyway
+41,100.0,59.27,China,East Asia,coarse-flyway
+41,110.0,76.92,China,East Asia,coarse-flyway
+41,120.0,93.51,China,East Asia,coarse-flyway
+41,130.0,107.03,China,East Asia,coarse-flyway
+41,140.0,115.86,China,East Asia,coarse-flyway
+41,150.0,118.93,China,East Asia,coarse-flyway
+41,160.0,115.86,China,East Asia,coarse-flyway
+41,170.0,107.03,China,East Asia,coarse-flyway
+41,0.0,93.51,China,East Asia,coarse-flyway
+42,0.0,68.1,Taiwan,East Asia,coarse-flyway
+42,10.0,50.71,Taiwan,East Asia,coarse-flyway
+42,20.0,35.43,Taiwan,East Asia,coarse-flyway
+42,30.0,24.08,Taiwan,East Asia,coarse-flyway
+42,40.0,18.04,Taiwan,East Asia,coarse-flyway
+42,50.0,18.04,Taiwan,East Asia,coarse-flyway
+42,60.0,24.08,Taiwan,East Asia,coarse-flyway
+42,70.0,35.43,Taiwan,East Asia,coarse-flyway
+42,80.0,50.71,Taiwan,East Asia,coarse-flyway
+42,90.0,68.1,Taiwan,East Asia,coarse-flyway
+42,100.0,85.48,Taiwan,East Asia,coarse-flyway
+42,110.0,100.77,Taiwan,East Asia,coarse-flyway
+42,120.0,112.12,Taiwan,East Asia,coarse-flyway
+42,130.0,118.15,Taiwan,East Asia,coarse-flyway
+42,140.0,118.15,Taiwan,East Asia,coarse-flyway
+42,150.0,112.12,Taiwan,East Asia,coarse-flyway
+42,160.0,100.77,Taiwan,East Asia,coarse-flyway
+42,170.0,85.48,Taiwan,East Asia,coarse-flyway
+42,0.0,68.1,Taiwan,East Asia,coarse-flyway
+43,0.0,55.88,Denmark,Europe (no direction data),radar
+43,10.0,41.96,Denmark,Europe (no direction data),radar
+43,20.0,28.51,Denmark,Europe (no direction data),radar
+43,30.0,17.15,Denmark,Europe (no direction data),radar
+43,40.0,9.24,Denmark,Europe (no direction data),radar
+43,50.0,5.75,Denmark,Europe (no direction data),radar
+43,60.0,7.08,Denmark,Europe (no direction data),radar
+43,70.0,13.09,Denmark,Europe (no direction data),radar
+43,80.0,23.05,Denmark,Europe (no direction data),radar
+43,90.0,35.75,Denmark,Europe (no direction data),radar
+43,100.0,49.67,Denmark,Europe (no direction data),radar
+43,110.0,63.12,Denmark,Europe (no direction data),radar
+43,120.0,74.49,Denmark,Europe (no direction data),radar
+43,130.0,82.39,Denmark,Europe (no direction data),radar
+43,140.0,85.89,Denmark,Europe (no direction data),radar
+43,150.0,84.55,Denmark,Europe (no direction data),radar
+43,160.0,78.54,Denmark,Europe (no direction data),radar
+43,170.0,68.58,Denmark,Europe (no direction data),radar
+43,0.0,55.88,Denmark,Europe (no direction data),radar
+44,0.0,93.51,China,East Asia,coarse-flyway
+44,10.0,76.92,China,East Asia,coarse-flyway
+44,20.0,59.27,China,East Asia,coarse-flyway
+44,30.0,42.68,China,East Asia,coarse-flyway
+44,40.0,29.16,China,East Asia,coarse-flyway
+44,50.0,20.33,China,East Asia,coarse-flyway
+44,60.0,17.27,China,East Asia,coarse-flyway
+44,70.0,20.33,China,East Asia,coarse-flyway
+44,80.0,29.16,China,East Asia,coarse-flyway
+44,90.0,42.68,China,East Asia,coarse-flyway
+44,100.0,59.27,China,East Asia,coarse-flyway
+44,110.0,76.92,China,East Asia,coarse-flyway
+44,120.0,93.51,China,East Asia,coarse-flyway
+44,130.0,107.03,China,East Asia,coarse-flyway
+44,140.0,115.86,China,East Asia,coarse-flyway
+44,150.0,118.93,China,East Asia,coarse-flyway
+44,160.0,115.86,China,East Asia,coarse-flyway
+44,170.0,107.03,China,East Asia,coarse-flyway
+44,0.0,93.51,China,East Asia,coarse-flyway
+45,0.0,93.51,China,East Asia,coarse-flyway
+45,10.0,76.92,China,East Asia,coarse-flyway
+45,20.0,59.27,China,East Asia,coarse-flyway
+45,30.0,42.68,China,East Asia,coarse-flyway
+45,40.0,29.16,China,East Asia,coarse-flyway
+45,50.0,20.33,China,East Asia,coarse-flyway
+45,60.0,17.27,China,East Asia,coarse-flyway
+45,70.0,20.33,China,East Asia,coarse-flyway
+45,80.0,29.16,China,East Asia,coarse-flyway
+45,90.0,42.68,China,East Asia,coarse-flyway
+45,100.0,59.27,China,East Asia,coarse-flyway
+45,110.0,76.92,China,East Asia,coarse-flyway
+45,120.0,93.51,China,East Asia,coarse-flyway
+45,130.0,107.03,China,East Asia,coarse-flyway
+45,140.0,115.86,China,East Asia,coarse-flyway
+45,150.0,118.93,China,East Asia,coarse-flyway
+45,160.0,115.86,China,East Asia,coarse-flyway
+45,170.0,107.03,China,East Asia,coarse-flyway
+45,0.0,93.51,China,East Asia,coarse-flyway
+46,0.0,93.51,China,East Asia,coarse-flyway
+46,10.0,76.92,China,East Asia,coarse-flyway
+46,20.0,59.27,China,East Asia,coarse-flyway
+46,30.0,42.68,China,East Asia,coarse-flyway
+46,40.0,29.16,China,East Asia,coarse-flyway
+46,50.0,20.33,China,East Asia,coarse-flyway
+46,60.0,17.27,China,East Asia,coarse-flyway
+46,70.0,20.33,China,East Asia,coarse-flyway
+46,80.0,29.16,China,East Asia,coarse-flyway
+46,90.0,42.68,China,East Asia,coarse-flyway
+46,100.0,59.27,China,East Asia,coarse-flyway
+46,110.0,76.92,China,East Asia,coarse-flyway
+46,120.0,93.51,China,East Asia,coarse-flyway
+46,130.0,107.03,China,East Asia,coarse-flyway
+46,140.0,115.86,China,East Asia,coarse-flyway
+46,150.0,118.93,China,East Asia,coarse-flyway
+46,160.0,115.86,China,East Asia,coarse-flyway
+46,170.0,107.03,China,East Asia,coarse-flyway
+46,0.0,93.51,China,East Asia,coarse-flyway
+47,0.0,93.51,China,East Asia,coarse-flyway
+47,10.0,76.92,China,East Asia,coarse-flyway
+47,20.0,59.27,China,East Asia,coarse-flyway
+47,30.0,42.68,China,East Asia,coarse-flyway
+47,40.0,29.16,China,East Asia,coarse-flyway
+47,50.0,20.33,China,East Asia,coarse-flyway
+47,60.0,17.27,China,East Asia,coarse-flyway
+47,70.0,20.33,China,East Asia,coarse-flyway
+47,80.0,29.16,China,East Asia,coarse-flyway
+47,90.0,42.68,China,East Asia,coarse-flyway
+47,100.0,59.27,China,East Asia,coarse-flyway
+47,110.0,76.92,China,East Asia,coarse-flyway
+47,120.0,93.51,China,East Asia,coarse-flyway
+47,130.0,107.03,China,East Asia,coarse-flyway
+47,140.0,115.86,China,East Asia,coarse-flyway
+47,150.0,118.93,China,East Asia,coarse-flyway
+47,160.0,115.86,China,East Asia,coarse-flyway
+47,170.0,107.03,China,East Asia,coarse-flyway
+47,0.0,93.51,China,East Asia,coarse-flyway
+48,0.0,272399.56,United Kingdom,Europe (direction data),radar
+48,10.0,191549.03,United Kingdom,Europe (direction data),radar
+48,20.0,117074.67,United Kingdom,Europe (direction data),radar
+48,30.0,57959.18,United Kingdom,Europe (direction data),radar
+48,40.0,21332.77,United Kingdom,Europe (direction data),radar
+48,50.0,11613.12,United Kingdom,Europe (direction data),radar
+48,60.0,29972.57,United Kingdom,Europe (direction data),radar
+48,70.0,74196.69,United Kingdom,Europe (direction data),radar
+48,80.0,138951.4,United Kingdom,Europe (direction data),radar
+48,90.0,216426.34,United Kingdom,Europe (direction data),radar
+48,100.0,297276.87,United Kingdom,Europe (direction data),radar
+48,110.0,371751.23,United Kingdom,Europe (direction data),radar
+48,120.0,430866.72,United Kingdom,Europe (direction data),radar
+48,130.0,467493.13,United Kingdom,Europe (direction data),radar
+48,140.0,477212.78,United Kingdom,Europe (direction data),radar
+48,150.0,458853.33,United Kingdom,Europe (direction data),radar
+48,160.0,414629.21,United Kingdom,Europe (direction data),radar
+48,170.0,349874.5,United Kingdom,Europe (direction data),radar
+48,0.0,272399.56,United Kingdom,Europe (direction data),radar
+49,0.0,272399.56,France,Europe (direction data),radar
+49,10.0,191549.03,France,Europe (direction data),radar
+49,20.0,117074.67,France,Europe (direction data),radar
+49,30.0,57959.18,France,Europe (direction data),radar
+49,40.0,21332.77,France,Europe (direction data),radar
+49,50.0,11613.12,France,Europe (direction data),radar
+49,60.0,29972.57,France,Europe (direction data),radar
+49,70.0,74196.69,France,Europe (direction data),radar
+49,80.0,138951.4,France,Europe (direction data),radar
+49,90.0,216426.34,France,Europe (direction data),radar
+49,100.0,297276.87,France,Europe (direction data),radar
+49,110.0,371751.23,France,Europe (direction data),radar
+49,120.0,430866.72,France,Europe (direction data),radar
+49,130.0,467493.13,France,Europe (direction data),radar
+49,140.0,477212.78,France,Europe (direction data),radar
+49,150.0,458853.33,France,Europe (direction data),radar
+49,160.0,414629.21,France,Europe (direction data),radar
+49,170.0,349874.5,France,Europe (direction data),radar
+49,0.0,272399.56,France,Europe (direction data),radar
+50,0.0,93.51,China,East Asia,coarse-flyway
+50,10.0,76.92,China,East Asia,coarse-flyway
+50,20.0,59.27,China,East Asia,coarse-flyway
+50,30.0,42.68,China,East Asia,coarse-flyway
+50,40.0,29.16,China,East Asia,coarse-flyway
+50,50.0,20.33,China,East Asia,coarse-flyway
+50,60.0,17.27,China,East Asia,coarse-flyway
+50,70.0,20.33,China,East Asia,coarse-flyway
+50,80.0,29.16,China,East Asia,coarse-flyway
+50,90.0,42.68,China,East Asia,coarse-flyway
+50,100.0,59.27,China,East Asia,coarse-flyway
+50,110.0,76.92,China,East Asia,coarse-flyway
+50,120.0,93.51,China,East Asia,coarse-flyway
+50,130.0,107.03,China,East Asia,coarse-flyway
+50,140.0,115.86,China,East Asia,coarse-flyway
+50,150.0,118.93,China,East Asia,coarse-flyway
+50,160.0,115.86,China,East Asia,coarse-flyway
+50,170.0,107.03,China,East Asia,coarse-flyway
+50,0.0,93.51,China,East Asia,coarse-flyway
+51,0.0,272399.56,United Kingdom,Europe (direction data),radar
+51,10.0,191549.03,United Kingdom,Europe (direction data),radar
+51,20.0,117074.67,United Kingdom,Europe (direction data),radar
+51,30.0,57959.18,United Kingdom,Europe (direction data),radar
+51,40.0,21332.77,United Kingdom,Europe (direction data),radar
+51,50.0,11613.12,United Kingdom,Europe (direction data),radar
+51,60.0,29972.57,United Kingdom,Europe (direction data),radar
+51,70.0,74196.69,United Kingdom,Europe (direction data),radar
+51,80.0,138951.4,United Kingdom,Europe (direction data),radar
+51,90.0,216426.34,United Kingdom,Europe (direction data),radar
+51,100.0,297276.87,United Kingdom,Europe (direction data),radar
+51,110.0,371751.23,United Kingdom,Europe (direction data),radar
+51,120.0,430866.72,United Kingdom,Europe (direction data),radar
+51,130.0,467493.13,United Kingdom,Europe (direction data),radar
+51,140.0,477212.78,United Kingdom,Europe (direction data),radar
+51,150.0,458853.33,United Kingdom,Europe (direction data),radar
+51,160.0,414629.21,United Kingdom,Europe (direction data),radar
+51,170.0,349874.5,United Kingdom,Europe (direction data),radar
+51,0.0,272399.56,United Kingdom,Europe (direction data),radar
+52,0.0,93.51,China,East Asia,coarse-flyway
+52,10.0,76.92,China,East Asia,coarse-flyway
+52,20.0,59.27,China,East Asia,coarse-flyway
+52,30.0,42.68,China,East Asia,coarse-flyway
+52,40.0,29.16,China,East Asia,coarse-flyway
+52,50.0,20.33,China,East Asia,coarse-flyway
+52,60.0,17.27,China,East Asia,coarse-flyway
+52,70.0,20.33,China,East Asia,coarse-flyway
+52,80.0,29.16,China,East Asia,coarse-flyway
+52,90.0,42.68,China,East Asia,coarse-flyway
+52,100.0,59.27,China,East Asia,coarse-flyway
+52,110.0,76.92,China,East Asia,coarse-flyway
+52,120.0,93.51,China,East Asia,coarse-flyway
+52,130.0,107.03,China,East Asia,coarse-flyway
+52,140.0,115.86,China,East Asia,coarse-flyway
+52,150.0,118.93,China,East Asia,coarse-flyway
+52,160.0,115.86,China,East Asia,coarse-flyway
+52,170.0,107.03,China,East Asia,coarse-flyway
+52,0.0,93.51,China,East Asia,coarse-flyway
+53,0.0,272399.56,United Kingdom,Europe (direction data),radar
+53,10.0,191549.03,United Kingdom,Europe (direction data),radar
+53,20.0,117074.67,United Kingdom,Europe (direction data),radar
+53,30.0,57959.18,United Kingdom,Europe (direction data),radar
+53,40.0,21332.77,United Kingdom,Europe (direction data),radar
+53,50.0,11613.12,United Kingdom,Europe (direction data),radar
+53,60.0,29972.57,United Kingdom,Europe (direction data),radar
+53,70.0,74196.69,United Kingdom,Europe (direction data),radar
+53,80.0,138951.4,United Kingdom,Europe (direction data),radar
+53,90.0,216426.34,United Kingdom,Europe (direction data),radar
+53,100.0,297276.87,United Kingdom,Europe (direction data),radar
+53,110.0,371751.23,United Kingdom,Europe (direction data),radar
+53,120.0,430866.72,United Kingdom,Europe (direction data),radar
+53,130.0,467493.13,United Kingdom,Europe (direction data),radar
+53,140.0,477212.78,United Kingdom,Europe (direction data),radar
+53,150.0,458853.33,United Kingdom,Europe (direction data),radar
+53,160.0,414629.21,United Kingdom,Europe (direction data),radar
+53,170.0,349874.5,United Kingdom,Europe (direction data),radar
+53,0.0,272399.56,United Kingdom,Europe (direction data),radar
+54,0.0,272399.56,Netherlands,Europe (direction data),radar
+54,10.0,191549.03,Netherlands,Europe (direction data),radar
+54,20.0,117074.67,Netherlands,Europe (direction data),radar
+54,30.0,57959.18,Netherlands,Europe (direction data),radar
+54,40.0,21332.77,Netherlands,Europe (direction data),radar
+54,50.0,11613.12,Netherlands,Europe (direction data),radar
+54,60.0,29972.57,Netherlands,Europe (direction data),radar
+54,70.0,74196.69,Netherlands,Europe (direction data),radar
+54,80.0,138951.4,Netherlands,Europe (direction data),radar
+54,90.0,216426.34,Netherlands,Europe (direction data),radar
+54,100.0,297276.87,Netherlands,Europe (direction data),radar
+54,110.0,371751.23,Netherlands,Europe (direction data),radar
+54,120.0,430866.72,Netherlands,Europe (direction data),radar
+54,130.0,467493.13,Netherlands,Europe (direction data),radar
+54,140.0,477212.78,Netherlands,Europe (direction data),radar
+54,150.0,458853.33,Netherlands,Europe (direction data),radar
+54,160.0,414629.21,Netherlands,Europe (direction data),radar
+54,170.0,349874.5,Netherlands,Europe (direction data),radar
+54,0.0,272399.56,Netherlands,Europe (direction data),radar
+55,0.0,272399.56,United Kingdom,Europe (direction data),radar
+55,10.0,191549.03,United Kingdom,Europe (direction data),radar
+55,20.0,117074.67,United Kingdom,Europe (direction data),radar
+55,30.0,57959.18,United Kingdom,Europe (direction data),radar
+55,40.0,21332.77,United Kingdom,Europe (direction data),radar
+55,50.0,11613.12,United Kingdom,Europe (direction data),radar
+55,60.0,29972.57,United Kingdom,Europe (direction data),radar
+55,70.0,74196.69,United Kingdom,Europe (direction data),radar
+55,80.0,138951.4,United Kingdom,Europe (direction data),radar
+55,90.0,216426.34,United Kingdom,Europe (direction data),radar
+55,100.0,297276.87,United Kingdom,Europe (direction data),radar
+55,110.0,371751.23,United Kingdom,Europe (direction data),radar
+55,120.0,430866.72,United Kingdom,Europe (direction data),radar
+55,130.0,467493.13,United Kingdom,Europe (direction data),radar
+55,140.0,477212.78,United Kingdom,Europe (direction data),radar
+55,150.0,458853.33,United Kingdom,Europe (direction data),radar
+55,160.0,414629.21,United Kingdom,Europe (direction data),radar
+55,170.0,349874.5,United Kingdom,Europe (direction data),radar
+55,0.0,272399.56,United Kingdom,Europe (direction data),radar
+56,0.0,93.51,Vietnam,East Asia,coarse-flyway
+56,10.0,76.92,Vietnam,East Asia,coarse-flyway
+56,20.0,59.27,Vietnam,East Asia,coarse-flyway
+56,30.0,42.68,Vietnam,East Asia,coarse-flyway
+56,40.0,29.16,Vietnam,East Asia,coarse-flyway
+56,50.0,20.33,Vietnam,East Asia,coarse-flyway
+56,60.0,17.27,Vietnam,East Asia,coarse-flyway
+56,70.0,20.33,Vietnam,East Asia,coarse-flyway
+56,80.0,29.16,Vietnam,East Asia,coarse-flyway
+56,90.0,42.68,Vietnam,East Asia,coarse-flyway
+56,100.0,59.27,Vietnam,East Asia,coarse-flyway
+56,110.0,76.92,Vietnam,East Asia,coarse-flyway
+56,120.0,93.51,Vietnam,East Asia,coarse-flyway
+56,130.0,107.03,Vietnam,East Asia,coarse-flyway
+56,140.0,115.86,Vietnam,East Asia,coarse-flyway
+56,150.0,118.93,Vietnam,East Asia,coarse-flyway
+56,160.0,115.86,Vietnam,East Asia,coarse-flyway
+56,170.0,107.03,Vietnam,East Asia,coarse-flyway
+56,0.0,93.51,Vietnam,East Asia,coarse-flyway
+57,0.0,93.51,Vietnam,East Asia,coarse-flyway
+57,10.0,76.92,Vietnam,East Asia,coarse-flyway
+57,20.0,59.27,Vietnam,East Asia,coarse-flyway
+57,30.0,42.68,Vietnam,East Asia,coarse-flyway
+57,40.0,29.16,Vietnam,East Asia,coarse-flyway
+57,50.0,20.33,Vietnam,East Asia,coarse-flyway
+57,60.0,17.27,Vietnam,East Asia,coarse-flyway
+57,70.0,20.33,Vietnam,East Asia,coarse-flyway
+57,80.0,29.16,Vietnam,East Asia,coarse-flyway
+57,90.0,42.68,Vietnam,East Asia,coarse-flyway
+57,100.0,59.27,Vietnam,East Asia,coarse-flyway
+57,110.0,76.92,Vietnam,East Asia,coarse-flyway
+57,120.0,93.51,Vietnam,East Asia,coarse-flyway
+57,130.0,107.03,Vietnam,East Asia,coarse-flyway
+57,140.0,115.86,Vietnam,East Asia,coarse-flyway
+57,150.0,118.93,Vietnam,East Asia,coarse-flyway
+57,160.0,115.86,Vietnam,East Asia,coarse-flyway
+57,170.0,107.03,Vietnam,East Asia,coarse-flyway
+57,0.0,93.51,Vietnam,East Asia,coarse-flyway
+58,0.0,59.9,France,Europe (no direction data),radar
+58,10.0,46.94,France,Europe (no direction data),radar
+58,20.0,33.59,France,Europe (no direction data),radar
+58,30.0,21.47,France,Europe (no direction data),radar
+58,40.0,12.04,France,Europe (no direction data),radar
+58,50.0,6.44,France,Europe (no direction data),radar
+58,60.0,5.34,France,Europe (no direction data),radar
+58,70.0,8.88,France,Europe (no direction data),radar
+58,80.0,16.63,France,Europe (no direction data),radar
+58,90.0,27.65,France,Europe (no direction data),radar
+58,100.0,40.61,France,Europe (no direction data),radar
+58,110.0,53.96,France,Europe (no direction data),radar
+58,120.0,66.08,France,Europe (no direction data),radar
+58,130.0,75.5,France,Europe (no direction data),radar
+58,140.0,81.11,France,Europe (no direction data),radar
+58,150.0,82.2,France,Europe (no direction data),radar
+58,160.0,78.67,France,Europe (no direction data),radar
+58,170.0,70.92,France,Europe (no direction data),radar
+58,0.0,59.9,France,Europe (no direction data),radar
+59,0.0,272399.56,Denmark,Europe (direction data),radar
+59,10.0,191549.03,Denmark,Europe (direction data),radar
+59,20.0,117074.67,Denmark,Europe (direction data),radar
+59,30.0,57959.18,Denmark,Europe (direction data),radar
+59,40.0,21332.77,Denmark,Europe (direction data),radar
+59,50.0,11613.12,Denmark,Europe (direction data),radar
+59,60.0,29972.57,Denmark,Europe (direction data),radar
+59,70.0,74196.69,Denmark,Europe (direction data),radar
+59,80.0,138951.4,Denmark,Europe (direction data),radar
+59,90.0,216426.34,Denmark,Europe (direction data),radar
+59,100.0,297276.87,Denmark,Europe (direction data),radar
+59,110.0,371751.23,Denmark,Europe (direction data),radar
+59,120.0,430866.72,Denmark,Europe (direction data),radar
+59,130.0,467493.13,Denmark,Europe (direction data),radar
+59,140.0,477212.78,Denmark,Europe (direction data),radar
+59,150.0,458853.33,Denmark,Europe (direction data),radar
+59,160.0,414629.21,Denmark,Europe (direction data),radar
+59,170.0,349874.5,Denmark,Europe (direction data),radar
+59,0.0,272399.56,Denmark,Europe (direction data),radar
+60,0.0,272399.56,Denmark,Europe (direction data),radar
+60,10.0,191549.03,Denmark,Europe (direction data),radar
+60,20.0,117074.67,Denmark,Europe (direction data),radar
+60,30.0,57959.18,Denmark,Europe (direction data),radar
+60,40.0,21332.77,Denmark,Europe (direction data),radar
+60,50.0,11613.12,Denmark,Europe (direction data),radar
+60,60.0,29972.57,Denmark,Europe (direction data),radar
+60,70.0,74196.69,Denmark,Europe (direction data),radar
+60,80.0,138951.4,Denmark,Europe (direction data),radar
+60,90.0,216426.34,Denmark,Europe (direction data),radar
+60,100.0,297276.87,Denmark,Europe (direction data),radar
+60,110.0,371751.23,Denmark,Europe (direction data),radar
+60,120.0,430866.72,Denmark,Europe (direction data),radar
+60,130.0,467493.13,Denmark,Europe (direction data),radar
+60,140.0,477212.78,Denmark,Europe (direction data),radar
+60,150.0,458853.33,Denmark,Europe (direction data),radar
+60,160.0,414629.21,Denmark,Europe (direction data),radar
+60,170.0,349874.5,Denmark,Europe (direction data),radar
+60,0.0,272399.56,Denmark,Europe (direction data),radar
+61,0.0,272399.56,Denmark,Europe (direction data),radar
+61,10.0,191549.03,Denmark,Europe (direction data),radar
+61,20.0,117074.67,Denmark,Europe (direction data),radar
+61,30.0,57959.18,Denmark,Europe (direction data),radar
+61,40.0,21332.77,Denmark,Europe (direction data),radar
+61,50.0,11613.12,Denmark,Europe (direction data),radar
+61,60.0,29972.57,Denmark,Europe (direction data),radar
+61,70.0,74196.69,Denmark,Europe (direction data),radar
+61,80.0,138951.4,Denmark,Europe (direction data),radar
+61,90.0,216426.34,Denmark,Europe (direction data),radar
+61,100.0,297276.87,Denmark,Europe (direction data),radar
+61,110.0,371751.23,Denmark,Europe (direction data),radar
+61,120.0,430866.72,Denmark,Europe (direction data),radar
+61,130.0,467493.13,Denmark,Europe (direction data),radar
+61,140.0,477212.78,Denmark,Europe (direction data),radar
+61,150.0,458853.33,Denmark,Europe (direction data),radar
+61,160.0,414629.21,Denmark,Europe (direction data),radar
+61,170.0,349874.5,Denmark,Europe (direction data),radar
+61,0.0,272399.56,Denmark,Europe (direction data),radar
+62,0.0,68.1,Taiwan,East Asia,coarse-flyway
+62,10.0,50.71,Taiwan,East Asia,coarse-flyway
+62,20.0,35.43,Taiwan,East Asia,coarse-flyway
+62,30.0,24.08,Taiwan,East Asia,coarse-flyway
+62,40.0,18.04,Taiwan,East Asia,coarse-flyway
+62,50.0,18.04,Taiwan,East Asia,coarse-flyway
+62,60.0,24.08,Taiwan,East Asia,coarse-flyway
+62,70.0,35.43,Taiwan,East Asia,coarse-flyway
+62,80.0,50.71,Taiwan,East Asia,coarse-flyway
+62,90.0,68.1,Taiwan,East Asia,coarse-flyway
+62,100.0,85.48,Taiwan,East Asia,coarse-flyway
+62,110.0,100.77,Taiwan,East Asia,coarse-flyway
+62,120.0,112.12,Taiwan,East Asia,coarse-flyway
+62,130.0,118.15,Taiwan,East Asia,coarse-flyway
+62,140.0,118.15,Taiwan,East Asia,coarse-flyway
+62,150.0,112.12,Taiwan,East Asia,coarse-flyway
+62,160.0,100.77,Taiwan,East Asia,coarse-flyway
+62,170.0,85.48,Taiwan,East Asia,coarse-flyway
+62,0.0,68.1,Taiwan,East Asia,coarse-flyway
+63,0.0,93.51,China,East Asia,coarse-flyway
+63,10.0,76.92,China,East Asia,coarse-flyway
+63,20.0,59.27,China,East Asia,coarse-flyway
+63,30.0,42.68,China,East Asia,coarse-flyway
+63,40.0,29.16,China,East Asia,coarse-flyway
+63,50.0,20.33,China,East Asia,coarse-flyway
+63,60.0,17.27,China,East Asia,coarse-flyway
+63,70.0,20.33,China,East Asia,coarse-flyway
+63,80.0,29.16,China,East Asia,coarse-flyway
+63,90.0,42.68,China,East Asia,coarse-flyway
+63,100.0,59.27,China,East Asia,coarse-flyway
+63,110.0,76.92,China,East Asia,coarse-flyway
+63,120.0,93.51,China,East Asia,coarse-flyway
+63,130.0,107.03,China,East Asia,coarse-flyway
+63,140.0,115.86,China,East Asia,coarse-flyway
+63,150.0,118.93,China,East Asia,coarse-flyway
+63,160.0,115.86,China,East Asia,coarse-flyway
+63,170.0,107.03,China,East Asia,coarse-flyway
+63,0.0,93.51,China,East Asia,coarse-flyway
+64,0.0,93.51,Vietnam,East Asia,coarse-flyway
+64,10.0,76.92,Vietnam,East Asia,coarse-flyway
+64,20.0,59.27,Vietnam,East Asia,coarse-flyway
+64,30.0,42.68,Vietnam,East Asia,coarse-flyway
+64,40.0,29.16,Vietnam,East Asia,coarse-flyway
+64,50.0,20.33,Vietnam,East Asia,coarse-flyway
+64,60.0,17.27,Vietnam,East Asia,coarse-flyway
+64,70.0,20.33,Vietnam,East Asia,coarse-flyway
+64,80.0,29.16,Vietnam,East Asia,coarse-flyway
+64,90.0,42.68,Vietnam,East Asia,coarse-flyway
+64,100.0,59.27,Vietnam,East Asia,coarse-flyway
+64,110.0,76.92,Vietnam,East Asia,coarse-flyway
+64,120.0,93.51,Vietnam,East Asia,coarse-flyway
+64,130.0,107.03,Vietnam,East Asia,coarse-flyway
+64,140.0,115.86,Vietnam,East Asia,coarse-flyway
+64,150.0,118.93,Vietnam,East Asia,coarse-flyway
+64,160.0,115.86,Vietnam,East Asia,coarse-flyway
+64,170.0,107.03,Vietnam,East Asia,coarse-flyway
+64,0.0,93.51,Vietnam,East Asia,coarse-flyway
+65,0.0,272399.56,Netherlands,Europe (direction data),radar
+65,10.0,191549.03,Netherlands,Europe (direction data),radar
+65,20.0,117074.67,Netherlands,Europe (direction data),radar
+65,30.0,57959.18,Netherlands,Europe (direction data),radar
+65,40.0,21332.77,Netherlands,Europe (direction data),radar
+65,50.0,11613.12,Netherlands,Europe (direction data),radar
+65,60.0,29972.57,Netherlands,Europe (direction data),radar
+65,70.0,74196.69,Netherlands,Europe (direction data),radar
+65,80.0,138951.4,Netherlands,Europe (direction data),radar
+65,90.0,216426.34,Netherlands,Europe (direction data),radar
+65,100.0,297276.87,Netherlands,Europe (direction data),radar
+65,110.0,371751.23,Netherlands,Europe (direction data),radar
+65,120.0,430866.72,Netherlands,Europe (direction data),radar
+65,130.0,467493.13,Netherlands,Europe (direction data),radar
+65,140.0,477212.78,Netherlands,Europe (direction data),radar
+65,150.0,458853.33,Netherlands,Europe (direction data),radar
+65,160.0,414629.21,Netherlands,Europe (direction data),radar
+65,170.0,349874.5,Netherlands,Europe (direction data),radar
+65,0.0,272399.56,Netherlands,Europe (direction data),radar
+66,0.0,93.51,China,East Asia,coarse-flyway
+66,10.0,76.92,China,East Asia,coarse-flyway
+66,20.0,59.27,China,East Asia,coarse-flyway
+66,30.0,42.68,China,East Asia,coarse-flyway
+66,40.0,29.16,China,East Asia,coarse-flyway
+66,50.0,20.33,China,East Asia,coarse-flyway
+66,60.0,17.27,China,East Asia,coarse-flyway
+66,70.0,20.33,China,East Asia,coarse-flyway
+66,80.0,29.16,China,East Asia,coarse-flyway
+66,90.0,42.68,China,East Asia,coarse-flyway
+66,100.0,59.27,China,East Asia,coarse-flyway
+66,110.0,76.92,China,East Asia,coarse-flyway
+66,120.0,93.51,China,East Asia,coarse-flyway
+66,130.0,107.03,China,East Asia,coarse-flyway
+66,140.0,115.86,China,East Asia,coarse-flyway
+66,150.0,118.93,China,East Asia,coarse-flyway
+66,160.0,115.86,China,East Asia,coarse-flyway
+66,170.0,107.03,China,East Asia,coarse-flyway
+66,0.0,93.51,China,East Asia,coarse-flyway
+67,0.0,43.64,United Kingdom,Europe (direction data),radar
+67,10.0,30.52,United Kingdom,Europe (direction data),radar
+67,20.0,19.0,United Kingdom,Europe (direction data),radar
+67,30.0,10.47,United Kingdom,Europe (direction data),radar
+67,40.0,5.95,United Kingdom,Europe (direction data),radar
+67,50.0,6.0,United Kingdom,Europe (direction data),radar
+67,60.0,10.6,United Kingdom,Europe (direction data),radar
+67,70.0,19.21,United Kingdom,Europe (direction data),radar
+67,80.0,30.77,United Kingdom,Europe (direction data),radar
+67,90.0,43.91,United Kingdom,Europe (direction data),radar
+67,100.0,57.03,United Kingdom,Europe (direction data),radar
+67,110.0,68.55,United Kingdom,Europe (direction data),radar
+67,120.0,77.08,United Kingdom,Europe (direction data),radar
+67,130.0,81.59,United Kingdom,Europe (direction data),radar
+67,140.0,81.55,United Kingdom,Europe (direction data),radar
+67,150.0,76.94,United Kingdom,Europe (direction data),radar
+67,160.0,68.34,United Kingdom,Europe (direction data),radar
+67,170.0,56.77,United Kingdom,Europe (direction data),radar
+67,0.0,43.64,United Kingdom,Europe (direction data),radar
+68,0.0,272399.56,Denmark,Europe (direction data),radar
+68,10.0,191549.03,Denmark,Europe (direction data),radar
+68,20.0,117074.67,Denmark,Europe (direction data),radar
+68,30.0,57959.18,Denmark,Europe (direction data),radar
+68,40.0,21332.77,Denmark,Europe (direction data),radar
+68,50.0,11613.12,Denmark,Europe (direction data),radar
+68,60.0,29972.57,Denmark,Europe (direction data),radar
+68,70.0,74196.69,Denmark,Europe (direction data),radar
+68,80.0,138951.4,Denmark,Europe (direction data),radar
+68,90.0,216426.34,Denmark,Europe (direction data),radar
+68,100.0,297276.87,Denmark,Europe (direction data),radar
+68,110.0,371751.23,Denmark,Europe (direction data),radar
+68,120.0,430866.72,Denmark,Europe (direction data),radar
+68,130.0,467493.13,Denmark,Europe (direction data),radar
+68,140.0,477212.78,Denmark,Europe (direction data),radar
+68,150.0,458853.33,Denmark,Europe (direction data),radar
+68,160.0,414629.21,Denmark,Europe (direction data),radar
+68,170.0,349874.5,Denmark,Europe (direction data),radar
+68,0.0,272399.56,Denmark,Europe (direction data),radar
+69,0.0,46.79,France,Europe (direction data),radar
+69,10.0,33.51,France,Europe (direction data),radar
+69,20.0,21.46,France,Europe (direction data),radar
+69,30.0,12.11,France,Europe (direction data),radar
+69,40.0,6.58,France,Europe (direction data),radar
+69,50.0,5.53,France,Europe (direction data),radar
+69,60.0,9.1,France,Europe (direction data),radar
+69,70.0,16.85,France,Europe (direction data),radar
+69,80.0,27.84,France,Europe (direction data),radar
+69,90.0,40.76,France,Europe (direction data),radar
+69,100.0,54.04,France,Europe (direction data),radar
+69,110.0,66.08,France,Europe (direction data),radar
+69,120.0,75.43,France,Europe (direction data),radar
+69,130.0,80.97,France,Europe (direction data),radar
+69,140.0,82.01,France,Europe (direction data),radar
+69,150.0,78.45,France,Europe (direction data),radar
+69,160.0,70.7,France,Europe (direction data),radar
+69,170.0,59.7,France,Europe (direction data),radar
+69,0.0,46.79,France,Europe (direction data),radar
+70,0.0,93.51,China,East Asia,coarse-flyway
+70,10.0,76.92,China,East Asia,coarse-flyway
+70,20.0,59.27,China,East Asia,coarse-flyway
+70,30.0,42.68,China,East Asia,coarse-flyway
+70,40.0,29.16,China,East Asia,coarse-flyway
+70,50.0,20.33,China,East Asia,coarse-flyway
+70,60.0,17.27,China,East Asia,coarse-flyway
+70,70.0,20.33,China,East Asia,coarse-flyway
+70,80.0,29.16,China,East Asia,coarse-flyway
+70,90.0,42.68,China,East Asia,coarse-flyway
+70,100.0,59.27,China,East Asia,coarse-flyway
+70,110.0,76.92,China,East Asia,coarse-flyway
+70,120.0,93.51,China,East Asia,coarse-flyway
+70,130.0,107.03,China,East Asia,coarse-flyway
+70,140.0,115.86,China,East Asia,coarse-flyway
+70,150.0,118.93,China,East Asia,coarse-flyway
+70,160.0,115.86,China,East Asia,coarse-flyway
+70,170.0,107.03,China,East Asia,coarse-flyway
+70,0.0,93.51,China,East Asia,coarse-flyway
+71,0.0,68.1,Taiwan,East Asia,coarse-flyway
+71,10.0,50.71,Taiwan,East Asia,coarse-flyway
+71,20.0,35.43,Taiwan,East Asia,coarse-flyway
+71,30.0,24.08,Taiwan,East Asia,coarse-flyway
+71,40.0,18.04,Taiwan,East Asia,coarse-flyway
+71,50.0,18.04,Taiwan,East Asia,coarse-flyway
+71,60.0,24.08,Taiwan,East Asia,coarse-flyway
+71,70.0,35.43,Taiwan,East Asia,coarse-flyway
+71,80.0,50.71,Taiwan,East Asia,coarse-flyway
+71,90.0,68.1,Taiwan,East Asia,coarse-flyway
+71,100.0,85.48,Taiwan,East Asia,coarse-flyway
+71,110.0,100.77,Taiwan,East Asia,coarse-flyway
+71,120.0,112.12,Taiwan,East Asia,coarse-flyway
+71,130.0,118.15,Taiwan,East Asia,coarse-flyway
+71,140.0,118.15,Taiwan,East Asia,coarse-flyway
+71,150.0,112.12,Taiwan,East Asia,coarse-flyway
+71,160.0,100.77,Taiwan,East Asia,coarse-flyway
+71,170.0,85.48,Taiwan,East Asia,coarse-flyway
+71,0.0,68.1,Taiwan,East Asia,coarse-flyway
+72,0.0,93.51,China,East Asia,coarse-flyway
+72,10.0,76.92,China,East Asia,coarse-flyway
+72,20.0,59.27,China,East Asia,coarse-flyway
+72,30.0,42.68,China,East Asia,coarse-flyway
+72,40.0,29.16,China,East Asia,coarse-flyway
+72,50.0,20.33,China,East Asia,coarse-flyway
+72,60.0,17.27,China,East Asia,coarse-flyway
+72,70.0,20.33,China,East Asia,coarse-flyway
+72,80.0,29.16,China,East Asia,coarse-flyway
+72,90.0,42.68,China,East Asia,coarse-flyway
+72,100.0,59.27,China,East Asia,coarse-flyway
+72,110.0,76.92,China,East Asia,coarse-flyway
+72,120.0,93.51,China,East Asia,coarse-flyway
+72,130.0,107.03,China,East Asia,coarse-flyway
+72,140.0,115.86,China,East Asia,coarse-flyway
+72,150.0,118.93,China,East Asia,coarse-flyway
+72,160.0,115.86,China,East Asia,coarse-flyway
+72,170.0,107.03,China,East Asia,coarse-flyway
+72,0.0,93.51,China,East Asia,coarse-flyway
+73,0.0,272399.56,United Kingdom,Europe (direction data),radar
+73,10.0,191549.03,United Kingdom,Europe (direction data),radar
+73,20.0,117074.67,United Kingdom,Europe (direction data),radar
+73,30.0,57959.18,United Kingdom,Europe (direction data),radar
+73,40.0,21332.77,United Kingdom,Europe (direction data),radar
+73,50.0,11613.12,United Kingdom,Europe (direction data),radar
+73,60.0,29972.57,United Kingdom,Europe (direction data),radar
+73,70.0,74196.69,United Kingdom,Europe (direction data),radar
+73,80.0,138951.4,United Kingdom,Europe (direction data),radar
+73,90.0,216426.34,United Kingdom,Europe (direction data),radar
+73,100.0,297276.87,United Kingdom,Europe (direction data),radar
+73,110.0,371751.23,United Kingdom,Europe (direction data),radar
+73,120.0,430866.72,United Kingdom,Europe (direction data),radar
+73,130.0,467493.13,United Kingdom,Europe (direction data),radar
+73,140.0,477212.78,United Kingdom,Europe (direction data),radar
+73,150.0,458853.33,United Kingdom,Europe (direction data),radar
+73,160.0,414629.21,United Kingdom,Europe (direction data),radar
+73,170.0,349874.5,United Kingdom,Europe (direction data),radar
+73,0.0,272399.56,United Kingdom,Europe (direction data),radar
+74,0.0,93.51,China,East Asia,coarse-flyway
+74,10.0,76.92,China,East Asia,coarse-flyway
+74,20.0,59.27,China,East Asia,coarse-flyway
+74,30.0,42.68,China,East Asia,coarse-flyway
+74,40.0,29.16,China,East Asia,coarse-flyway
+74,50.0,20.33,China,East Asia,coarse-flyway
+74,60.0,17.27,China,East Asia,coarse-flyway
+74,70.0,20.33,China,East Asia,coarse-flyway
+74,80.0,29.16,China,East Asia,coarse-flyway
+74,90.0,42.68,China,East Asia,coarse-flyway
+74,100.0,59.27,China,East Asia,coarse-flyway
+74,110.0,76.92,China,East Asia,coarse-flyway
+74,120.0,93.51,China,East Asia,coarse-flyway
+74,130.0,107.03,China,East Asia,coarse-flyway
+74,140.0,115.86,China,East Asia,coarse-flyway
+74,150.0,118.93,China,East Asia,coarse-flyway
+74,160.0,115.86,China,East Asia,coarse-flyway
+74,170.0,107.03,China,East Asia,coarse-flyway
+74,0.0,93.51,China,East Asia,coarse-flyway
+75,0.0,56.14,France,Europe (no direction data),radar
+75,10.0,42.9,France,Europe (no direction data),radar
+75,20.0,29.76,France,Europe (no direction data),radar
+75,30.0,18.32,France,Europe (no direction data),radar
+75,40.0,9.95,France,Europe (no direction data),radar
+75,50.0,5.65,France,Europe (no direction data),radar
+75,60.0,5.96,France,Europe (no direction data),radar
+75,70.0,10.82,France,Europe (no direction data),radar
+75,80.0,19.66,France,Europe (no direction data),radar
+75,90.0,31.41,France,Europe (no direction data),radar
+75,100.0,44.65,France,Europe (no direction data),radar
+75,110.0,57.78,France,Europe (no direction data),radar
+75,120.0,69.23,France,Europe (no direction data),radar
+75,130.0,77.6,France,Europe (no direction data),radar
+75,140.0,81.89,France,Europe (no direction data),radar
+75,150.0,81.59,France,Europe (no direction data),radar
+75,160.0,76.73,France,Europe (no direction data),radar
+75,170.0,67.89,France,Europe (no direction data),radar
+75,0.0,56.14,France,Europe (no direction data),radar
+76,0.0,93.51,China,East Asia,coarse-flyway
+76,10.0,76.92,China,East Asia,coarse-flyway
+76,20.0,59.27,China,East Asia,coarse-flyway
+76,30.0,42.68,China,East Asia,coarse-flyway
+76,40.0,29.16,China,East Asia,coarse-flyway
+76,50.0,20.33,China,East Asia,coarse-flyway
+76,60.0,17.27,China,East Asia,coarse-flyway
+76,70.0,20.33,China,East Asia,coarse-flyway
+76,80.0,29.16,China,East Asia,coarse-flyway
+76,90.0,42.68,China,East Asia,coarse-flyway
+76,100.0,59.27,China,East Asia,coarse-flyway
+76,110.0,76.92,China,East Asia,coarse-flyway
+76,120.0,93.51,China,East Asia,coarse-flyway
+76,130.0,107.03,China,East Asia,coarse-flyway
+76,140.0,115.86,China,East Asia,coarse-flyway
+76,150.0,118.93,China,East Asia,coarse-flyway
+76,160.0,115.86,China,East Asia,coarse-flyway
+76,170.0,107.03,China,East Asia,coarse-flyway
+76,0.0,93.51,China,East Asia,coarse-flyway
+77,0.0,93.51,China,East Asia,coarse-flyway
+77,10.0,76.92,China,East Asia,coarse-flyway
+77,20.0,59.27,China,East Asia,coarse-flyway
+77,30.0,42.68,China,East Asia,coarse-flyway
+77,40.0,29.16,China,East Asia,coarse-flyway
+77,50.0,20.33,China,East Asia,coarse-flyway
+77,60.0,17.27,China,East Asia,coarse-flyway
+77,70.0,20.33,China,East Asia,coarse-flyway
+77,80.0,29.16,China,East Asia,coarse-flyway
+77,90.0,42.68,China,East Asia,coarse-flyway
+77,100.0,59.27,China,East Asia,coarse-flyway
+77,110.0,76.92,China,East Asia,coarse-flyway
+77,120.0,93.51,China,East Asia,coarse-flyway
+77,130.0,107.03,China,East Asia,coarse-flyway
+77,140.0,115.86,China,East Asia,coarse-flyway
+77,150.0,118.93,China,East Asia,coarse-flyway
+77,160.0,115.86,China,East Asia,coarse-flyway
+77,170.0,107.03,China,East Asia,coarse-flyway
+77,0.0,93.51,China,East Asia,coarse-flyway
+78,0.0,93.51,China,East Asia,coarse-flyway
+78,10.0,76.92,China,East Asia,coarse-flyway
+78,20.0,59.27,China,East Asia,coarse-flyway
+78,30.0,42.68,China,East Asia,coarse-flyway
+78,40.0,29.16,China,East Asia,coarse-flyway
+78,50.0,20.33,China,East Asia,coarse-flyway
+78,60.0,17.27,China,East Asia,coarse-flyway
+78,70.0,20.33,China,East Asia,coarse-flyway
+78,80.0,29.16,China,East Asia,coarse-flyway
+78,90.0,42.68,China,East Asia,coarse-flyway
+78,100.0,59.27,China,East Asia,coarse-flyway
+78,110.0,76.92,China,East Asia,coarse-flyway
+78,120.0,93.51,China,East Asia,coarse-flyway
+78,130.0,107.03,China,East Asia,coarse-flyway
+78,140.0,115.86,China,East Asia,coarse-flyway
+78,150.0,118.93,China,East Asia,coarse-flyway
+78,160.0,115.86,China,East Asia,coarse-flyway
+78,170.0,107.03,China,East Asia,coarse-flyway
+78,0.0,93.51,China,East Asia,coarse-flyway
+79,0.0,93.51,China,East Asia,coarse-flyway
+79,10.0,76.92,China,East Asia,coarse-flyway
+79,20.0,59.27,China,East Asia,coarse-flyway
+79,30.0,42.68,China,East Asia,coarse-flyway
+79,40.0,29.16,China,East Asia,coarse-flyway
+79,50.0,20.33,China,East Asia,coarse-flyway
+79,60.0,17.27,China,East Asia,coarse-flyway
+79,70.0,20.33,China,East Asia,coarse-flyway
+79,80.0,29.16,China,East Asia,coarse-flyway
+79,90.0,42.68,China,East Asia,coarse-flyway
+79,100.0,59.27,China,East Asia,coarse-flyway
+79,110.0,76.92,China,East Asia,coarse-flyway
+79,120.0,93.51,China,East Asia,coarse-flyway
+79,130.0,107.03,China,East Asia,coarse-flyway
+79,140.0,115.86,China,East Asia,coarse-flyway
+79,150.0,118.93,China,East Asia,coarse-flyway
+79,160.0,115.86,China,East Asia,coarse-flyway
+79,170.0,107.03,China,East Asia,coarse-flyway
+79,0.0,93.51,China,East Asia,coarse-flyway
+80,0.0,51.26,United Kingdom,Europe (no direction data),radar
+80,10.0,37.88,United Kingdom,Europe (no direction data),radar
+80,20.0,25.22,United Kingdom,Europe (no direction data),radar
+80,30.0,14.79,United Kingdom,Europe (no direction data),radar
+80,40.0,7.86,United Kingdom,Europe (no direction data),radar
+80,50.0,5.26,United Kingdom,Europe (no direction data),radar
+80,60.0,7.31,United Kingdom,Europe (no direction data),radar
+80,70.0,13.76,United Kingdom,Europe (no direction data),radar
+80,80.0,23.82,United Kingdom,Europe (no direction data),radar
+80,90.0,36.29,United Kingdom,Europe (no direction data),radar
+80,100.0,49.67,United Kingdom,Europe (no direction data),radar
+80,110.0,62.33,United Kingdom,Europe (no direction data),radar
+80,120.0,72.75,United Kingdom,Europe (no direction data),radar
+80,130.0,79.68,United Kingdom,Europe (no direction data),radar
+80,140.0,82.28,United Kingdom,Europe (no direction data),radar
+80,150.0,80.24,United Kingdom,Europe (no direction data),radar
+80,160.0,73.79,United Kingdom,Europe (no direction data),radar
+80,170.0,63.73,United Kingdom,Europe (no direction data),radar
+80,0.0,51.26,United Kingdom,Europe (no direction data),radar
+81,0.0,93.51,China,East Asia,coarse-flyway
+81,10.0,76.92,China,East Asia,coarse-flyway
+81,20.0,59.27,China,East Asia,coarse-flyway
+81,30.0,42.68,China,East Asia,coarse-flyway
+81,40.0,29.16,China,East Asia,coarse-flyway
+81,50.0,20.33,China,East Asia,coarse-flyway
+81,60.0,17.27,China,East Asia,coarse-flyway
+81,70.0,20.33,China,East Asia,coarse-flyway
+81,80.0,29.16,China,East Asia,coarse-flyway
+81,90.0,42.68,China,East Asia,coarse-flyway
+81,100.0,59.27,China,East Asia,coarse-flyway
+81,110.0,76.92,China,East Asia,coarse-flyway
+81,120.0,93.51,China,East Asia,coarse-flyway
+81,130.0,107.03,China,East Asia,coarse-flyway
+81,140.0,115.86,China,East Asia,coarse-flyway
+81,150.0,118.93,China,East Asia,coarse-flyway
+81,160.0,115.86,China,East Asia,coarse-flyway
+81,170.0,107.03,China,East Asia,coarse-flyway
+81,0.0,93.51,China,East Asia,coarse-flyway
+82,0.0,93.51,China,East Asia,coarse-flyway
+82,10.0,76.92,China,East Asia,coarse-flyway
+82,20.0,59.27,China,East Asia,coarse-flyway
+82,30.0,42.68,China,East Asia,coarse-flyway
+82,40.0,29.16,China,East Asia,coarse-flyway
+82,50.0,20.33,China,East Asia,coarse-flyway
+82,60.0,17.27,China,East Asia,coarse-flyway
+82,70.0,20.33,China,East Asia,coarse-flyway
+82,80.0,29.16,China,East Asia,coarse-flyway
+82,90.0,42.68,China,East Asia,coarse-flyway
+82,100.0,59.27,China,East Asia,coarse-flyway
+82,110.0,76.92,China,East Asia,coarse-flyway
+82,120.0,93.51,China,East Asia,coarse-flyway
+82,130.0,107.03,China,East Asia,coarse-flyway
+82,140.0,115.86,China,East Asia,coarse-flyway
+82,150.0,118.93,China,East Asia,coarse-flyway
+82,160.0,115.86,China,East Asia,coarse-flyway
+82,170.0,107.03,China,East Asia,coarse-flyway
+82,0.0,93.51,China,East Asia,coarse-flyway
+83,0.0,51.26,United Kingdom,Europe (no direction data),radar
+83,10.0,37.88,United Kingdom,Europe (no direction data),radar
+83,20.0,25.22,United Kingdom,Europe (no direction data),radar
+83,30.0,14.79,United Kingdom,Europe (no direction data),radar
+83,40.0,7.86,United Kingdom,Europe (no direction data),radar
+83,50.0,5.26,United Kingdom,Europe (no direction data),radar
+83,60.0,7.31,United Kingdom,Europe (no direction data),radar
+83,70.0,13.76,United Kingdom,Europe (no direction data),radar
+83,80.0,23.82,United Kingdom,Europe (no direction data),radar
+83,90.0,36.29,United Kingdom,Europe (no direction data),radar
+83,100.0,49.67,United Kingdom,Europe (no direction data),radar
+83,110.0,62.33,United Kingdom,Europe (no direction data),radar
+83,120.0,72.75,United Kingdom,Europe (no direction data),radar
+83,130.0,79.68,United Kingdom,Europe (no direction data),radar
+83,140.0,82.28,United Kingdom,Europe (no direction data),radar
+83,150.0,80.24,United Kingdom,Europe (no direction data),radar
+83,160.0,73.79,United Kingdom,Europe (no direction data),radar
+83,170.0,63.73,United Kingdom,Europe (no direction data),radar
+83,0.0,51.26,United Kingdom,Europe (no direction data),radar
+84,0.0,51.26,United Kingdom,Europe (no direction data),radar
+84,10.0,37.88,United Kingdom,Europe (no direction data),radar
+84,20.0,25.22,United Kingdom,Europe (no direction data),radar
+84,30.0,14.79,United Kingdom,Europe (no direction data),radar
+84,40.0,7.86,United Kingdom,Europe (no direction data),radar
+84,50.0,5.26,United Kingdom,Europe (no direction data),radar
+84,60.0,7.31,United Kingdom,Europe (no direction data),radar
+84,70.0,13.76,United Kingdom,Europe (no direction data),radar
+84,80.0,23.82,United Kingdom,Europe (no direction data),radar
+84,90.0,36.29,United Kingdom,Europe (no direction data),radar
+84,100.0,49.67,United Kingdom,Europe (no direction data),radar
+84,110.0,62.33,United Kingdom,Europe (no direction data),radar
+84,120.0,72.75,United Kingdom,Europe (no direction data),radar
+84,130.0,79.68,United Kingdom,Europe (no direction data),radar
+84,140.0,82.28,United Kingdom,Europe (no direction data),radar
+84,150.0,80.24,United Kingdom,Europe (no direction data),radar
+84,160.0,73.79,United Kingdom,Europe (no direction data),radar
+84,170.0,63.73,United Kingdom,Europe (no direction data),radar
+84,0.0,51.26,United Kingdom,Europe (no direction data),radar
+85,0.0,93.51,China,East Asia,coarse-flyway
+85,10.0,76.92,China,East Asia,coarse-flyway
+85,20.0,59.27,China,East Asia,coarse-flyway
+85,30.0,42.68,China,East Asia,coarse-flyway
+85,40.0,29.16,China,East Asia,coarse-flyway
+85,50.0,20.33,China,East Asia,coarse-flyway
+85,60.0,17.27,China,East Asia,coarse-flyway
+85,70.0,20.33,China,East Asia,coarse-flyway
+85,80.0,29.16,China,East Asia,coarse-flyway
+85,90.0,42.68,China,East Asia,coarse-flyway
+85,100.0,59.27,China,East Asia,coarse-flyway
+85,110.0,76.92,China,East Asia,coarse-flyway
+85,120.0,93.51,China,East Asia,coarse-flyway
+85,130.0,107.03,China,East Asia,coarse-flyway
+85,140.0,115.86,China,East Asia,coarse-flyway
+85,150.0,118.93,China,East Asia,coarse-flyway
+85,160.0,115.86,China,East Asia,coarse-flyway
+85,170.0,107.03,China,East Asia,coarse-flyway
+85,0.0,93.51,China,East Asia,coarse-flyway
+86,0.0,93.51,Vietnam,East Asia,coarse-flyway
+86,10.0,76.92,Vietnam,East Asia,coarse-flyway
+86,20.0,59.27,Vietnam,East Asia,coarse-flyway
+86,30.0,42.68,Vietnam,East Asia,coarse-flyway
+86,40.0,29.16,Vietnam,East Asia,coarse-flyway
+86,50.0,20.33,Vietnam,East Asia,coarse-flyway
+86,60.0,17.27,Vietnam,East Asia,coarse-flyway
+86,70.0,20.33,Vietnam,East Asia,coarse-flyway
+86,80.0,29.16,Vietnam,East Asia,coarse-flyway
+86,90.0,42.68,Vietnam,East Asia,coarse-flyway
+86,100.0,59.27,Vietnam,East Asia,coarse-flyway
+86,110.0,76.92,Vietnam,East Asia,coarse-flyway
+86,120.0,93.51,Vietnam,East Asia,coarse-flyway
+86,130.0,107.03,Vietnam,East Asia,coarse-flyway
+86,140.0,115.86,Vietnam,East Asia,coarse-flyway
+86,150.0,118.93,Vietnam,East Asia,coarse-flyway
+86,160.0,115.86,Vietnam,East Asia,coarse-flyway
+86,170.0,107.03,Vietnam,East Asia,coarse-flyway
+86,0.0,93.51,Vietnam,East Asia,coarse-flyway
+87,0.0,272399.56,United Kingdom,Europe (direction data),radar
+87,10.0,191549.03,United Kingdom,Europe (direction data),radar
+87,20.0,117074.67,United Kingdom,Europe (direction data),radar
+87,30.0,57959.18,United Kingdom,Europe (direction data),radar
+87,40.0,21332.77,United Kingdom,Europe (direction data),radar
+87,50.0,11613.12,United Kingdom,Europe (direction data),radar
+87,60.0,29972.57,United Kingdom,Europe (direction data),radar
+87,70.0,74196.69,United Kingdom,Europe (direction data),radar
+87,80.0,138951.4,United Kingdom,Europe (direction data),radar
+87,90.0,216426.34,United Kingdom,Europe (direction data),radar
+87,100.0,297276.87,United Kingdom,Europe (direction data),radar
+87,110.0,371751.23,United Kingdom,Europe (direction data),radar
+87,120.0,430866.72,United Kingdom,Europe (direction data),radar
+87,130.0,467493.13,United Kingdom,Europe (direction data),radar
+87,140.0,477212.78,United Kingdom,Europe (direction data),radar
+87,150.0,458853.33,United Kingdom,Europe (direction data),radar
+87,160.0,414629.21,United Kingdom,Europe (direction data),radar
+87,170.0,349874.5,United Kingdom,Europe (direction data),radar
+87,0.0,272399.56,United Kingdom,Europe (direction data),radar
+88,0.0,93.51,China,East Asia,coarse-flyway
+88,10.0,76.92,China,East Asia,coarse-flyway
+88,20.0,59.27,China,East Asia,coarse-flyway
+88,30.0,42.68,China,East Asia,coarse-flyway
+88,40.0,29.16,China,East Asia,coarse-flyway
+88,50.0,20.33,China,East Asia,coarse-flyway
+88,60.0,17.27,China,East Asia,coarse-flyway
+88,70.0,20.33,China,East Asia,coarse-flyway
+88,80.0,29.16,China,East Asia,coarse-flyway
+88,90.0,42.68,China,East Asia,coarse-flyway
+88,100.0,59.27,China,East Asia,coarse-flyway
+88,110.0,76.92,China,East Asia,coarse-flyway
+88,120.0,93.51,China,East Asia,coarse-flyway
+88,130.0,107.03,China,East Asia,coarse-flyway
+88,140.0,115.86,China,East Asia,coarse-flyway
+88,150.0,118.93,China,East Asia,coarse-flyway
+88,160.0,115.86,China,East Asia,coarse-flyway
+88,170.0,107.03,China,East Asia,coarse-flyway
+88,0.0,93.51,China,East Asia,coarse-flyway
+89,0.0,93.51,China,East Asia,coarse-flyway
+89,10.0,76.92,China,East Asia,coarse-flyway
+89,20.0,59.27,China,East Asia,coarse-flyway
+89,30.0,42.68,China,East Asia,coarse-flyway
+89,40.0,29.16,China,East Asia,coarse-flyway
+89,50.0,20.33,China,East Asia,coarse-flyway
+89,60.0,17.27,China,East Asia,coarse-flyway
+89,70.0,20.33,China,East Asia,coarse-flyway
+89,80.0,29.16,China,East Asia,coarse-flyway
+89,90.0,42.68,China,East Asia,coarse-flyway
+89,100.0,59.27,China,East Asia,coarse-flyway
+89,110.0,76.92,China,East Asia,coarse-flyway
+89,120.0,93.51,China,East Asia,coarse-flyway
+89,130.0,107.03,China,East Asia,coarse-flyway
+89,140.0,115.86,China,East Asia,coarse-flyway
+89,150.0,118.93,China,East Asia,coarse-flyway
+89,160.0,115.86,China,East Asia,coarse-flyway
+89,170.0,107.03,China,East Asia,coarse-flyway
+89,0.0,93.51,China,East Asia,coarse-flyway
+90,0.0,93.51,China,East Asia,coarse-flyway
+90,10.0,76.92,China,East Asia,coarse-flyway
+90,20.0,59.27,China,East Asia,coarse-flyway
+90,30.0,42.68,China,East Asia,coarse-flyway
+90,40.0,29.16,China,East Asia,coarse-flyway
+90,50.0,20.33,China,East Asia,coarse-flyway
+90,60.0,17.27,China,East Asia,coarse-flyway
+90,70.0,20.33,China,East Asia,coarse-flyway
+90,80.0,29.16,China,East Asia,coarse-flyway
+90,90.0,42.68,China,East Asia,coarse-flyway
+90,100.0,59.27,China,East Asia,coarse-flyway
+90,110.0,76.92,China,East Asia,coarse-flyway
+90,120.0,93.51,China,East Asia,coarse-flyway
+90,130.0,107.03,China,East Asia,coarse-flyway
+90,140.0,115.86,China,East Asia,coarse-flyway
+90,150.0,118.93,China,East Asia,coarse-flyway
+90,160.0,115.86,China,East Asia,coarse-flyway
+90,170.0,107.03,China,East Asia,coarse-flyway
+90,0.0,93.51,China,East Asia,coarse-flyway
+91,0.0,93.51,China,East Asia,coarse-flyway
+91,10.0,76.92,China,East Asia,coarse-flyway
+91,20.0,59.27,China,East Asia,coarse-flyway
+91,30.0,42.68,China,East Asia,coarse-flyway
+91,40.0,29.16,China,East Asia,coarse-flyway
+91,50.0,20.33,China,East Asia,coarse-flyway
+91,60.0,17.27,China,East Asia,coarse-flyway
+91,70.0,20.33,China,East Asia,coarse-flyway
+91,80.0,29.16,China,East Asia,coarse-flyway
+91,90.0,42.68,China,East Asia,coarse-flyway
+91,100.0,59.27,China,East Asia,coarse-flyway
+91,110.0,76.92,China,East Asia,coarse-flyway
+91,120.0,93.51,China,East Asia,coarse-flyway
+91,130.0,107.03,China,East Asia,coarse-flyway
+91,140.0,115.86,China,East Asia,coarse-flyway
+91,150.0,118.93,China,East Asia,coarse-flyway
+91,160.0,115.86,China,East Asia,coarse-flyway
+91,170.0,107.03,China,East Asia,coarse-flyway
+91,0.0,93.51,China,East Asia,coarse-flyway
+92,0.0,93.51,China,East Asia,coarse-flyway
+92,10.0,76.92,China,East Asia,coarse-flyway
+92,20.0,59.27,China,East Asia,coarse-flyway
+92,30.0,42.68,China,East Asia,coarse-flyway
+92,40.0,29.16,China,East Asia,coarse-flyway
+92,50.0,20.33,China,East Asia,coarse-flyway
+92,60.0,17.27,China,East Asia,coarse-flyway
+92,70.0,20.33,China,East Asia,coarse-flyway
+92,80.0,29.16,China,East Asia,coarse-flyway
+92,90.0,42.68,China,East Asia,coarse-flyway
+92,100.0,59.27,China,East Asia,coarse-flyway
+92,110.0,76.92,China,East Asia,coarse-flyway
+92,120.0,93.51,China,East Asia,coarse-flyway
+92,130.0,107.03,China,East Asia,coarse-flyway
+92,140.0,115.86,China,East Asia,coarse-flyway
+92,150.0,118.93,China,East Asia,coarse-flyway
+92,160.0,115.86,China,East Asia,coarse-flyway
+92,170.0,107.03,China,East Asia,coarse-flyway
+92,0.0,93.51,China,East Asia,coarse-flyway
+93,0.0,51.26,United Kingdom,Europe (no direction data),radar
+93,10.0,37.88,United Kingdom,Europe (no direction data),radar
+93,20.0,25.22,United Kingdom,Europe (no direction data),radar
+93,30.0,14.79,United Kingdom,Europe (no direction data),radar
+93,40.0,7.86,United Kingdom,Europe (no direction data),radar
+93,50.0,5.26,United Kingdom,Europe (no direction data),radar
+93,60.0,7.31,United Kingdom,Europe (no direction data),radar
+93,70.0,13.76,United Kingdom,Europe (no direction data),radar
+93,80.0,23.82,United Kingdom,Europe (no direction data),radar
+93,90.0,36.29,United Kingdom,Europe (no direction data),radar
+93,100.0,49.67,United Kingdom,Europe (no direction data),radar
+93,110.0,62.33,United Kingdom,Europe (no direction data),radar
+93,120.0,72.75,United Kingdom,Europe (no direction data),radar
+93,130.0,79.68,United Kingdom,Europe (no direction data),radar
+93,140.0,82.28,United Kingdom,Europe (no direction data),radar
+93,150.0,80.24,United Kingdom,Europe (no direction data),radar
+93,160.0,73.79,United Kingdom,Europe (no direction data),radar
+93,170.0,63.73,United Kingdom,Europe (no direction data),radar
+93,0.0,51.26,United Kingdom,Europe (no direction data),radar
+94,0.0,93.51,China,East Asia,coarse-flyway
+94,10.0,76.92,China,East Asia,coarse-flyway
+94,20.0,59.27,China,East Asia,coarse-flyway
+94,30.0,42.68,China,East Asia,coarse-flyway
+94,40.0,29.16,China,East Asia,coarse-flyway
+94,50.0,20.33,China,East Asia,coarse-flyway
+94,60.0,17.27,China,East Asia,coarse-flyway
+94,70.0,20.33,China,East Asia,coarse-flyway
+94,80.0,29.16,China,East Asia,coarse-flyway
+94,90.0,42.68,China,East Asia,coarse-flyway
+94,100.0,59.27,China,East Asia,coarse-flyway
+94,110.0,76.92,China,East Asia,coarse-flyway
+94,120.0,93.51,China,East Asia,coarse-flyway
+94,130.0,107.03,China,East Asia,coarse-flyway
+94,140.0,115.86,China,East Asia,coarse-flyway
+94,150.0,118.93,China,East Asia,coarse-flyway
+94,160.0,115.86,China,East Asia,coarse-flyway
+94,170.0,107.03,China,East Asia,coarse-flyway
+94,0.0,93.51,China,East Asia,coarse-flyway
+95,0.0,63.31,Sweden,Europe (no direction data),radar
+95,10.0,45.39,Sweden,Europe (no direction data),radar
+95,20.0,29.27,Sweden,Europe (no direction data),radar
+95,30.0,16.92,Sweden,Europe (no direction data),radar
+95,40.0,9.81,Sweden,Europe (no direction data),radar
+95,50.0,8.8,Sweden,Europe (no direction data),radar
+95,60.0,14.02,Sweden,Europe (no direction data),radar
+95,70.0,24.83,Sweden,Europe (no direction data),radar
+95,80.0,39.93,Sweden,Europe (no direction data),radar
+95,90.0,57.51,Sweden,Europe (no direction data),radar
+95,100.0,75.43,Sweden,Europe (no direction data),radar
+95,110.0,91.54,Sweden,Europe (no direction data),radar
+95,120.0,103.9,Sweden,Europe (no direction data),radar
+95,130.0,111.01,Sweden,Europe (no direction data),radar
+95,140.0,112.01,Sweden,Europe (no direction data),radar
+95,150.0,106.8,Sweden,Europe (no direction data),radar
+95,160.0,95.99,Sweden,Europe (no direction data),radar
+95,170.0,80.88,Sweden,Europe (no direction data),radar
+95,0.0,63.31,Sweden,Europe (no direction data),radar
+96,0.0,272399.56,United Kingdom,Europe (direction data),radar
+96,10.0,191549.03,United Kingdom,Europe (direction data),radar
+96,20.0,117074.67,United Kingdom,Europe (direction data),radar
+96,30.0,57959.18,United Kingdom,Europe (direction data),radar
+96,40.0,21332.77,United Kingdom,Europe (direction data),radar
+96,50.0,11613.12,United Kingdom,Europe (direction data),radar
+96,60.0,29972.57,United Kingdom,Europe (direction data),radar
+96,70.0,74196.69,United Kingdom,Europe (direction data),radar
+96,80.0,138951.4,United Kingdom,Europe (direction data),radar
+96,90.0,216426.34,United Kingdom,Europe (direction data),radar
+96,100.0,297276.87,United Kingdom,Europe (direction data),radar
+96,110.0,371751.23,United Kingdom,Europe (direction data),radar
+96,120.0,430866.72,United Kingdom,Europe (direction data),radar
+96,130.0,467493.13,United Kingdom,Europe (direction data),radar
+96,140.0,477212.78,United Kingdom,Europe (direction data),radar
+96,150.0,458853.33,United Kingdom,Europe (direction data),radar
+96,160.0,414629.21,United Kingdom,Europe (direction data),radar
+96,170.0,349874.5,United Kingdom,Europe (direction data),radar
+96,0.0,272399.56,United Kingdom,Europe (direction data),radar
+97,0.0,93.51,China,East Asia,coarse-flyway
+97,10.0,76.92,China,East Asia,coarse-flyway
+97,20.0,59.27,China,East Asia,coarse-flyway
+97,30.0,42.68,China,East Asia,coarse-flyway
+97,40.0,29.16,China,East Asia,coarse-flyway
+97,50.0,20.33,China,East Asia,coarse-flyway
+97,60.0,17.27,China,East Asia,coarse-flyway
+97,70.0,20.33,China,East Asia,coarse-flyway
+97,80.0,29.16,China,East Asia,coarse-flyway
+97,90.0,42.68,China,East Asia,coarse-flyway
+97,100.0,59.27,China,East Asia,coarse-flyway
+97,110.0,76.92,China,East Asia,coarse-flyway
+97,120.0,93.51,China,East Asia,coarse-flyway
+97,130.0,107.03,China,East Asia,coarse-flyway
+97,140.0,115.86,China,East Asia,coarse-flyway
+97,150.0,118.93,China,East Asia,coarse-flyway
+97,160.0,115.86,China,East Asia,coarse-flyway
+97,170.0,107.03,China,East Asia,coarse-flyway
+97,0.0,93.51,China,East Asia,coarse-flyway
+98,0.0,93.51,China,East Asia,coarse-flyway
+98,10.0,76.92,China,East Asia,coarse-flyway
+98,20.0,59.27,China,East Asia,coarse-flyway
+98,30.0,42.68,China,East Asia,coarse-flyway
+98,40.0,29.16,China,East Asia,coarse-flyway
+98,50.0,20.33,China,East Asia,coarse-flyway
+98,60.0,17.27,China,East Asia,coarse-flyway
+98,70.0,20.33,China,East Asia,coarse-flyway
+98,80.0,29.16,China,East Asia,coarse-flyway
+98,90.0,42.68,China,East Asia,coarse-flyway
+98,100.0,59.27,China,East Asia,coarse-flyway
+98,110.0,76.92,China,East Asia,coarse-flyway
+98,120.0,93.51,China,East Asia,coarse-flyway
+98,130.0,107.03,China,East Asia,coarse-flyway
+98,140.0,115.86,China,East Asia,coarse-flyway
+98,150.0,118.93,China,East Asia,coarse-flyway
+98,160.0,115.86,China,East Asia,coarse-flyway
+98,170.0,107.03,China,East Asia,coarse-flyway
+98,0.0,93.51,China,East Asia,coarse-flyway
+99,0.0,62.76,Sweden,Europe (no direction data),radar
+99,10.0,45.21,Sweden,Europe (no direction data),radar
+99,20.0,29.32,Sweden,Europe (no direction data),radar
+99,30.0,17.0,Sweden,Europe (no direction data),radar
+99,40.0,9.74,Sweden,Europe (no direction data),radar
+99,50.0,8.42,Sweden,Europe (no direction data),radar
+99,60.0,13.19,Sweden,Europe (no direction data),radar
+99,70.0,23.48,Sweden,Europe (no direction data),radar
+99,80.0,38.05,Sweden,Europe (no direction data),radar
+99,90.0,55.14,Sweden,Europe (no direction data),radar
+99,100.0,72.69,Sweden,Europe (no direction data),radar
+99,110.0,88.58,Sweden,Europe (no direction data),radar
+99,120.0,100.9,Sweden,Europe (no direction data),radar
+99,130.0,108.15,Sweden,Europe (no direction data),radar
+99,140.0,109.47,Sweden,Europe (no direction data),radar
+99,150.0,104.7,Sweden,Europe (no direction data),radar
+99,160.0,94.41,Sweden,Europe (no direction data),radar
+99,170.0,79.84,Sweden,Europe (no direction data),radar
+99,0.0,62.76,Sweden,Europe (no direction data),radar
+100,0.0,272399.56,Netherlands,Europe (direction data),radar
+100,10.0,191549.03,Netherlands,Europe (direction data),radar
+100,20.0,117074.67,Netherlands,Europe (direction data),radar
+100,30.0,57959.18,Netherlands,Europe (direction data),radar
+100,40.0,21332.77,Netherlands,Europe (direction data),radar
+100,50.0,11613.12,Netherlands,Europe (direction data),radar
+100,60.0,29972.57,Netherlands,Europe (direction data),radar
+100,70.0,74196.69,Netherlands,Europe (direction data),radar
+100,80.0,138951.4,Netherlands,Europe (direction data),radar
+100,90.0,216426.34,Netherlands,Europe (direction data),radar
+100,100.0,297276.87,Netherlands,Europe (direction data),radar
+100,110.0,371751.23,Netherlands,Europe (direction data),radar
+100,120.0,430866.72,Netherlands,Europe (direction data),radar
+100,130.0,467493.13,Netherlands,Europe (direction data),radar
+100,140.0,477212.78,Netherlands,Europe (direction data),radar
+100,150.0,458853.33,Netherlands,Europe (direction data),radar
+100,160.0,414629.21,Netherlands,Europe (direction data),radar
+100,170.0,349874.5,Netherlands,Europe (direction data),radar
+100,0.0,272399.56,Netherlands,Europe (direction data),radar
+101,0.0,93.51,China,East Asia,coarse-flyway
+101,10.0,76.92,China,East Asia,coarse-flyway
+101,20.0,59.27,China,East Asia,coarse-flyway
+101,30.0,42.68,China,East Asia,coarse-flyway
+101,40.0,29.16,China,East Asia,coarse-flyway
+101,50.0,20.33,China,East Asia,coarse-flyway
+101,60.0,17.27,China,East Asia,coarse-flyway
+101,70.0,20.33,China,East Asia,coarse-flyway
+101,80.0,29.16,China,East Asia,coarse-flyway
+101,90.0,42.68,China,East Asia,coarse-flyway
+101,100.0,59.27,China,East Asia,coarse-flyway
+101,110.0,76.92,China,East Asia,coarse-flyway
+101,120.0,93.51,China,East Asia,coarse-flyway
+101,130.0,107.03,China,East Asia,coarse-flyway
+101,140.0,115.86,China,East Asia,coarse-flyway
+101,150.0,118.93,China,East Asia,coarse-flyway
+101,160.0,115.86,China,East Asia,coarse-flyway
+101,170.0,107.03,China,East Asia,coarse-flyway
+101,0.0,93.51,China,East Asia,coarse-flyway
+102,0.0,272399.56,United Kingdom,Europe (direction data),radar
+102,10.0,191549.03,United Kingdom,Europe (direction data),radar
+102,20.0,117074.67,United Kingdom,Europe (direction data),radar
+102,30.0,57959.18,United Kingdom,Europe (direction data),radar
+102,40.0,21332.77,United Kingdom,Europe (direction data),radar
+102,50.0,11613.12,United Kingdom,Europe (direction data),radar
+102,60.0,29972.57,United Kingdom,Europe (direction data),radar
+102,70.0,74196.69,United Kingdom,Europe (direction data),radar
+102,80.0,138951.4,United Kingdom,Europe (direction data),radar
+102,90.0,216426.34,United Kingdom,Europe (direction data),radar
+102,100.0,297276.87,United Kingdom,Europe (direction data),radar
+102,110.0,371751.23,United Kingdom,Europe (direction data),radar
+102,120.0,430866.72,United Kingdom,Europe (direction data),radar
+102,130.0,467493.13,United Kingdom,Europe (direction data),radar
+102,140.0,477212.78,United Kingdom,Europe (direction data),radar
+102,150.0,458853.33,United Kingdom,Europe (direction data),radar
+102,160.0,414629.21,United Kingdom,Europe (direction data),radar
+102,170.0,349874.5,United Kingdom,Europe (direction data),radar
+102,0.0,272399.56,United Kingdom,Europe (direction data),radar
+103,0.0,93.51,China,East Asia,coarse-flyway
+103,10.0,76.92,China,East Asia,coarse-flyway
+103,20.0,59.27,China,East Asia,coarse-flyway
+103,30.0,42.68,China,East Asia,coarse-flyway
+103,40.0,29.16,China,East Asia,coarse-flyway
+103,50.0,20.33,China,East Asia,coarse-flyway
+103,60.0,17.27,China,East Asia,coarse-flyway
+103,70.0,20.33,China,East Asia,coarse-flyway
+103,80.0,29.16,China,East Asia,coarse-flyway
+103,90.0,42.68,China,East Asia,coarse-flyway
+103,100.0,59.27,China,East Asia,coarse-flyway
+103,110.0,76.92,China,East Asia,coarse-flyway
+103,120.0,93.51,China,East Asia,coarse-flyway
+103,130.0,107.03,China,East Asia,coarse-flyway
+103,140.0,115.86,China,East Asia,coarse-flyway
+103,150.0,118.93,China,East Asia,coarse-flyway
+103,160.0,115.86,China,East Asia,coarse-flyway
+103,170.0,107.03,China,East Asia,coarse-flyway
+103,0.0,93.51,China,East Asia,coarse-flyway
+104,0.0,93.51,China,East Asia,coarse-flyway
+104,10.0,76.92,China,East Asia,coarse-flyway
+104,20.0,59.27,China,East Asia,coarse-flyway
+104,30.0,42.68,China,East Asia,coarse-flyway
+104,40.0,29.16,China,East Asia,coarse-flyway
+104,50.0,20.33,China,East Asia,coarse-flyway
+104,60.0,17.27,China,East Asia,coarse-flyway
+104,70.0,20.33,China,East Asia,coarse-flyway
+104,80.0,29.16,China,East Asia,coarse-flyway
+104,90.0,42.68,China,East Asia,coarse-flyway
+104,100.0,59.27,China,East Asia,coarse-flyway
+104,110.0,76.92,China,East Asia,coarse-flyway
+104,120.0,93.51,China,East Asia,coarse-flyway
+104,130.0,107.03,China,East Asia,coarse-flyway
+104,140.0,115.86,China,East Asia,coarse-flyway
+104,150.0,118.93,China,East Asia,coarse-flyway
+104,160.0,115.86,China,East Asia,coarse-flyway
+104,170.0,107.03,China,East Asia,coarse-flyway
+104,0.0,93.51,China,East Asia,coarse-flyway
+105,0.0,93.51,China,East Asia,coarse-flyway
+105,10.0,76.92,China,East Asia,coarse-flyway
+105,20.0,59.27,China,East Asia,coarse-flyway
+105,30.0,42.68,China,East Asia,coarse-flyway
+105,40.0,29.16,China,East Asia,coarse-flyway
+105,50.0,20.33,China,East Asia,coarse-flyway
+105,60.0,17.27,China,East Asia,coarse-flyway
+105,70.0,20.33,China,East Asia,coarse-flyway
+105,80.0,29.16,China,East Asia,coarse-flyway
+105,90.0,42.68,China,East Asia,coarse-flyway
+105,100.0,59.27,China,East Asia,coarse-flyway
+105,110.0,76.92,China,East Asia,coarse-flyway
+105,120.0,93.51,China,East Asia,coarse-flyway
+105,130.0,107.03,China,East Asia,coarse-flyway
+105,140.0,115.86,China,East Asia,coarse-flyway
+105,150.0,118.93,China,East Asia,coarse-flyway
+105,160.0,115.86,China,East Asia,coarse-flyway
+105,170.0,107.03,China,East Asia,coarse-flyway
+105,0.0,93.51,China,East Asia,coarse-flyway
+106,0.0,93.51,China,East Asia,coarse-flyway
+106,10.0,76.92,China,East Asia,coarse-flyway
+106,20.0,59.27,China,East Asia,coarse-flyway
+106,30.0,42.68,China,East Asia,coarse-flyway
+106,40.0,29.16,China,East Asia,coarse-flyway
+106,50.0,20.33,China,East Asia,coarse-flyway
+106,60.0,17.27,China,East Asia,coarse-flyway
+106,70.0,20.33,China,East Asia,coarse-flyway
+106,80.0,29.16,China,East Asia,coarse-flyway
+106,90.0,42.68,China,East Asia,coarse-flyway
+106,100.0,59.27,China,East Asia,coarse-flyway
+106,110.0,76.92,China,East Asia,coarse-flyway
+106,120.0,93.51,China,East Asia,coarse-flyway
+106,130.0,107.03,China,East Asia,coarse-flyway
+106,140.0,115.86,China,East Asia,coarse-flyway
+106,150.0,118.93,China,East Asia,coarse-flyway
+106,160.0,115.86,China,East Asia,coarse-flyway
+106,170.0,107.03,China,East Asia,coarse-flyway
+106,0.0,93.51,China,East Asia,coarse-flyway
+107,0.0,93.51,Vietnam,East Asia,coarse-flyway
+107,10.0,76.92,Vietnam,East Asia,coarse-flyway
+107,20.0,59.27,Vietnam,East Asia,coarse-flyway
+107,30.0,42.68,Vietnam,East Asia,coarse-flyway
+107,40.0,29.16,Vietnam,East Asia,coarse-flyway
+107,50.0,20.33,Vietnam,East Asia,coarse-flyway
+107,60.0,17.27,Vietnam,East Asia,coarse-flyway
+107,70.0,20.33,Vietnam,East Asia,coarse-flyway
+107,80.0,29.16,Vietnam,East Asia,coarse-flyway
+107,90.0,42.68,Vietnam,East Asia,coarse-flyway
+107,100.0,59.27,Vietnam,East Asia,coarse-flyway
+107,110.0,76.92,Vietnam,East Asia,coarse-flyway
+107,120.0,93.51,Vietnam,East Asia,coarse-flyway
+107,130.0,107.03,Vietnam,East Asia,coarse-flyway
+107,140.0,115.86,Vietnam,East Asia,coarse-flyway
+107,150.0,118.93,Vietnam,East Asia,coarse-flyway
+107,160.0,115.86,Vietnam,East Asia,coarse-flyway
+107,170.0,107.03,Vietnam,East Asia,coarse-flyway
+107,0.0,93.51,Vietnam,East Asia,coarse-flyway
+108,0.0,93.51,China,East Asia,coarse-flyway
+108,10.0,76.92,China,East Asia,coarse-flyway
+108,20.0,59.27,China,East Asia,coarse-flyway
+108,30.0,42.68,China,East Asia,coarse-flyway
+108,40.0,29.16,China,East Asia,coarse-flyway
+108,50.0,20.33,China,East Asia,coarse-flyway
+108,60.0,17.27,China,East Asia,coarse-flyway
+108,70.0,20.33,China,East Asia,coarse-flyway
+108,80.0,29.16,China,East Asia,coarse-flyway
+108,90.0,42.68,China,East Asia,coarse-flyway
+108,100.0,59.27,China,East Asia,coarse-flyway
+108,110.0,76.92,China,East Asia,coarse-flyway
+108,120.0,93.51,China,East Asia,coarse-flyway
+108,130.0,107.03,China,East Asia,coarse-flyway
+108,140.0,115.86,China,East Asia,coarse-flyway
+108,150.0,118.93,China,East Asia,coarse-flyway
+108,160.0,115.86,China,East Asia,coarse-flyway
+108,170.0,107.03,China,East Asia,coarse-flyway
+108,0.0,93.51,China,East Asia,coarse-flyway
+109,0.0,93.51,China,East Asia,coarse-flyway
+109,10.0,76.92,China,East Asia,coarse-flyway
+109,20.0,59.27,China,East Asia,coarse-flyway
+109,30.0,42.68,China,East Asia,coarse-flyway
+109,40.0,29.16,China,East Asia,coarse-flyway
+109,50.0,20.33,China,East Asia,coarse-flyway
+109,60.0,17.27,China,East Asia,coarse-flyway
+109,70.0,20.33,China,East Asia,coarse-flyway
+109,80.0,29.16,China,East Asia,coarse-flyway
+109,90.0,42.68,China,East Asia,coarse-flyway
+109,100.0,59.27,China,East Asia,coarse-flyway
+109,110.0,76.92,China,East Asia,coarse-flyway
+109,120.0,93.51,China,East Asia,coarse-flyway
+109,130.0,107.03,China,East Asia,coarse-flyway
+109,140.0,115.86,China,East Asia,coarse-flyway
+109,150.0,118.93,China,East Asia,coarse-flyway
+109,160.0,115.86,China,East Asia,coarse-flyway
+109,170.0,107.03,China,East Asia,coarse-flyway
+109,0.0,93.51,China,East Asia,coarse-flyway
+110,0.0,93.51,China,East Asia,coarse-flyway
+110,10.0,76.92,China,East Asia,coarse-flyway
+110,20.0,59.27,China,East Asia,coarse-flyway
+110,30.0,42.68,China,East Asia,coarse-flyway
+110,40.0,29.16,China,East Asia,coarse-flyway
+110,50.0,20.33,China,East Asia,coarse-flyway
+110,60.0,17.27,China,East Asia,coarse-flyway
+110,70.0,20.33,China,East Asia,coarse-flyway
+110,80.0,29.16,China,East Asia,coarse-flyway
+110,90.0,42.68,China,East Asia,coarse-flyway
+110,100.0,59.27,China,East Asia,coarse-flyway
+110,110.0,76.92,China,East Asia,coarse-flyway
+110,120.0,93.51,China,East Asia,coarse-flyway
+110,130.0,107.03,China,East Asia,coarse-flyway
+110,140.0,115.86,China,East Asia,coarse-flyway
+110,150.0,118.93,China,East Asia,coarse-flyway
+110,160.0,115.86,China,East Asia,coarse-flyway
+110,170.0,107.03,China,East Asia,coarse-flyway
+110,0.0,93.51,China,East Asia,coarse-flyway
+111,0.0,93.51,China,East Asia,coarse-flyway
+111,10.0,76.92,China,East Asia,coarse-flyway
+111,20.0,59.27,China,East Asia,coarse-flyway
+111,30.0,42.68,China,East Asia,coarse-flyway
+111,40.0,29.16,China,East Asia,coarse-flyway
+111,50.0,20.33,China,East Asia,coarse-flyway
+111,60.0,17.27,China,East Asia,coarse-flyway
+111,70.0,20.33,China,East Asia,coarse-flyway
+111,80.0,29.16,China,East Asia,coarse-flyway
+111,90.0,42.68,China,East Asia,coarse-flyway
+111,100.0,59.27,China,East Asia,coarse-flyway
+111,110.0,76.92,China,East Asia,coarse-flyway
+111,120.0,93.51,China,East Asia,coarse-flyway
+111,130.0,107.03,China,East Asia,coarse-flyway
+111,140.0,115.86,China,East Asia,coarse-flyway
+111,150.0,118.93,China,East Asia,coarse-flyway
+111,160.0,115.86,China,East Asia,coarse-flyway
+111,170.0,107.03,China,East Asia,coarse-flyway
+111,0.0,93.51,China,East Asia,coarse-flyway
+112,0.0,93.51,Vietnam,East Asia,coarse-flyway
+112,10.0,76.92,Vietnam,East Asia,coarse-flyway
+112,20.0,59.27,Vietnam,East Asia,coarse-flyway
+112,30.0,42.68,Vietnam,East Asia,coarse-flyway
+112,40.0,29.16,Vietnam,East Asia,coarse-flyway
+112,50.0,20.33,Vietnam,East Asia,coarse-flyway
+112,60.0,17.27,Vietnam,East Asia,coarse-flyway
+112,70.0,20.33,Vietnam,East Asia,coarse-flyway
+112,80.0,29.16,Vietnam,East Asia,coarse-flyway
+112,90.0,42.68,Vietnam,East Asia,coarse-flyway
+112,100.0,59.27,Vietnam,East Asia,coarse-flyway
+112,110.0,76.92,Vietnam,East Asia,coarse-flyway
+112,120.0,93.51,Vietnam,East Asia,coarse-flyway
+112,130.0,107.03,Vietnam,East Asia,coarse-flyway
+112,140.0,115.86,Vietnam,East Asia,coarse-flyway
+112,150.0,118.93,Vietnam,East Asia,coarse-flyway
+112,160.0,115.86,Vietnam,East Asia,coarse-flyway
+112,170.0,107.03,Vietnam,East Asia,coarse-flyway
+112,0.0,93.51,Vietnam,East Asia,coarse-flyway
+113,0.0,272399.56,Netherlands,Europe (direction data),radar
+113,10.0,191549.03,Netherlands,Europe (direction data),radar
+113,20.0,117074.67,Netherlands,Europe (direction data),radar
+113,30.0,57959.18,Netherlands,Europe (direction data),radar
+113,40.0,21332.77,Netherlands,Europe (direction data),radar
+113,50.0,11613.12,Netherlands,Europe (direction data),radar
+113,60.0,29972.57,Netherlands,Europe (direction data),radar
+113,70.0,74196.69,Netherlands,Europe (direction data),radar
+113,80.0,138951.4,Netherlands,Europe (direction data),radar
+113,90.0,216426.34,Netherlands,Europe (direction data),radar
+113,100.0,297276.87,Netherlands,Europe (direction data),radar
+113,110.0,371751.23,Netherlands,Europe (direction data),radar
+113,120.0,430866.72,Netherlands,Europe (direction data),radar
+113,130.0,467493.13,Netherlands,Europe (direction data),radar
+113,140.0,477212.78,Netherlands,Europe (direction data),radar
+113,150.0,458853.33,Netherlands,Europe (direction data),radar
+113,160.0,414629.21,Netherlands,Europe (direction data),radar
+113,170.0,349874.5,Netherlands,Europe (direction data),radar
+113,0.0,272399.56,Netherlands,Europe (direction data),radar
+114,0.0,93.51,China,East Asia,coarse-flyway
+114,10.0,76.92,China,East Asia,coarse-flyway
+114,20.0,59.27,China,East Asia,coarse-flyway
+114,30.0,42.68,China,East Asia,coarse-flyway
+114,40.0,29.16,China,East Asia,coarse-flyway
+114,50.0,20.33,China,East Asia,coarse-flyway
+114,60.0,17.27,China,East Asia,coarse-flyway
+114,70.0,20.33,China,East Asia,coarse-flyway
+114,80.0,29.16,China,East Asia,coarse-flyway
+114,90.0,42.68,China,East Asia,coarse-flyway
+114,100.0,59.27,China,East Asia,coarse-flyway
+114,110.0,76.92,China,East Asia,coarse-flyway
+114,120.0,93.51,China,East Asia,coarse-flyway
+114,130.0,107.03,China,East Asia,coarse-flyway
+114,140.0,115.86,China,East Asia,coarse-flyway
+114,150.0,118.93,China,East Asia,coarse-flyway
+114,160.0,115.86,China,East Asia,coarse-flyway
+114,170.0,107.03,China,East Asia,coarse-flyway
+114,0.0,93.51,China,East Asia,coarse-flyway
+115,0.0,93.51,Vietnam,East Asia,coarse-flyway
+115,10.0,76.92,Vietnam,East Asia,coarse-flyway
+115,20.0,59.27,Vietnam,East Asia,coarse-flyway
+115,30.0,42.68,Vietnam,East Asia,coarse-flyway
+115,40.0,29.16,Vietnam,East Asia,coarse-flyway
+115,50.0,20.33,Vietnam,East Asia,coarse-flyway
+115,60.0,17.27,Vietnam,East Asia,coarse-flyway
+115,70.0,20.33,Vietnam,East Asia,coarse-flyway
+115,80.0,29.16,Vietnam,East Asia,coarse-flyway
+115,90.0,42.68,Vietnam,East Asia,coarse-flyway
+115,100.0,59.27,Vietnam,East Asia,coarse-flyway
+115,110.0,76.92,Vietnam,East Asia,coarse-flyway
+115,120.0,93.51,Vietnam,East Asia,coarse-flyway
+115,130.0,107.03,Vietnam,East Asia,coarse-flyway
+115,140.0,115.86,Vietnam,East Asia,coarse-flyway
+115,150.0,118.93,Vietnam,East Asia,coarse-flyway
+115,160.0,115.86,Vietnam,East Asia,coarse-flyway
+115,170.0,107.03,Vietnam,East Asia,coarse-flyway
+115,0.0,93.51,Vietnam,East Asia,coarse-flyway
+116,0.0,43.64,United Kingdom,Europe (direction data),radar
+116,10.0,30.52,United Kingdom,Europe (direction data),radar
+116,20.0,19.0,United Kingdom,Europe (direction data),radar
+116,30.0,10.47,United Kingdom,Europe (direction data),radar
+116,40.0,5.95,United Kingdom,Europe (direction data),radar
+116,50.0,6.0,United Kingdom,Europe (direction data),radar
+116,60.0,10.6,United Kingdom,Europe (direction data),radar
+116,70.0,19.21,United Kingdom,Europe (direction data),radar
+116,80.0,30.77,United Kingdom,Europe (direction data),radar
+116,90.0,43.91,United Kingdom,Europe (direction data),radar
+116,100.0,57.03,United Kingdom,Europe (direction data),radar
+116,110.0,68.55,United Kingdom,Europe (direction data),radar
+116,120.0,77.08,United Kingdom,Europe (direction data),radar
+116,130.0,81.59,United Kingdom,Europe (direction data),radar
+116,140.0,81.55,United Kingdom,Europe (direction data),radar
+116,150.0,76.94,United Kingdom,Europe (direction data),radar
+116,160.0,68.34,United Kingdom,Europe (direction data),radar
+116,170.0,56.77,United Kingdom,Europe (direction data),radar
+116,0.0,43.64,United Kingdom,Europe (direction data),radar
+117,0.0,68.1,United States of America,Americas,coarse-flyway
+117,10.0,50.71,United States of America,Americas,coarse-flyway
+117,20.0,35.43,United States of America,Americas,coarse-flyway
+117,30.0,24.08,United States of America,Americas,coarse-flyway
+117,40.0,18.04,United States of America,Americas,coarse-flyway
+117,50.0,18.04,United States of America,Americas,coarse-flyway
+117,60.0,24.08,United States of America,Americas,coarse-flyway
+117,70.0,35.43,United States of America,Americas,coarse-flyway
+117,80.0,50.71,United States of America,Americas,coarse-flyway
+117,90.0,68.1,United States of America,Americas,coarse-flyway
+117,100.0,85.48,United States of America,Americas,coarse-flyway
+117,110.0,100.77,United States of America,Americas,coarse-flyway
+117,120.0,112.12,United States of America,Americas,coarse-flyway
+117,130.0,118.15,United States of America,Americas,coarse-flyway
+117,140.0,118.15,United States of America,Americas,coarse-flyway
+117,150.0,112.12,United States of America,Americas,coarse-flyway
+117,160.0,100.77,United States of America,Americas,coarse-flyway
+117,170.0,85.48,United States of America,Americas,coarse-flyway
+117,0.0,68.1,United States of America,Americas,coarse-flyway
+118,0.0,93.51,China,East Asia,coarse-flyway
+118,10.0,76.92,China,East Asia,coarse-flyway
+118,20.0,59.27,China,East Asia,coarse-flyway
+118,30.0,42.68,China,East Asia,coarse-flyway
+118,40.0,29.16,China,East Asia,coarse-flyway
+118,50.0,20.33,China,East Asia,coarse-flyway
+118,60.0,17.27,China,East Asia,coarse-flyway
+118,70.0,20.33,China,East Asia,coarse-flyway
+118,80.0,29.16,China,East Asia,coarse-flyway
+118,90.0,42.68,China,East Asia,coarse-flyway
+118,100.0,59.27,China,East Asia,coarse-flyway
+118,110.0,76.92,China,East Asia,coarse-flyway
+118,120.0,93.51,China,East Asia,coarse-flyway
+118,130.0,107.03,China,East Asia,coarse-flyway
+118,140.0,115.86,China,East Asia,coarse-flyway
+118,150.0,118.93,China,East Asia,coarse-flyway
+118,160.0,115.86,China,East Asia,coarse-flyway
+118,170.0,107.03,China,East Asia,coarse-flyway
+118,0.0,93.51,China,East Asia,coarse-flyway
+119,0.0,93.51,China,East Asia,coarse-flyway
+119,10.0,76.92,China,East Asia,coarse-flyway
+119,20.0,59.27,China,East Asia,coarse-flyway
+119,30.0,42.68,China,East Asia,coarse-flyway
+119,40.0,29.16,China,East Asia,coarse-flyway
+119,50.0,20.33,China,East Asia,coarse-flyway
+119,60.0,17.27,China,East Asia,coarse-flyway
+119,70.0,20.33,China,East Asia,coarse-flyway
+119,80.0,29.16,China,East Asia,coarse-flyway
+119,90.0,42.68,China,East Asia,coarse-flyway
+119,100.0,59.27,China,East Asia,coarse-flyway
+119,110.0,76.92,China,East Asia,coarse-flyway
+119,120.0,93.51,China,East Asia,coarse-flyway
+119,130.0,107.03,China,East Asia,coarse-flyway
+119,140.0,115.86,China,East Asia,coarse-flyway
+119,150.0,118.93,China,East Asia,coarse-flyway
+119,160.0,115.86,China,East Asia,coarse-flyway
+119,170.0,107.03,China,East Asia,coarse-flyway
+119,0.0,93.51,China,East Asia,coarse-flyway
+120,0.0,93.51,China,East Asia,coarse-flyway
+120,10.0,76.92,China,East Asia,coarse-flyway
+120,20.0,59.27,China,East Asia,coarse-flyway
+120,30.0,42.68,China,East Asia,coarse-flyway
+120,40.0,29.16,China,East Asia,coarse-flyway
+120,50.0,20.33,China,East Asia,coarse-flyway
+120,60.0,17.27,China,East Asia,coarse-flyway
+120,70.0,20.33,China,East Asia,coarse-flyway
+120,80.0,29.16,China,East Asia,coarse-flyway
+120,90.0,42.68,China,East Asia,coarse-flyway
+120,100.0,59.27,China,East Asia,coarse-flyway
+120,110.0,76.92,China,East Asia,coarse-flyway
+120,120.0,93.51,China,East Asia,coarse-flyway
+120,130.0,107.03,China,East Asia,coarse-flyway
+120,140.0,115.86,China,East Asia,coarse-flyway
+120,150.0,118.93,China,East Asia,coarse-flyway
+120,160.0,115.86,China,East Asia,coarse-flyway
+120,170.0,107.03,China,East Asia,coarse-flyway
+120,0.0,93.51,China,East Asia,coarse-flyway
+121,0.0,272399.56,Germany,Europe (direction data),radar
+121,10.0,191549.03,Germany,Europe (direction data),radar
+121,20.0,117074.67,Germany,Europe (direction data),radar
+121,30.0,57959.18,Germany,Europe (direction data),radar
+121,40.0,21332.77,Germany,Europe (direction data),radar
+121,50.0,11613.12,Germany,Europe (direction data),radar
+121,60.0,29972.57,Germany,Europe (direction data),radar
+121,70.0,74196.69,Germany,Europe (direction data),radar
+121,80.0,138951.4,Germany,Europe (direction data),radar
+121,90.0,216426.34,Germany,Europe (direction data),radar
+121,100.0,297276.87,Germany,Europe (direction data),radar
+121,110.0,371751.23,Germany,Europe (direction data),radar
+121,120.0,430866.72,Germany,Europe (direction data),radar
+121,130.0,467493.13,Germany,Europe (direction data),radar
+121,140.0,477212.78,Germany,Europe (direction data),radar
+121,150.0,458853.33,Germany,Europe (direction data),radar
+121,160.0,414629.21,Germany,Europe (direction data),radar
+121,170.0,349874.5,Germany,Europe (direction data),radar
+121,0.0,272399.56,Germany,Europe (direction data),radar
+122,0.0,272399.56,United Kingdom,Europe (direction data),radar
+122,10.0,191549.03,United Kingdom,Europe (direction data),radar
+122,20.0,117074.67,United Kingdom,Europe (direction data),radar
+122,30.0,57959.18,United Kingdom,Europe (direction data),radar
+122,40.0,21332.77,United Kingdom,Europe (direction data),radar
+122,50.0,11613.12,United Kingdom,Europe (direction data),radar
+122,60.0,29972.57,United Kingdom,Europe (direction data),radar
+122,70.0,74196.69,United Kingdom,Europe (direction data),radar
+122,80.0,138951.4,United Kingdom,Europe (direction data),radar
+122,90.0,216426.34,United Kingdom,Europe (direction data),radar
+122,100.0,297276.87,United Kingdom,Europe (direction data),radar
+122,110.0,371751.23,United Kingdom,Europe (direction data),radar
+122,120.0,430866.72,United Kingdom,Europe (direction data),radar
+122,130.0,467493.13,United Kingdom,Europe (direction data),radar
+122,140.0,477212.78,United Kingdom,Europe (direction data),radar
+122,150.0,458853.33,United Kingdom,Europe (direction data),radar
+122,160.0,414629.21,United Kingdom,Europe (direction data),radar
+122,170.0,349874.5,United Kingdom,Europe (direction data),radar
+122,0.0,272399.56,United Kingdom,Europe (direction data),radar
+123,0.0,51.26,United Kingdom,Europe (no direction data),radar
+123,10.0,37.88,United Kingdom,Europe (no direction data),radar
+123,20.0,25.22,United Kingdom,Europe (no direction data),radar
+123,30.0,14.79,United Kingdom,Europe (no direction data),radar
+123,40.0,7.86,United Kingdom,Europe (no direction data),radar
+123,50.0,5.26,United Kingdom,Europe (no direction data),radar
+123,60.0,7.31,United Kingdom,Europe (no direction data),radar
+123,70.0,13.76,United Kingdom,Europe (no direction data),radar
+123,80.0,23.82,United Kingdom,Europe (no direction data),radar
+123,90.0,36.29,United Kingdom,Europe (no direction data),radar
+123,100.0,49.67,United Kingdom,Europe (no direction data),radar
+123,110.0,62.33,United Kingdom,Europe (no direction data),radar
+123,120.0,72.75,United Kingdom,Europe (no direction data),radar
+123,130.0,79.68,United Kingdom,Europe (no direction data),radar
+123,140.0,82.28,United Kingdom,Europe (no direction data),radar
+123,150.0,80.24,United Kingdom,Europe (no direction data),radar
+123,160.0,73.79,United Kingdom,Europe (no direction data),radar
+123,170.0,63.73,United Kingdom,Europe (no direction data),radar
+123,0.0,51.26,United Kingdom,Europe (no direction data),radar
+124,0.0,93.51,China,East Asia,coarse-flyway
+124,10.0,76.92,China,East Asia,coarse-flyway
+124,20.0,59.27,China,East Asia,coarse-flyway
+124,30.0,42.68,China,East Asia,coarse-flyway
+124,40.0,29.16,China,East Asia,coarse-flyway
+124,50.0,20.33,China,East Asia,coarse-flyway
+124,60.0,17.27,China,East Asia,coarse-flyway
+124,70.0,20.33,China,East Asia,coarse-flyway
+124,80.0,29.16,China,East Asia,coarse-flyway
+124,90.0,42.68,China,East Asia,coarse-flyway
+124,100.0,59.27,China,East Asia,coarse-flyway
+124,110.0,76.92,China,East Asia,coarse-flyway
+124,120.0,93.51,China,East Asia,coarse-flyway
+124,130.0,107.03,China,East Asia,coarse-flyway
+124,140.0,115.86,China,East Asia,coarse-flyway
+124,150.0,118.93,China,East Asia,coarse-flyway
+124,160.0,115.86,China,East Asia,coarse-flyway
+124,170.0,107.03,China,East Asia,coarse-flyway
+124,0.0,93.51,China,East Asia,coarse-flyway
+125,0.0,93.51,China,East Asia,coarse-flyway
+125,10.0,76.92,China,East Asia,coarse-flyway
+125,20.0,59.27,China,East Asia,coarse-flyway
+125,30.0,42.68,China,East Asia,coarse-flyway
+125,40.0,29.16,China,East Asia,coarse-flyway
+125,50.0,20.33,China,East Asia,coarse-flyway
+125,60.0,17.27,China,East Asia,coarse-flyway
+125,70.0,20.33,China,East Asia,coarse-flyway
+125,80.0,29.16,China,East Asia,coarse-flyway
+125,90.0,42.68,China,East Asia,coarse-flyway
+125,100.0,59.27,China,East Asia,coarse-flyway
+125,110.0,76.92,China,East Asia,coarse-flyway
+125,120.0,93.51,China,East Asia,coarse-flyway
+125,130.0,107.03,China,East Asia,coarse-flyway
+125,140.0,115.86,China,East Asia,coarse-flyway
+125,150.0,118.93,China,East Asia,coarse-flyway
+125,160.0,115.86,China,East Asia,coarse-flyway
+125,170.0,107.03,China,East Asia,coarse-flyway
+125,0.0,93.51,China,East Asia,coarse-flyway
+126,0.0,93.51,Vietnam,East Asia,coarse-flyway
+126,10.0,76.92,Vietnam,East Asia,coarse-flyway
+126,20.0,59.27,Vietnam,East Asia,coarse-flyway
+126,30.0,42.68,Vietnam,East Asia,coarse-flyway
+126,40.0,29.16,Vietnam,East Asia,coarse-flyway
+126,50.0,20.33,Vietnam,East Asia,coarse-flyway
+126,60.0,17.27,Vietnam,East Asia,coarse-flyway
+126,70.0,20.33,Vietnam,East Asia,coarse-flyway
+126,80.0,29.16,Vietnam,East Asia,coarse-flyway
+126,90.0,42.68,Vietnam,East Asia,coarse-flyway
+126,100.0,59.27,Vietnam,East Asia,coarse-flyway
+126,110.0,76.92,Vietnam,East Asia,coarse-flyway
+126,120.0,93.51,Vietnam,East Asia,coarse-flyway
+126,130.0,107.03,Vietnam,East Asia,coarse-flyway
+126,140.0,115.86,Vietnam,East Asia,coarse-flyway
+126,150.0,118.93,Vietnam,East Asia,coarse-flyway
+126,160.0,115.86,Vietnam,East Asia,coarse-flyway
+126,170.0,107.03,Vietnam,East Asia,coarse-flyway
+126,0.0,93.51,Vietnam,East Asia,coarse-flyway
+127,0.0,63.31,Sweden,Europe (no direction data),radar
+127,10.0,45.39,Sweden,Europe (no direction data),radar
+127,20.0,29.27,Sweden,Europe (no direction data),radar
+127,30.0,16.92,Sweden,Europe (no direction data),radar
+127,40.0,9.81,Sweden,Europe (no direction data),radar
+127,50.0,8.8,Sweden,Europe (no direction data),radar
+127,60.0,14.02,Sweden,Europe (no direction data),radar
+127,70.0,24.83,Sweden,Europe (no direction data),radar
+127,80.0,39.93,Sweden,Europe (no direction data),radar
+127,90.0,57.51,Sweden,Europe (no direction data),radar
+127,100.0,75.43,Sweden,Europe (no direction data),radar
+127,110.0,91.54,Sweden,Europe (no direction data),radar
+127,120.0,103.9,Sweden,Europe (no direction data),radar
+127,130.0,111.01,Sweden,Europe (no direction data),radar
+127,140.0,112.01,Sweden,Europe (no direction data),radar
+127,150.0,106.8,Sweden,Europe (no direction data),radar
+127,160.0,95.99,Sweden,Europe (no direction data),radar
+127,170.0,80.88,Sweden,Europe (no direction data),radar
+127,0.0,63.31,Sweden,Europe (no direction data),radar
+128,0.0,43.64,United Kingdom,Europe (no direction data),radar
+128,10.0,30.52,United Kingdom,Europe (no direction data),radar
+128,20.0,19.0,United Kingdom,Europe (no direction data),radar
+128,30.0,10.47,United Kingdom,Europe (no direction data),radar
+128,40.0,5.95,United Kingdom,Europe (no direction data),radar
+128,50.0,6.0,United Kingdom,Europe (no direction data),radar
+128,60.0,10.6,United Kingdom,Europe (no direction data),radar
+128,70.0,19.21,United Kingdom,Europe (no direction data),radar
+128,80.0,30.77,United Kingdom,Europe (no direction data),radar
+128,90.0,43.91,United Kingdom,Europe (no direction data),radar
+128,100.0,57.03,United Kingdom,Europe (no direction data),radar
+128,110.0,68.55,United Kingdom,Europe (no direction data),radar
+128,120.0,77.08,United Kingdom,Europe (no direction data),radar
+128,130.0,81.59,United Kingdom,Europe (no direction data),radar
+128,140.0,81.55,United Kingdom,Europe (no direction data),radar
+128,150.0,76.94,United Kingdom,Europe (no direction data),radar
+128,160.0,68.34,United Kingdom,Europe (no direction data),radar
+128,170.0,56.77,United Kingdom,Europe (no direction data),radar
+128,0.0,43.64,United Kingdom,Europe (no direction data),radar
+129,0.0,272399.56,United Kingdom,Europe (direction data),radar
+129,10.0,191549.03,United Kingdom,Europe (direction data),radar
+129,20.0,117074.67,United Kingdom,Europe (direction data),radar
+129,30.0,57959.18,United Kingdom,Europe (direction data),radar
+129,40.0,21332.77,United Kingdom,Europe (direction data),radar
+129,50.0,11613.12,United Kingdom,Europe (direction data),radar
+129,60.0,29972.57,United Kingdom,Europe (direction data),radar
+129,70.0,74196.69,United Kingdom,Europe (direction data),radar
+129,80.0,138951.4,United Kingdom,Europe (direction data),radar
+129,90.0,216426.34,United Kingdom,Europe (direction data),radar
+129,100.0,297276.87,United Kingdom,Europe (direction data),radar
+129,110.0,371751.23,United Kingdom,Europe (direction data),radar
+129,120.0,430866.72,United Kingdom,Europe (direction data),radar
+129,130.0,467493.13,United Kingdom,Europe (direction data),radar
+129,140.0,477212.78,United Kingdom,Europe (direction data),radar
+129,150.0,458853.33,United Kingdom,Europe (direction data),radar
+129,160.0,414629.21,United Kingdom,Europe (direction data),radar
+129,170.0,349874.5,United Kingdom,Europe (direction data),radar
+129,0.0,272399.56,United Kingdom,Europe (direction data),radar
+130,0.0,93.51,Vietnam,East Asia,coarse-flyway
+130,10.0,76.92,Vietnam,East Asia,coarse-flyway
+130,20.0,59.27,Vietnam,East Asia,coarse-flyway
+130,30.0,42.68,Vietnam,East Asia,coarse-flyway
+130,40.0,29.16,Vietnam,East Asia,coarse-flyway
+130,50.0,20.33,Vietnam,East Asia,coarse-flyway
+130,60.0,17.27,Vietnam,East Asia,coarse-flyway
+130,70.0,20.33,Vietnam,East Asia,coarse-flyway
+130,80.0,29.16,Vietnam,East Asia,coarse-flyway
+130,90.0,42.68,Vietnam,East Asia,coarse-flyway
+130,100.0,59.27,Vietnam,East Asia,coarse-flyway
+130,110.0,76.92,Vietnam,East Asia,coarse-flyway
+130,120.0,93.51,Vietnam,East Asia,coarse-flyway
+130,130.0,107.03,Vietnam,East Asia,coarse-flyway
+130,140.0,115.86,Vietnam,East Asia,coarse-flyway
+130,150.0,118.93,Vietnam,East Asia,coarse-flyway
+130,160.0,115.86,Vietnam,East Asia,coarse-flyway
+130,170.0,107.03,Vietnam,East Asia,coarse-flyway
+130,0.0,93.51,Vietnam,East Asia,coarse-flyway
+131,0.0,93.51,China,East Asia,coarse-flyway
+131,10.0,76.92,China,East Asia,coarse-flyway
+131,20.0,59.27,China,East Asia,coarse-flyway
+131,30.0,42.68,China,East Asia,coarse-flyway
+131,40.0,29.16,China,East Asia,coarse-flyway
+131,50.0,20.33,China,East Asia,coarse-flyway
+131,60.0,17.27,China,East Asia,coarse-flyway
+131,70.0,20.33,China,East Asia,coarse-flyway
+131,80.0,29.16,China,East Asia,coarse-flyway
+131,90.0,42.68,China,East Asia,coarse-flyway
+131,100.0,59.27,China,East Asia,coarse-flyway
+131,110.0,76.92,China,East Asia,coarse-flyway
+131,120.0,93.51,China,East Asia,coarse-flyway
+131,130.0,107.03,China,East Asia,coarse-flyway
+131,140.0,115.86,China,East Asia,coarse-flyway
+131,150.0,118.93,China,East Asia,coarse-flyway
+131,160.0,115.86,China,East Asia,coarse-flyway
+131,170.0,107.03,China,East Asia,coarse-flyway
+131,0.0,93.51,China,East Asia,coarse-flyway
+132,0.0,93.51,China,East Asia,coarse-flyway
+132,10.0,76.92,China,East Asia,coarse-flyway
+132,20.0,59.27,China,East Asia,coarse-flyway
+132,30.0,42.68,China,East Asia,coarse-flyway
+132,40.0,29.16,China,East Asia,coarse-flyway
+132,50.0,20.33,China,East Asia,coarse-flyway
+132,60.0,17.27,China,East Asia,coarse-flyway
+132,70.0,20.33,China,East Asia,coarse-flyway
+132,80.0,29.16,China,East Asia,coarse-flyway
+132,90.0,42.68,China,East Asia,coarse-flyway
+132,100.0,59.27,China,East Asia,coarse-flyway
+132,110.0,76.92,China,East Asia,coarse-flyway
+132,120.0,93.51,China,East Asia,coarse-flyway
+132,130.0,107.03,China,East Asia,coarse-flyway
+132,140.0,115.86,China,East Asia,coarse-flyway
+132,150.0,118.93,China,East Asia,coarse-flyway
+132,160.0,115.86,China,East Asia,coarse-flyway
+132,170.0,107.03,China,East Asia,coarse-flyway
+132,0.0,93.51,China,East Asia,coarse-flyway
+133,0.0,93.51,Vietnam,East Asia,coarse-flyway
+133,10.0,76.92,Vietnam,East Asia,coarse-flyway
+133,20.0,59.27,Vietnam,East Asia,coarse-flyway
+133,30.0,42.68,Vietnam,East Asia,coarse-flyway
+133,40.0,29.16,Vietnam,East Asia,coarse-flyway
+133,50.0,20.33,Vietnam,East Asia,coarse-flyway
+133,60.0,17.27,Vietnam,East Asia,coarse-flyway
+133,70.0,20.33,Vietnam,East Asia,coarse-flyway
+133,80.0,29.16,Vietnam,East Asia,coarse-flyway
+133,90.0,42.68,Vietnam,East Asia,coarse-flyway
+133,100.0,59.27,Vietnam,East Asia,coarse-flyway
+133,110.0,76.92,Vietnam,East Asia,coarse-flyway
+133,120.0,93.51,Vietnam,East Asia,coarse-flyway
+133,130.0,107.03,Vietnam,East Asia,coarse-flyway
+133,140.0,115.86,Vietnam,East Asia,coarse-flyway
+133,150.0,118.93,Vietnam,East Asia,coarse-flyway
+133,160.0,115.86,Vietnam,East Asia,coarse-flyway
+133,170.0,107.03,Vietnam,East Asia,coarse-flyway
+133,0.0,93.51,Vietnam,East Asia,coarse-flyway
+134,0.0,272399.56,Netherlands,Europe (direction data),radar
+134,10.0,191549.03,Netherlands,Europe (direction data),radar
+134,20.0,117074.67,Netherlands,Europe (direction data),radar
+134,30.0,57959.18,Netherlands,Europe (direction data),radar
+134,40.0,21332.77,Netherlands,Europe (direction data),radar
+134,50.0,11613.12,Netherlands,Europe (direction data),radar
+134,60.0,29972.57,Netherlands,Europe (direction data),radar
+134,70.0,74196.69,Netherlands,Europe (direction data),radar
+134,80.0,138951.4,Netherlands,Europe (direction data),radar
+134,90.0,216426.34,Netherlands,Europe (direction data),radar
+134,100.0,297276.87,Netherlands,Europe (direction data),radar
+134,110.0,371751.23,Netherlands,Europe (direction data),radar
+134,120.0,430866.72,Netherlands,Europe (direction data),radar
+134,130.0,467493.13,Netherlands,Europe (direction data),radar
+134,140.0,477212.78,Netherlands,Europe (direction data),radar
+134,150.0,458853.33,Netherlands,Europe (direction data),radar
+134,160.0,414629.21,Netherlands,Europe (direction data),radar
+134,170.0,349874.5,Netherlands,Europe (direction data),radar
+134,0.0,272399.56,Netherlands,Europe (direction data),radar
+135,0.0,68.1,Japan,East Asia,coarse-flyway
+135,10.0,50.71,Japan,East Asia,coarse-flyway
+135,20.0,35.43,Japan,East Asia,coarse-flyway
+135,30.0,24.08,Japan,East Asia,coarse-flyway
+135,40.0,18.04,Japan,East Asia,coarse-flyway
+135,50.0,18.04,Japan,East Asia,coarse-flyway
+135,60.0,24.08,Japan,East Asia,coarse-flyway
+135,70.0,35.43,Japan,East Asia,coarse-flyway
+135,80.0,50.71,Japan,East Asia,coarse-flyway
+135,90.0,68.1,Japan,East Asia,coarse-flyway
+135,100.0,85.48,Japan,East Asia,coarse-flyway
+135,110.0,100.77,Japan,East Asia,coarse-flyway
+135,120.0,112.12,Japan,East Asia,coarse-flyway
+135,130.0,118.15,Japan,East Asia,coarse-flyway
+135,140.0,118.15,Japan,East Asia,coarse-flyway
+135,150.0,112.12,Japan,East Asia,coarse-flyway
+135,160.0,100.77,Japan,East Asia,coarse-flyway
+135,170.0,85.48,Japan,East Asia,coarse-flyway
+135,0.0,68.1,Japan,East Asia,coarse-flyway
+136,0.0,54.33,Denmark,Europe (no direction data),radar
+136,10.0,41.02,Denmark,Europe (no direction data),radar
+136,20.0,28.04,Denmark,Europe (no direction data),radar
+136,30.0,16.95,Denmark,Europe (no direction data),radar
+136,40.0,9.1,Denmark,Europe (no direction data),radar
+136,50.0,5.44,Denmark,Europe (no direction data),radar
+136,60.0,6.39,Denmark,Europe (no direction data),radar
+136,70.0,11.86,Denmark,Europe (no direction data),radar
+136,80.0,21.17,Denmark,Europe (no direction data),radar
+136,90.0,33.22,Denmark,Europe (no direction data),radar
+136,100.0,46.53,Denmark,Europe (no direction data),radar
+136,110.0,59.51,Denmark,Europe (no direction data),radar
+136,120.0,70.59,Denmark,Europe (no direction data),radar
+136,130.0,78.44,Denmark,Europe (no direction data),radar
+136,140.0,82.11,Denmark,Europe (no direction data),radar
+136,150.0,81.15,Denmark,Europe (no direction data),radar
+136,160.0,75.69,Denmark,Europe (no direction data),radar
+136,170.0,66.37,Denmark,Europe (no direction data),radar
+136,0.0,54.33,Denmark,Europe (no direction data),radar
+137,0.0,55.31,Germany,Europe (no direction data),radar
+137,10.0,39.8,Germany,Europe (no direction data),radar
+137,20.0,25.76,Germany,Europe (no direction data),radar
+137,30.0,14.87,Germany,Europe (no direction data),radar
+137,40.0,8.46,Germany,Europe (no direction data),radar
+137,50.0,7.29,Germany,Europe (no direction data),radar
+137,60.0,11.51,Germany,Europe (no direction data),radar
+137,70.0,20.6,Germany,Europe (no direction data),radar
+137,80.0,33.48,Germany,Europe (no direction data),radar
+137,90.0,48.58,Germany,Europe (no direction data),radar
+137,100.0,64.09,Germany,Europe (no direction data),radar
+137,110.0,78.13,Germany,Europe (no direction data),radar
+137,120.0,89.02,Germany,Europe (no direction data),radar
+137,130.0,95.43,Germany,Europe (no direction data),radar
+137,140.0,96.6,Germany,Europe (no direction data),radar
+137,150.0,92.38,Germany,Europe (no direction data),radar
+137,160.0,83.29,Germany,Europe (no direction data),radar
+137,170.0,70.41,Germany,Europe (no direction data),radar
+137,0.0,55.31,Germany,Europe (no direction data),radar
+138,0.0,68.1,United States of America,Americas,coarse-flyway
+138,10.0,50.71,United States of America,Americas,coarse-flyway
+138,20.0,35.43,United States of America,Americas,coarse-flyway
+138,30.0,24.08,United States of America,Americas,coarse-flyway
+138,40.0,18.04,United States of America,Americas,coarse-flyway
+138,50.0,18.04,United States of America,Americas,coarse-flyway
+138,60.0,24.08,United States of America,Americas,coarse-flyway
+138,70.0,35.43,United States of America,Americas,coarse-flyway
+138,80.0,50.71,United States of America,Americas,coarse-flyway
+138,90.0,68.1,United States of America,Americas,coarse-flyway
+138,100.0,85.48,United States of America,Americas,coarse-flyway
+138,110.0,100.77,United States of America,Americas,coarse-flyway
+138,120.0,112.12,United States of America,Americas,coarse-flyway
+138,130.0,118.15,United States of America,Americas,coarse-flyway
+138,140.0,118.15,United States of America,Americas,coarse-flyway
+138,150.0,112.12,United States of America,Americas,coarse-flyway
+138,160.0,100.77,United States of America,Americas,coarse-flyway
+138,170.0,85.48,United States of America,Americas,coarse-flyway
+138,0.0,68.1,United States of America,Americas,coarse-flyway
+139,0.0,68.1,South Korea,East Asia,coarse-flyway
+139,10.0,50.71,South Korea,East Asia,coarse-flyway
+139,20.0,35.43,South Korea,East Asia,coarse-flyway
+139,30.0,24.08,South Korea,East Asia,coarse-flyway
+139,40.0,18.04,South Korea,East Asia,coarse-flyway
+139,50.0,18.04,South Korea,East Asia,coarse-flyway
+139,60.0,24.08,South Korea,East Asia,coarse-flyway
+139,70.0,35.43,South Korea,East Asia,coarse-flyway
+139,80.0,50.71,South Korea,East Asia,coarse-flyway
+139,90.0,68.1,South Korea,East Asia,coarse-flyway
+139,100.0,85.48,South Korea,East Asia,coarse-flyway
+139,110.0,100.77,South Korea,East Asia,coarse-flyway
+139,120.0,112.12,South Korea,East Asia,coarse-flyway
+139,130.0,118.15,South Korea,East Asia,coarse-flyway
+139,140.0,118.15,South Korea,East Asia,coarse-flyway
+139,150.0,112.12,South Korea,East Asia,coarse-flyway
+139,160.0,100.77,South Korea,East Asia,coarse-flyway
+139,170.0,85.48,South Korea,East Asia,coarse-flyway
+139,0.0,68.1,South Korea,East Asia,coarse-flyway
+140,0.0,272399.56,Denmark,Europe (direction data),radar
+140,10.0,191549.03,Denmark,Europe (direction data),radar
+140,20.0,117074.67,Denmark,Europe (direction data),radar
+140,30.0,57959.18,Denmark,Europe (direction data),radar
+140,40.0,21332.77,Denmark,Europe (direction data),radar
+140,50.0,11613.12,Denmark,Europe (direction data),radar
+140,60.0,29972.57,Denmark,Europe (direction data),radar
+140,70.0,74196.69,Denmark,Europe (direction data),radar
+140,80.0,138951.4,Denmark,Europe (direction data),radar
+140,90.0,216426.34,Denmark,Europe (direction data),radar
+140,100.0,297276.87,Denmark,Europe (direction data),radar
+140,110.0,371751.23,Denmark,Europe (direction data),radar
+140,120.0,430866.72,Denmark,Europe (direction data),radar
+140,130.0,467493.13,Denmark,Europe (direction data),radar
+140,140.0,477212.78,Denmark,Europe (direction data),radar
+140,150.0,458853.33,Denmark,Europe (direction data),radar
+140,160.0,414629.21,Denmark,Europe (direction data),radar
+140,170.0,349874.5,Denmark,Europe (direction data),radar
+140,0.0,272399.56,Denmark,Europe (direction data),radar
+141,0.0,93.51,Vietnam,East Asia,coarse-flyway
+141,10.0,76.92,Vietnam,East Asia,coarse-flyway
+141,20.0,59.27,Vietnam,East Asia,coarse-flyway
+141,30.0,42.68,Vietnam,East Asia,coarse-flyway
+141,40.0,29.16,Vietnam,East Asia,coarse-flyway
+141,50.0,20.33,Vietnam,East Asia,coarse-flyway
+141,60.0,17.27,Vietnam,East Asia,coarse-flyway
+141,70.0,20.33,Vietnam,East Asia,coarse-flyway
+141,80.0,29.16,Vietnam,East Asia,coarse-flyway
+141,90.0,42.68,Vietnam,East Asia,coarse-flyway
+141,100.0,59.27,Vietnam,East Asia,coarse-flyway
+141,110.0,76.92,Vietnam,East Asia,coarse-flyway
+141,120.0,93.51,Vietnam,East Asia,coarse-flyway
+141,130.0,107.03,Vietnam,East Asia,coarse-flyway
+141,140.0,115.86,Vietnam,East Asia,coarse-flyway
+141,150.0,118.93,Vietnam,East Asia,coarse-flyway
+141,160.0,115.86,Vietnam,East Asia,coarse-flyway
+141,170.0,107.03,Vietnam,East Asia,coarse-flyway
+141,0.0,93.51,Vietnam,East Asia,coarse-flyway
+142,0.0,11.36,Germany,Europe (direction data),radar
+142,10.0,3.22,Germany,Europe (direction data),radar
+142,20.0,0.03,Germany,Europe (direction data),radar
+142,30.0,2.16,Germany,Europe (direction data),radar
+142,40.0,9.38,Germany,Europe (direction data),radar
+142,50.0,20.79,Germany,Europe (direction data),radar
+142,60.0,35.03,Germany,Europe (direction data),radar
+142,70.0,50.38,Germany,Europe (direction data),radar
+142,80.0,64.99,Germany,Europe (direction data),radar
+142,90.0,77.1,Germany,Europe (direction data),radar
+142,100.0,85.24,Germany,Europe (direction data),radar
+142,110.0,88.43,Germany,Europe (direction data),radar
+142,120.0,86.29,Germany,Europe (direction data),radar
+142,130.0,79.08,Germany,Europe (direction data),radar
+142,140.0,67.67,Germany,Europe (direction data),radar
+142,150.0,53.42,Germany,Europe (direction data),radar
+142,160.0,38.07,Germany,Europe (direction data),radar
+142,170.0,23.46,Germany,Europe (direction data),radar
+142,0.0,11.36,Germany,Europe (direction data),radar
+143,0.0,93.51,Vietnam,East Asia,coarse-flyway
+143,10.0,76.92,Vietnam,East Asia,coarse-flyway
+143,20.0,59.27,Vietnam,East Asia,coarse-flyway
+143,30.0,42.68,Vietnam,East Asia,coarse-flyway
+143,40.0,29.16,Vietnam,East Asia,coarse-flyway
+143,50.0,20.33,Vietnam,East Asia,coarse-flyway
+143,60.0,17.27,Vietnam,East Asia,coarse-flyway
+143,70.0,20.33,Vietnam,East Asia,coarse-flyway
+143,80.0,29.16,Vietnam,East Asia,coarse-flyway
+143,90.0,42.68,Vietnam,East Asia,coarse-flyway
+143,100.0,59.27,Vietnam,East Asia,coarse-flyway
+143,110.0,76.92,Vietnam,East Asia,coarse-flyway
+143,120.0,93.51,Vietnam,East Asia,coarse-flyway
+143,130.0,107.03,Vietnam,East Asia,coarse-flyway
+143,140.0,115.86,Vietnam,East Asia,coarse-flyway
+143,150.0,118.93,Vietnam,East Asia,coarse-flyway
+143,160.0,115.86,Vietnam,East Asia,coarse-flyway
+143,170.0,107.03,Vietnam,East Asia,coarse-flyway
+143,0.0,93.51,Vietnam,East Asia,coarse-flyway
+144,0.0,52.25,Sweden,Europe (no direction data),radar
+144,10.0,35.13,Sweden,Europe (no direction data),radar
+144,20.0,21.06,Sweden,Europe (no direction data),radar
+144,30.0,11.74,Sweden,Europe (no direction data),radar
+144,40.0,8.28,Sweden,Europe (no direction data),radar
+144,50.0,11.12,Sweden,Europe (no direction data),radar
+144,60.0,19.89,Sweden,Europe (no direction data),radar
+144,70.0,33.56,Sweden,Europe (no direction data),radar
+144,80.0,50.46,Sweden,Europe (no direction data),radar
+144,90.0,68.56,Sweden,Europe (no direction data),radar
+144,100.0,85.68,Sweden,Europe (no direction data),radar
+144,110.0,99.75,Sweden,Europe (no direction data),radar
+144,120.0,109.08,Sweden,Europe (no direction data),radar
+144,130.0,112.53,Sweden,Europe (no direction data),radar
+144,140.0,109.7,Sweden,Europe (no direction data),radar
+144,150.0,100.92,Sweden,Europe (no direction data),radar
+144,160.0,87.26,Sweden,Europe (no direction data),radar
+144,170.0,70.36,Sweden,Europe (no direction data),radar
+144,0.0,52.25,Sweden,Europe (no direction data),radar
+145,0.0,68.1,Japan,East Asia,coarse-flyway
+145,10.0,50.71,Japan,East Asia,coarse-flyway
+145,20.0,35.43,Japan,East Asia,coarse-flyway
+145,30.0,24.08,Japan,East Asia,coarse-flyway
+145,40.0,18.04,Japan,East Asia,coarse-flyway
+145,50.0,18.04,Japan,East Asia,coarse-flyway
+145,60.0,24.08,Japan,East Asia,coarse-flyway
+145,70.0,35.43,Japan,East Asia,coarse-flyway
+145,80.0,50.71,Japan,East Asia,coarse-flyway
+145,90.0,68.1,Japan,East Asia,coarse-flyway
+145,100.0,85.48,Japan,East Asia,coarse-flyway
+145,110.0,100.77,Japan,East Asia,coarse-flyway
+145,120.0,112.12,Japan,East Asia,coarse-flyway
+145,130.0,118.15,Japan,East Asia,coarse-flyway
+145,140.0,118.15,Japan,East Asia,coarse-flyway
+145,150.0,112.12,Japan,East Asia,coarse-flyway
+145,160.0,100.77,Japan,East Asia,coarse-flyway
+145,170.0,85.48,Japan,East Asia,coarse-flyway
+145,0.0,68.1,Japan,East Asia,coarse-flyway
+146,0.0,68.1,United States of America,Americas,coarse-flyway
+146,10.0,50.71,United States of America,Americas,coarse-flyway
+146,20.0,35.43,United States of America,Americas,coarse-flyway
+146,30.0,24.08,United States of America,Americas,coarse-flyway
+146,40.0,18.04,United States of America,Americas,coarse-flyway
+146,50.0,18.04,United States of America,Americas,coarse-flyway
+146,60.0,24.08,United States of America,Americas,coarse-flyway
+146,70.0,35.43,United States of America,Americas,coarse-flyway
+146,80.0,50.71,United States of America,Americas,coarse-flyway
+146,90.0,68.1,United States of America,Americas,coarse-flyway
+146,100.0,85.48,United States of America,Americas,coarse-flyway
+146,110.0,100.77,United States of America,Americas,coarse-flyway
+146,120.0,112.12,United States of America,Americas,coarse-flyway
+146,130.0,118.15,United States of America,Americas,coarse-flyway
+146,140.0,118.15,United States of America,Americas,coarse-flyway
+146,150.0,112.12,United States of America,Americas,coarse-flyway
+146,160.0,100.77,United States of America,Americas,coarse-flyway
+146,170.0,85.48,United States of America,Americas,coarse-flyway
+146,0.0,68.1,United States of America,Americas,coarse-flyway
+147,0.0,93.51,China,East Asia,coarse-flyway
+147,10.0,76.92,China,East Asia,coarse-flyway
+147,20.0,59.27,China,East Asia,coarse-flyway
+147,30.0,42.68,China,East Asia,coarse-flyway
+147,40.0,29.16,China,East Asia,coarse-flyway
+147,50.0,20.33,China,East Asia,coarse-flyway
+147,60.0,17.27,China,East Asia,coarse-flyway
+147,70.0,20.33,China,East Asia,coarse-flyway
+147,80.0,29.16,China,East Asia,coarse-flyway
+147,90.0,42.68,China,East Asia,coarse-flyway
+147,100.0,59.27,China,East Asia,coarse-flyway
+147,110.0,76.92,China,East Asia,coarse-flyway
+147,120.0,93.51,China,East Asia,coarse-flyway
+147,130.0,107.03,China,East Asia,coarse-flyway
+147,140.0,115.86,China,East Asia,coarse-flyway
+147,150.0,118.93,China,East Asia,coarse-flyway
+147,160.0,115.86,China,East Asia,coarse-flyway
+147,170.0,107.03,China,East Asia,coarse-flyway
+147,0.0,93.51,China,East Asia,coarse-flyway
+148,0.0,52.25,Finland,Europe (no direction data),radar
+148,10.0,35.13,Finland,Europe (no direction data),radar
+148,20.0,21.06,Finland,Europe (no direction data),radar
+148,30.0,11.74,Finland,Europe (no direction data),radar
+148,40.0,8.28,Finland,Europe (no direction data),radar
+148,50.0,11.12,Finland,Europe (no direction data),radar
+148,60.0,19.89,Finland,Europe (no direction data),radar
+148,70.0,33.56,Finland,Europe (no direction data),radar
+148,80.0,50.46,Finland,Europe (no direction data),radar
+148,90.0,68.56,Finland,Europe (no direction data),radar
+148,100.0,85.68,Finland,Europe (no direction data),radar
+148,110.0,99.75,Finland,Europe (no direction data),radar
+148,120.0,109.08,Finland,Europe (no direction data),radar
+148,130.0,112.53,Finland,Europe (no direction data),radar
+148,140.0,109.7,Finland,Europe (no direction data),radar
+148,150.0,100.92,Finland,Europe (no direction data),radar
+148,160.0,87.26,Finland,Europe (no direction data),radar
+148,170.0,70.36,Finland,Europe (no direction data),radar
+148,0.0,52.25,Finland,Europe (no direction data),radar
+149,0.0,62.76,Sweden,Europe (no direction data),radar
+149,10.0,45.21,Sweden,Europe (no direction data),radar
+149,20.0,29.32,Sweden,Europe (no direction data),radar
+149,30.0,17.0,Sweden,Europe (no direction data),radar
+149,40.0,9.74,Sweden,Europe (no direction data),radar
+149,50.0,8.42,Sweden,Europe (no direction data),radar
+149,60.0,13.19,Sweden,Europe (no direction data),radar
+149,70.0,23.48,Sweden,Europe (no direction data),radar
+149,80.0,38.05,Sweden,Europe (no direction data),radar
+149,90.0,55.14,Sweden,Europe (no direction data),radar
+149,100.0,72.69,Sweden,Europe (no direction data),radar
+149,110.0,88.58,Sweden,Europe (no direction data),radar
+149,120.0,100.9,Sweden,Europe (no direction data),radar
+149,130.0,108.15,Sweden,Europe (no direction data),radar
+149,140.0,109.47,Sweden,Europe (no direction data),radar
+149,150.0,104.7,Sweden,Europe (no direction data),radar
+149,160.0,94.41,Sweden,Europe (no direction data),radar
+149,170.0,79.84,Sweden,Europe (no direction data),radar
+149,0.0,62.76,Sweden,Europe (no direction data),radar
+150,0.0,43.64,United Kingdom,Europe (no direction data),radar
+150,10.0,30.52,United Kingdom,Europe (no direction data),radar
+150,20.0,19.0,United Kingdom,Europe (no direction data),radar
+150,30.0,10.47,United Kingdom,Europe (no direction data),radar
+150,40.0,5.95,United Kingdom,Europe (no direction data),radar
+150,50.0,6.0,United Kingdom,Europe (no direction data),radar
+150,60.0,10.6,United Kingdom,Europe (no direction data),radar
+150,70.0,19.21,United Kingdom,Europe (no direction data),radar
+150,80.0,30.77,United Kingdom,Europe (no direction data),radar
+150,90.0,43.91,United Kingdom,Europe (no direction data),radar
+150,100.0,57.03,United Kingdom,Europe (no direction data),radar
+150,110.0,68.55,United Kingdom,Europe (no direction data),radar
+150,120.0,77.08,United Kingdom,Europe (no direction data),radar
+150,130.0,81.59,United Kingdom,Europe (no direction data),radar
+150,140.0,81.55,United Kingdom,Europe (no direction data),radar
+150,150.0,76.94,United Kingdom,Europe (no direction data),radar
+150,160.0,68.34,United Kingdom,Europe (no direction data),radar
+150,170.0,56.77,United Kingdom,Europe (no direction data),radar
+150,0.0,43.64,United Kingdom,Europe (no direction data),radar
+151,0.0,68.1,South Korea,East Asia,coarse-flyway
+151,10.0,50.71,South Korea,East Asia,coarse-flyway
+151,20.0,35.43,South Korea,East Asia,coarse-flyway
+151,30.0,24.08,South Korea,East Asia,coarse-flyway
+151,40.0,18.04,South Korea,East Asia,coarse-flyway
+151,50.0,18.04,South Korea,East Asia,coarse-flyway
+151,60.0,24.08,South Korea,East Asia,coarse-flyway
+151,70.0,35.43,South Korea,East Asia,coarse-flyway
+151,80.0,50.71,South Korea,East Asia,coarse-flyway
+151,90.0,68.1,South Korea,East Asia,coarse-flyway
+151,100.0,85.48,South Korea,East Asia,coarse-flyway
+151,110.0,100.77,South Korea,East Asia,coarse-flyway
+151,120.0,112.12,South Korea,East Asia,coarse-flyway
+151,130.0,118.15,South Korea,East Asia,coarse-flyway
+151,140.0,118.15,South Korea,East Asia,coarse-flyway
+151,150.0,112.12,South Korea,East Asia,coarse-flyway
+151,160.0,100.77,South Korea,East Asia,coarse-flyway
+151,170.0,85.48,South Korea,East Asia,coarse-flyway
+151,0.0,68.1,South Korea,East Asia,coarse-flyway
+152,0.0,54.33,Denmark,Europe (no direction data),radar
+152,10.0,41.02,Denmark,Europe (no direction data),radar
+152,20.0,28.04,Denmark,Europe (no direction data),radar
+152,30.0,16.95,Denmark,Europe (no direction data),radar
+152,40.0,9.1,Denmark,Europe (no direction data),radar
+152,50.0,5.44,Denmark,Europe (no direction data),radar
+152,60.0,6.39,Denmark,Europe (no direction data),radar
+152,70.0,11.86,Denmark,Europe (no direction data),radar
+152,80.0,21.17,Denmark,Europe (no direction data),radar
+152,90.0,33.22,Denmark,Europe (no direction data),radar
+152,100.0,46.53,Denmark,Europe (no direction data),radar
+152,110.0,59.51,Denmark,Europe (no direction data),radar
+152,120.0,70.59,Denmark,Europe (no direction data),radar
+152,130.0,78.44,Denmark,Europe (no direction data),radar
+152,140.0,82.11,Denmark,Europe (no direction data),radar
+152,150.0,81.15,Denmark,Europe (no direction data),radar
+152,160.0,75.69,Denmark,Europe (no direction data),radar
+152,170.0,66.37,Denmark,Europe (no direction data),radar
+152,0.0,54.33,Denmark,Europe (no direction data),radar
+153,0.0,55.88,Denmark,Europe (no direction data),radar
+153,10.0,41.96,Denmark,Europe (no direction data),radar
+153,20.0,28.51,Denmark,Europe (no direction data),radar
+153,30.0,17.15,Denmark,Europe (no direction data),radar
+153,40.0,9.24,Denmark,Europe (no direction data),radar
+153,50.0,5.75,Denmark,Europe (no direction data),radar
+153,60.0,7.08,Denmark,Europe (no direction data),radar
+153,70.0,13.09,Denmark,Europe (no direction data),radar
+153,80.0,23.05,Denmark,Europe (no direction data),radar
+153,90.0,35.75,Denmark,Europe (no direction data),radar
+153,100.0,49.67,Denmark,Europe (no direction data),radar
+153,110.0,63.12,Denmark,Europe (no direction data),radar
+153,120.0,74.49,Denmark,Europe (no direction data),radar
+153,130.0,82.39,Denmark,Europe (no direction data),radar
+153,140.0,85.89,Denmark,Europe (no direction data),radar
+153,150.0,84.55,Denmark,Europe (no direction data),radar
+153,160.0,78.54,Denmark,Europe (no direction data),radar
+153,170.0,68.58,Denmark,Europe (no direction data),radar
+153,0.0,55.88,Denmark,Europe (no direction data),radar
+154,0.0,55.88,Denmark,Europe (no direction data),radar
+154,10.0,41.96,Denmark,Europe (no direction data),radar
+154,20.0,28.51,Denmark,Europe (no direction data),radar
+154,30.0,17.15,Denmark,Europe (no direction data),radar
+154,40.0,9.24,Denmark,Europe (no direction data),radar
+154,50.0,5.75,Denmark,Europe (no direction data),radar
+154,60.0,7.08,Denmark,Europe (no direction data),radar
+154,70.0,13.09,Denmark,Europe (no direction data),radar
+154,80.0,23.05,Denmark,Europe (no direction data),radar
+154,90.0,35.75,Denmark,Europe (no direction data),radar
+154,100.0,49.67,Denmark,Europe (no direction data),radar
+154,110.0,63.12,Denmark,Europe (no direction data),radar
+154,120.0,74.49,Denmark,Europe (no direction data),radar
+154,130.0,82.39,Denmark,Europe (no direction data),radar
+154,140.0,85.89,Denmark,Europe (no direction data),radar
+154,150.0,84.55,Denmark,Europe (no direction data),radar
+154,160.0,78.54,Denmark,Europe (no direction data),radar
+154,170.0,68.58,Denmark,Europe (no direction data),radar
+154,0.0,55.88,Denmark,Europe (no direction data),radar
+155,0.0,36.58,Italy,Europe (no direction data),radar
+155,10.0,24.36,Italy,Europe (no direction data),radar
+155,20.0,14.48,Italy,Europe (no direction data),radar
+155,30.0,8.14,Italy,Europe (no direction data),radar
+155,40.0,6.09,Italy,Europe (no direction data),radar
+155,50.0,8.59,Italy,Europe (no direction data),radar
+155,60.0,15.33,Italy,Europe (no direction data),radar
+155,70.0,25.5,Italy,Europe (no direction data),radar
+155,80.0,37.88,Italy,Europe (no direction data),radar
+155,90.0,50.97,Italy,Europe (no direction data),radar
+155,100.0,63.19,Italy,Europe (no direction data),radar
+155,110.0,73.07,Italy,Europe (no direction data),radar
+155,120.0,79.41,Italy,Europe (no direction data),radar
+155,130.0,81.46,Italy,Europe (no direction data),radar
+155,140.0,78.96,Italy,Europe (no direction data),radar
+155,150.0,72.22,Italy,Europe (no direction data),radar
+155,160.0,62.05,Italy,Europe (no direction data),radar
+155,170.0,49.67,Italy,Europe (no direction data),radar
+155,0.0,36.58,Italy,Europe (no direction data),radar
+156,0.0,68.1,United States of America,Americas,coarse-flyway
+156,10.0,50.71,United States of America,Americas,coarse-flyway
+156,20.0,35.43,United States of America,Americas,coarse-flyway
+156,30.0,24.08,United States of America,Americas,coarse-flyway
+156,40.0,18.04,United States of America,Americas,coarse-flyway
+156,50.0,18.04,United States of America,Americas,coarse-flyway
+156,60.0,24.08,United States of America,Americas,coarse-flyway
+156,70.0,35.43,United States of America,Americas,coarse-flyway
+156,80.0,50.71,United States of America,Americas,coarse-flyway
+156,90.0,68.1,United States of America,Americas,coarse-flyway
+156,100.0,85.48,United States of America,Americas,coarse-flyway
+156,110.0,100.77,United States of America,Americas,coarse-flyway
+156,120.0,112.12,United States of America,Americas,coarse-flyway
+156,130.0,118.15,United States of America,Americas,coarse-flyway
+156,140.0,118.15,United States of America,Americas,coarse-flyway
+156,150.0,112.12,United States of America,Americas,coarse-flyway
+156,160.0,100.77,United States of America,Americas,coarse-flyway
+156,170.0,85.48,United States of America,Americas,coarse-flyway
+156,0.0,68.1,United States of America,Americas,coarse-flyway
+157,0.0,51.0,Denmark,Europe (no direction data),radar
+157,10.0,37.73,Denmark,Europe (no direction data),radar
+157,20.0,25.18,Denmark,Europe (no direction data),radar
+157,30.0,14.87,Denmark,Europe (no direction data),radar
+157,40.0,8.05,Denmark,Europe (no direction data),radar
+157,50.0,5.54,Denmark,Europe (no direction data),radar
+157,60.0,7.64,Denmark,Europe (no direction data),radar
+157,70.0,14.1,Denmark,Europe (no direction data),radar
+157,80.0,24.14,Denmark,Europe (no direction data),radar
+157,90.0,36.54,Denmark,Europe (no direction data),radar
+157,100.0,49.82,Denmark,Europe (no direction data),radar
+157,110.0,62.37,Denmark,Europe (no direction data),radar
+157,120.0,72.67,Denmark,Europe (no direction data),radar
+157,130.0,79.49,Denmark,Europe (no direction data),radar
+157,140.0,82.0,Denmark,Europe (no direction data),radar
+157,150.0,79.9,Denmark,Europe (no direction data),radar
+157,160.0,73.45,Denmark,Europe (no direction data),radar
+157,170.0,63.41,Denmark,Europe (no direction data),radar
+157,0.0,51.0,Denmark,Europe (no direction data),radar
+158,0.0,58.68,Ireland,Europe (no direction data),radar
+158,10.0,45.65,Ireland,Europe (no direction data),radar
+158,20.0,32.4,Ireland,Europe (no direction data),radar
+158,30.0,20.52,Ireland,Europe (no direction data),radar
+158,40.0,11.44,Ireland,Europe (no direction data),radar
+158,50.0,6.27,Ireland,Europe (no direction data),radar
+158,60.0,5.61,Ireland,Europe (no direction data),radar
+158,70.0,9.56,Ireland,Europe (no direction data),radar
+158,80.0,17.64,Ireland,Europe (no direction data),radar
+158,90.0,28.87,Ireland,Europe (no direction data),radar
+158,100.0,41.89,Ireland,Europe (no direction data),radar
+158,110.0,55.15,Ireland,Europe (no direction data),radar
+158,120.0,67.03,Ireland,Europe (no direction data),radar
+158,130.0,76.1,Ireland,Europe (no direction data),radar
+158,140.0,81.28,Ireland,Europe (no direction data),radar
+158,150.0,81.93,Ireland,Europe (no direction data),radar
+158,160.0,77.98,Ireland,Europe (no direction data),radar
+158,170.0,69.91,Ireland,Europe (no direction data),radar
+158,0.0,58.68,Ireland,Europe (no direction data),radar
+159,0.0,93.51,Vietnam,East Asia,coarse-flyway
+159,10.0,76.92,Vietnam,East Asia,coarse-flyway
+159,20.0,59.27,Vietnam,East Asia,coarse-flyway
+159,30.0,42.68,Vietnam,East Asia,coarse-flyway
+159,40.0,29.16,Vietnam,East Asia,coarse-flyway
+159,50.0,20.33,Vietnam,East Asia,coarse-flyway
+159,60.0,17.27,Vietnam,East Asia,coarse-flyway
+159,70.0,20.33,Vietnam,East Asia,coarse-flyway
+159,80.0,29.16,Vietnam,East Asia,coarse-flyway
+159,90.0,42.68,Vietnam,East Asia,coarse-flyway
+159,100.0,59.27,Vietnam,East Asia,coarse-flyway
+159,110.0,76.92,Vietnam,East Asia,coarse-flyway
+159,120.0,93.51,Vietnam,East Asia,coarse-flyway
+159,130.0,107.03,Vietnam,East Asia,coarse-flyway
+159,140.0,115.86,Vietnam,East Asia,coarse-flyway
+159,150.0,118.93,Vietnam,East Asia,coarse-flyway
+159,160.0,115.86,Vietnam,East Asia,coarse-flyway
+159,170.0,107.03,Vietnam,East Asia,coarse-flyway
+159,0.0,93.51,Vietnam,East Asia,coarse-flyway
+160,0.0,68.1,United States of America,Americas,coarse-flyway
+160,10.0,50.71,United States of America,Americas,coarse-flyway
+160,20.0,35.43,United States of America,Americas,coarse-flyway
+160,30.0,24.08,United States of America,Americas,coarse-flyway
+160,40.0,18.04,United States of America,Americas,coarse-flyway
+160,50.0,18.04,United States of America,Americas,coarse-flyway
+160,60.0,24.08,United States of America,Americas,coarse-flyway
+160,70.0,35.43,United States of America,Americas,coarse-flyway
+160,80.0,50.71,United States of America,Americas,coarse-flyway
+160,90.0,68.1,United States of America,Americas,coarse-flyway
+160,100.0,85.48,United States of America,Americas,coarse-flyway
+160,110.0,100.77,United States of America,Americas,coarse-flyway
+160,120.0,112.12,United States of America,Americas,coarse-flyway
+160,130.0,118.15,United States of America,Americas,coarse-flyway
+160,140.0,118.15,United States of America,Americas,coarse-flyway
+160,150.0,112.12,United States of America,Americas,coarse-flyway
+160,160.0,100.77,United States of America,Americas,coarse-flyway
+160,170.0,85.48,United States of America,Americas,coarse-flyway
+160,0.0,68.1,United States of America,Americas,coarse-flyway
+161,0.0,43.64,United Kingdom,Europe (no direction data),radar
+161,10.0,30.52,United Kingdom,Europe (no direction data),radar
+161,20.0,19.0,United Kingdom,Europe (no direction data),radar
+161,30.0,10.47,United Kingdom,Europe (no direction data),radar
+161,40.0,5.95,United Kingdom,Europe (no direction data),radar
+161,50.0,6.0,United Kingdom,Europe (no direction data),radar
+161,60.0,10.6,United Kingdom,Europe (no direction data),radar
+161,70.0,19.21,United Kingdom,Europe (no direction data),radar
+161,80.0,30.77,United Kingdom,Europe (no direction data),radar
+161,90.0,43.91,United Kingdom,Europe (no direction data),radar
+161,100.0,57.03,United Kingdom,Europe (no direction data),radar
+161,110.0,68.55,United Kingdom,Europe (no direction data),radar
+161,120.0,77.08,United Kingdom,Europe (no direction data),radar
+161,130.0,81.59,United Kingdom,Europe (no direction data),radar
+161,140.0,81.55,United Kingdom,Europe (no direction data),radar
+161,150.0,76.94,United Kingdom,Europe (no direction data),radar
+161,160.0,68.34,United Kingdom,Europe (no direction data),radar
+161,170.0,56.77,United Kingdom,Europe (no direction data),radar
+161,0.0,43.64,United Kingdom,Europe (no direction data),radar
+162,0.0,43.64,United Kingdom,Europe (no direction data),radar
+162,10.0,30.52,United Kingdom,Europe (no direction data),radar
+162,20.0,19.0,United Kingdom,Europe (no direction data),radar
+162,30.0,10.47,United Kingdom,Europe (no direction data),radar
+162,40.0,5.95,United Kingdom,Europe (no direction data),radar
+162,50.0,6.0,United Kingdom,Europe (no direction data),radar
+162,60.0,10.6,United Kingdom,Europe (no direction data),radar
+162,70.0,19.21,United Kingdom,Europe (no direction data),radar
+162,80.0,30.77,United Kingdom,Europe (no direction data),radar
+162,90.0,43.91,United Kingdom,Europe (no direction data),radar
+162,100.0,57.03,United Kingdom,Europe (no direction data),radar
+162,110.0,68.55,United Kingdom,Europe (no direction data),radar
+162,120.0,77.08,United Kingdom,Europe (no direction data),radar
+162,130.0,81.59,United Kingdom,Europe (no direction data),radar
+162,140.0,81.55,United Kingdom,Europe (no direction data),radar
+162,150.0,76.94,United Kingdom,Europe (no direction data),radar
+162,160.0,68.34,United Kingdom,Europe (no direction data),radar
+162,170.0,56.77,United Kingdom,Europe (no direction data),radar
+162,0.0,43.64,United Kingdom,Europe (no direction data),radar
+163,0.0,52.25,Sweden,Europe (no direction data),radar
+163,10.0,35.13,Sweden,Europe (no direction data),radar
+163,20.0,21.06,Sweden,Europe (no direction data),radar
+163,30.0,11.74,Sweden,Europe (no direction data),radar
+163,40.0,8.28,Sweden,Europe (no direction data),radar
+163,50.0,11.12,Sweden,Europe (no direction data),radar
+163,60.0,19.89,Sweden,Europe (no direction data),radar
+163,70.0,33.56,Sweden,Europe (no direction data),radar
+163,80.0,50.46,Sweden,Europe (no direction data),radar
+163,90.0,68.56,Sweden,Europe (no direction data),radar
+163,100.0,85.68,Sweden,Europe (no direction data),radar
+163,110.0,99.75,Sweden,Europe (no direction data),radar
+163,120.0,109.08,Sweden,Europe (no direction data),radar
+163,130.0,112.53,Sweden,Europe (no direction data),radar
+163,140.0,109.7,Sweden,Europe (no direction data),radar
+163,150.0,100.92,Sweden,Europe (no direction data),radar
+163,160.0,87.26,Sweden,Europe (no direction data),radar
+163,170.0,70.36,Sweden,Europe (no direction data),radar
+163,0.0,52.25,Sweden,Europe (no direction data),radar
+164,0.0,43.64,United Kingdom,Europe (no direction data),radar
+164,10.0,30.52,United Kingdom,Europe (no direction data),radar
+164,20.0,19.0,United Kingdom,Europe (no direction data),radar
+164,30.0,10.47,United Kingdom,Europe (no direction data),radar
+164,40.0,5.95,United Kingdom,Europe (no direction data),radar
+164,50.0,6.0,United Kingdom,Europe (no direction data),radar
+164,60.0,10.6,United Kingdom,Europe (no direction data),radar
+164,70.0,19.21,United Kingdom,Europe (no direction data),radar
+164,80.0,30.77,United Kingdom,Europe (no direction data),radar
+164,90.0,43.91,United Kingdom,Europe (no direction data),radar
+164,100.0,57.03,United Kingdom,Europe (no direction data),radar
+164,110.0,68.55,United Kingdom,Europe (no direction data),radar
+164,120.0,77.08,United Kingdom,Europe (no direction data),radar
+164,130.0,81.59,United Kingdom,Europe (no direction data),radar
+164,140.0,81.55,United Kingdom,Europe (no direction data),radar
+164,150.0,76.94,United Kingdom,Europe (no direction data),radar
+164,160.0,68.34,United Kingdom,Europe (no direction data),radar
+164,170.0,56.77,United Kingdom,Europe (no direction data),radar
+164,0.0,43.64,United Kingdom,Europe (no direction data),radar
+165,0.0,93.51,China,East Asia,coarse-flyway
+165,10.0,76.92,China,East Asia,coarse-flyway
+165,20.0,59.27,China,East Asia,coarse-flyway
+165,30.0,42.68,China,East Asia,coarse-flyway
+165,40.0,29.16,China,East Asia,coarse-flyway
+165,50.0,20.33,China,East Asia,coarse-flyway
+165,60.0,17.27,China,East Asia,coarse-flyway
+165,70.0,20.33,China,East Asia,coarse-flyway
+165,80.0,29.16,China,East Asia,coarse-flyway
+165,90.0,42.68,China,East Asia,coarse-flyway
+165,100.0,59.27,China,East Asia,coarse-flyway
+165,110.0,76.92,China,East Asia,coarse-flyway
+165,120.0,93.51,China,East Asia,coarse-flyway
+165,130.0,107.03,China,East Asia,coarse-flyway
+165,140.0,115.86,China,East Asia,coarse-flyway
+165,150.0,118.93,China,East Asia,coarse-flyway
+165,160.0,115.86,China,East Asia,coarse-flyway
+165,170.0,107.03,China,East Asia,coarse-flyway
+165,0.0,93.51,China,East Asia,coarse-flyway
+166,0.0,68.1,Japan,East Asia,coarse-flyway
+166,10.0,50.71,Japan,East Asia,coarse-flyway
+166,20.0,35.43,Japan,East Asia,coarse-flyway
+166,30.0,24.08,Japan,East Asia,coarse-flyway
+166,40.0,18.04,Japan,East Asia,coarse-flyway
+166,50.0,18.04,Japan,East Asia,coarse-flyway
+166,60.0,24.08,Japan,East Asia,coarse-flyway
+166,70.0,35.43,Japan,East Asia,coarse-flyway
+166,80.0,50.71,Japan,East Asia,coarse-flyway
+166,90.0,68.1,Japan,East Asia,coarse-flyway
+166,100.0,85.48,Japan,East Asia,coarse-flyway
+166,110.0,100.77,Japan,East Asia,coarse-flyway
+166,120.0,112.12,Japan,East Asia,coarse-flyway
+166,130.0,118.15,Japan,East Asia,coarse-flyway
+166,140.0,118.15,Japan,East Asia,coarse-flyway
+166,150.0,112.12,Japan,East Asia,coarse-flyway
+166,160.0,100.77,Japan,East Asia,coarse-flyway
+166,170.0,85.48,Japan,East Asia,coarse-flyway
+166,0.0,68.1,Japan,East Asia,coarse-flyway
+167,0.0,54.54,France,Europe (no direction data),radar
+167,10.0,41.22,France,Europe (no direction data),radar
+167,20.0,28.21,France,Europe (no direction data),radar
+167,30.0,17.07,France,Europe (no direction data),radar
+167,40.0,9.16,France,Europe (no direction data),radar
+167,50.0,5.42,France,Europe (no direction data),radar
+167,60.0,6.31,France,Europe (no direction data),radar
+167,70.0,11.72,France,Europe (no direction data),radar
+167,80.0,20.99,France,Europe (no direction data),radar
+167,90.0,33.01,France,Europe (no direction data),radar
+167,100.0,46.33,France,Europe (no direction data),radar
+167,110.0,59.34,France,Europe (no direction data),radar
+167,120.0,70.47,France,Europe (no direction data),radar
+167,130.0,78.39,France,Europe (no direction data),radar
+167,140.0,82.12,France,Europe (no direction data),radar
+167,150.0,81.24,France,Europe (no direction data),radar
+167,160.0,75.83,France,Europe (no direction data),radar
+167,170.0,66.56,France,Europe (no direction data),radar
+167,0.0,54.54,France,Europe (no direction data),radar
+168,0.0,93.51,China,East Asia,coarse-flyway
+168,10.0,76.92,China,East Asia,coarse-flyway
+168,20.0,59.27,China,East Asia,coarse-flyway
+168,30.0,42.68,China,East Asia,coarse-flyway
+168,40.0,29.16,China,East Asia,coarse-flyway
+168,50.0,20.33,China,East Asia,coarse-flyway
+168,60.0,17.27,China,East Asia,coarse-flyway
+168,70.0,20.33,China,East Asia,coarse-flyway
+168,80.0,29.16,China,East Asia,coarse-flyway
+168,90.0,42.68,China,East Asia,coarse-flyway
+168,100.0,59.27,China,East Asia,coarse-flyway
+168,110.0,76.92,China,East Asia,coarse-flyway
+168,120.0,93.51,China,East Asia,coarse-flyway
+168,130.0,107.03,China,East Asia,coarse-flyway
+168,140.0,115.86,China,East Asia,coarse-flyway
+168,150.0,118.93,China,East Asia,coarse-flyway
+168,160.0,115.86,China,East Asia,coarse-flyway
+168,170.0,107.03,China,East Asia,coarse-flyway
+168,0.0,93.51,China,East Asia,coarse-flyway
+169,0.0,93.51,China,East Asia,coarse-flyway
+169,10.0,76.92,China,East Asia,coarse-flyway
+169,20.0,59.27,China,East Asia,coarse-flyway
+169,30.0,42.68,China,East Asia,coarse-flyway
+169,40.0,29.16,China,East Asia,coarse-flyway
+169,50.0,20.33,China,East Asia,coarse-flyway
+169,60.0,17.27,China,East Asia,coarse-flyway
+169,70.0,20.33,China,East Asia,coarse-flyway
+169,80.0,29.16,China,East Asia,coarse-flyway
+169,90.0,42.68,China,East Asia,coarse-flyway
+169,100.0,59.27,China,East Asia,coarse-flyway
+169,110.0,76.92,China,East Asia,coarse-flyway
+169,120.0,93.51,China,East Asia,coarse-flyway
+169,130.0,107.03,China,East Asia,coarse-flyway
+169,140.0,115.86,China,East Asia,coarse-flyway
+169,150.0,118.93,China,East Asia,coarse-flyway
+169,160.0,115.86,China,East Asia,coarse-flyway
+169,170.0,107.03,China,East Asia,coarse-flyway
+169,0.0,93.51,China,East Asia,coarse-flyway
+170,0.0,58.4,Portugal,Europe (no direction data),radar
+170,10.0,45.73,Portugal,Europe (no direction data),radar
+170,20.0,32.83,Portugal,Europe (no direction data),radar
+170,30.0,21.24,Portugal,Europe (no direction data),radar
+170,40.0,12.37,Portugal,Europe (no direction data),radar
+170,50.0,7.29,Portugal,Europe (no direction data),radar
+170,60.0,6.61,Portugal,Europe (no direction data),radar
+170,70.0,10.41,Portugal,Europe (no direction data),radar
+170,80.0,18.24,Portugal,Europe (no direction data),radar
+170,90.0,29.14,Portugal,Europe (no direction data),radar
+170,100.0,41.81,Portugal,Europe (no direction data),radar
+170,110.0,54.72,Portugal,Europe (no direction data),radar
+170,120.0,66.31,Portugal,Europe (no direction data),radar
+170,130.0,75.17,Portugal,Europe (no direction data),radar
+170,140.0,80.26,Portugal,Europe (no direction data),radar
+170,150.0,80.94,Portugal,Europe (no direction data),radar
+170,160.0,77.13,Portugal,Europe (no direction data),radar
+170,170.0,69.31,Portugal,Europe (no direction data),radar
+170,0.0,58.4,Portugal,Europe (no direction data),radar

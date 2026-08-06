@@ -1,0 +1,59 @@
+﻿farm_id,country,group,bauer_lat,bauer_lon,bauer_dist_km,bauer_spring_dir,bauer_autumn_dir,bauer_conc,bauer_n_obs
+2,Belgium,Europe (direction data),51.25,3.0,45.0,40.6,228.0,0.131,3450
+5,United Kingdom,Europe (direction data),51.25,3.0,324.0,40.6,228.0,0.131,3450
+7,Netherlands,Europe (direction data),53.25,6.5,84.0,43.0,227.3,0.046,3402
+11,Germany,Europe (direction data),53.5,7.75,107.0,45.0,229.8,0.056,3394
+15,Netherlands,Europe (direction data),52.0,4.25,41.0,40.0,227.5,0.083,3430
+16,Netherlands,Europe (direction data),53.25,6.0,121.0,42.4,226.3,0.037,3401
+17,United Kingdom,Europe (direction data),50.75,1.75,101.0,41.7,228.1,0.129,3465
+18,Germany,Europe (direction data),53.5,7.25,67.0,44.7,229.0,0.051,3394
+20,Netherlands,Europe (direction data),53.25,6.25,137.0,42.7,226.8,0.041,3400
+22,Germany,Europe (no direction data),54.0,11.5,63.0,43.5,233.3,0.151,3398
+23,Netherlands,Europe (direction data),53.25,6.0,89.0,42.4,226.3,0.037,3401
+25,Sweden,Europe (no direction data),54.5,13.25,60.0,40.9,233.4,0.202,3385
+26,United Kingdom,Europe (direction data),51.0,2.5,119.0,41.0,228.0,0.137,3458
+27,Denmark,Europe (direction data),55.0,8.75,145.0,51.1,234.8,0.13,3349
+29,Sweden,Europe (no direction data),54.5,13.5,74.0,40.2,233.0,0.207,3383
+30,United Kingdom,Europe (direction data),50.75,1.75,305.0,41.7,228.1,0.129,3465
+31,Netherlands,Europe (direction data),52.25,4.5,53.0,40.0,227.0,0.071,3423
+36,United Kingdom,Europe (direction data),49.75,0.5,134.0,44.3,230.2,0.116,3501
+43,Denmark,Europe (no direction data),54.75,10.0,246.0,49.2,235.3,0.157,3353
+48,United Kingdom,Europe (direction data),51.25,3.0,123.0,40.6,228.0,0.131,3450
+49,France,Europe (direction data),50.75,1.75,77.0,41.7,228.1,0.129,3465
+51,United Kingdom,Europe (direction data),50.75,1.75,298.0,41.7,228.1,0.129,3465
+53,United Kingdom,Europe (direction data),50.75,1.75,319.0,41.7,228.1,0.129,3465
+54,Netherlands,Europe (direction data),53.0,5.5,26.0,41.1,225.4,0.039,3406
+55,United Kingdom,Europe (direction data),50.75,1.75,273.0,41.7,228.1,0.129,3465
+58,France,Europe (no direction data),47.5,-2.5,40.0,56.3,238.4,0.043,3503
+59,Denmark,Europe (direction data),55.0,8.75,114.0,51.1,234.8,0.13,3349
+60,Denmark,Europe (direction data),55.0,8.75,173.0,51.1,234.8,0.13,3349
+61,Denmark,Europe (direction data),55.0,8.75,108.0,51.1,234.8,0.13,3349
+65,Netherlands,Europe (direction data),53.25,6.0,88.0,42.4,226.3,0.037,3401
+67,United Kingdom,Europe (direction data),50.75,1.75,360.0,41.7,228.1,0.129,3465
+68,Denmark,Europe (direction data),53.5,7.25,194.0,44.7,229.0,0.051,3394
+69,France,Europe (direction data),49.75,0.5,34.0,44.3,230.2,0.116,3501
+73,United Kingdom,Europe (direction data),51.0,2.5,281.0,41.0,228.0,0.137,3458
+75,France,Europe (no direction data),48.5,-2.5,40.0,52.8,235.9,0.06,3483
+87,United Kingdom,Europe (direction data),51.0,2.5,103.0,41.0,228.0,0.137,3458
+95,Sweden,Europe (no direction data),54.5,13.5,54.0,40.2,233.0,0.207,3383
+96,United Kingdom,Europe (direction data),50.75,1.75,123.0,41.7,228.1,0.129,3465
+99,Sweden,Europe (no direction data),54.5,13.25,124.0,40.9,233.4,0.202,3385
+100,Netherlands,Europe (direction data),52.75,5.5,10.0,40.7,226.0,0.053,3411
+102,United Kingdom,Europe (direction data),50.75,1.75,108.0,41.7,228.1,0.129,3465
+113,Netherlands,Europe (direction data),52.5,4.75,38.0,40.1,226.2,0.06,3420
+116,United Kingdom,Europe (direction data),50.75,1.75,383.0,41.7,228.1,0.129,3465
+121,Germany,Europe (direction data),53.25,6.5,49.0,43.0,227.3,0.046,3402
+122,United Kingdom,Europe (direction data),51.0,2.5,199.0,41.0,228.0,0.137,3458
+127,Sweden,Europe (no direction data),54.5,13.5,39.0,40.2,233.0,0.207,3383
+129,United Kingdom,Europe (direction data),52.75,4.75,395.0,40.3,225.0,0.043,3412
+134,Netherlands,Europe (direction data),52.5,5.5,14.0,40.4,226.8,0.068,3418
+136,Denmark,Europe (no direction data),55.0,8.75,194.0,51.1,234.8,0.13,3349
+137,Germany,Europe (no direction data),54.25,12.75,41.0,41.3,233.0,0.178,3393
+140,Denmark,Europe (direction data),55.0,8.75,149.0,51.1,234.8,0.13,3349
+142,Germany,Europe (direction data),53.5,8.25,38.0,45.0,230.4,0.062,3392
+149,Sweden,Europe (no direction data),54.5,13.25,147.0,40.9,233.4,0.202,3385
+152,Denmark,Europe (no direction data),55.0,8.75,194.0,51.1,234.8,0.13,3349
+153,Denmark,Europe (no direction data),54.75,10.0,141.0,49.2,235.3,0.157,3353
+154,Denmark,Europe (no direction data),54.75,10.0,126.0,49.2,235.3,0.157,3353
+157,Denmark,Europe (no direction data),54.25,10.75,124.0,46.4,234.5,0.148,3373
+167,France,Europe (no direction data),43.5,4.25,69.0,51.7,234.5,0.144,3569

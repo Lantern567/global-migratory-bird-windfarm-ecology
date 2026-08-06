@@ -1,0 +1,172 @@
+﻿farm_id,country,centroid_lat,centroid_lon,group,group_new
+0,China,32.8436,121.4239,East Asia,East Asia
+1,China,33.462,121.1856,East Asia,East Asia
+2,Belgium,51.6448,2.9165,Europe (direction data),Europe (direction data)
+3,China,32.6831,121.8054,East Asia,East Asia
+4,China,21.2977,111.564,East Asia,East Asia
+5,United Kingdom,53.9099,1.7927,Europe (direction data),Europe (direction data)
+6,China,36.4678,121.5419,East Asia,East Asia
+7,Netherlands,54.0049,6.5218,Europe (direction data),Europe (direction data)
+8,China,20.9951,111.5761,East Asia,East Asia
+9,United Kingdom,54.0305,-3.5107,Europe (no direction data),Europe (no direction data)
+10,United Kingdom,58.1844,-2.8564,Europe (no direction data),Europe (no direction data)
+11,Germany,54.4594,7.6964,Europe (direction data),Europe (direction data)
+12,China,22.6333,116.2218,East Asia,East Asia
+13,United Kingdom,53.4442,-3.5741,Europe (no direction data),Europe (no direction data)
+14,China,39.4746,123.3788,East Asia,East Asia
+15,Netherlands,52.3293,4.0757,Europe (direction data),Europe (direction data)
+16,Netherlands,54.3337,5.9083,Europe (direction data),Europe (direction data)
+17,United Kingdom,51.6283,1.4972,Europe (direction data),Europe (direction data)
+18,Germany,54.0239,6.953,Europe (direction data),Europe (direction data)
+19,China,34.2763,120.6226,East Asia,East Asia
+20,Netherlands,54.4774,6.3397,Europe (direction data),Europe (direction data)
+21,China,27.286,120.9217,East Asia,East Asia
+22,Germany,54.5529,11.6189,Europe (no direction data),Europe (no direction data)
+23,Netherlands,54.0433,6.1233,Europe (direction data),Europe (direction data)
+24,China,32.5335,121.232,East Asia,East Asia
+25,Sweden,55.0056,13.0559,Europe (no direction data),Europe (no direction data)
+26,United Kingdom,51.9273,1.9623,Europe (direction data),Europe (direction data)
+27,Denmark,55.6337,7.6098,Europe (direction data),Europe (direction data)
+28,China,32.1239,122.1411,East Asia,East Asia
+29,Sweden,54.8111,14.0932,Europe (no direction data),Europe (no direction data)
+30,United Kingdom,53.1798,0.4738,Europe (direction data),Europe (direction data)
+31,Netherlands,52.6531,4.2423,Europe (direction data),Europe (direction data)
+32,China,21.4359,112.2209,East Asia,East Asia
+33,China,20.1389,109.2031,East Asia,East Asia
+34,China,25.1304,119.3921,East Asia,East Asia
+35,China,20.5948,110.7555,East Asia,East Asia
+36,United Kingdom,50.6703,-0.2781,Europe (no direction data),Europe (direction data)
+37,China,30.6253,121.57,East Asia,East Asia
+38,China,30.7484,121.983,East Asia,East Asia
+39,Taiwan,23.9706,120.158,East Asia,East Asia
+40,United Kingdom,56.5947,-1.6988,Europe (no direction data),Europe (no direction data)
+41,China,23.243,117.0232,East Asia,East Asia
+42,Taiwan,24.1616,119.9117,East Asia,East Asia
+43,Denmark,56.6015,11.2166,Europe (no direction data),Europe (no direction data)
+44,China,38.2743,118.942,East Asia,East Asia
+45,China,25.2524,119.5441,East Asia,East Asia
+46,China,25.8097,119.9959,East Asia,East Asia
+47,China,22.3059,114.9472,East Asia,East Asia
+48,United Kingdom,52.2364,2.5034,Europe (direction data),Europe (direction data)
+49,France,51.4309,1.632,Europe (direction data),Europe (direction data)
+50,China,34.5055,120.3623,East Asia,East Asia
+51,United Kingdom,53.2764,0.8416,Europe (direction data),Europe (direction data)
+52,China,25.6651,119.7641,East Asia,East Asia
+53,United Kingdom,53.4775,0.8387,Europe (direction data),Europe (direction data)
+54,Netherlands,53.0019,5.2635,Europe (direction data),Europe (direction data)
+55,United Kingdom,53.1359,1.1474,Europe (direction data),Europe (direction data)
+56,Vietnam,21.3394,108.211,East Asia,East Asia
+57,Vietnam,9.2189,105.8099,East Asia,East Asia
+58,France,47.1594,-2.6062,Europe (no direction data),Europe (no direction data)
+59,Denmark,55.4865,7.8406,Europe (direction data),Europe (direction data)
+60,Denmark,55.141,7.1997,Europe (direction data),Europe (direction data)
+61,Denmark,55.0168,7.7741,Europe (direction data),Europe (direction data)
+62,Taiwan,23.5921,120.028,East Asia,East Asia
+63,China,38.9986,118.8044,East Asia,East Asia
+64,Vietnam,10.1591,106.8469,East Asia,East Asia
+65,Netherlands,54.0341,5.8848,Europe (direction data),Europe (direction data)
+66,China,30.462,121.4796,East Asia,East Asia
+67,United Kingdom,53.6443,0.2928,Europe (no direction data),Europe (direction data)
+68,Denmark,55.2017,6.8522,Europe (direction data),Europe (direction data)
+69,France,49.896,0.2344,Europe (no direction data),Europe (direction data)
+70,China,36.427,121.2355,East Asia,East Asia
+71,Taiwan,24.7084,120.7773,East Asia,East Asia
+72,China,20.5798,110.6321,East Asia,East Asia
+73,United Kingdom,53.2671,1.3778,Europe (direction data),Europe (direction data)
+74,China,29.5814,122.2286,East Asia,East Asia
+75,France,48.857,-2.542,Europe (no direction data),Europe (no direction data)
+76,China,38.3074,118.5609,East Asia,East Asia
+77,China,20.1437,109.4282,East Asia,East Asia
+78,China,39.4769,123.2027,East Asia,East Asia
+79,China,37.8351,120.3113,East Asia,East Asia
+80,United Kingdom,54.1164,-3.8162,Europe (no direction data),Europe (no direction data)
+81,China,25.4058,119.3996,East Asia,East Asia
+82,China,33.3213,121.5926,East Asia,East Asia
+83,United Kingdom,54.7534,-3.713,Europe (no direction data),Europe (no direction data)
+84,United Kingdom,53.4864,-3.2425,Europe (no direction data),Europe (no direction data)
+85,China,28.9259,121.9986,East Asia,East Asia
+86,Vietnam,8.9219,105.3984,East Asia,East Asia
+87,United Kingdom,51.7743,1.9848,Europe (direction data),Europe (direction data)
+88,China,34.5028,120.0532,East Asia,East Asia
+89,China,30.9301,122.1242,East Asia,East Asia
+90,China,22.7327,116.1203,East Asia,East Asia
+91,China,21.901,113.4405,East Asia,East Asia
+92,China,30.4497,121.896,East Asia,East Asia
+93,United Kingdom,56.2642,-2.2434,Europe (no direction data),Europe (no direction data)
+94,China,37.2621,119.4511,East Asia,East Asia
+95,Sweden,54.8305,13.8582,Europe (no direction data),Europe (no direction data)
+96,United Kingdom,51.7298,1.2299,Europe (direction data),Europe (direction data)
+97,China,22.12,113.7329,East Asia,East Asia
+98,China,34.6039,119.7916,East Asia,East Asia
+99,Sweden,55.5128,12.7808,Europe (no direction data),Europe (no direction data)
+100,Netherlands,52.747,5.5908,Europe (direction data),Europe (direction data)
+101,China,25.5817,119.6054,East Asia,East Asia
+102,United Kingdom,51.458,1.0879,Europe (direction data),Europe (direction data)
+103,China,29.0656,122.0286,East Asia,East Asia
+104,China,30.3864,121.6844,East Asia,East Asia
+105,China,28.8353,121.8575,East Asia,East Asia
+106,China,38.0237,119.2633,East Asia,East Asia
+107,Vietnam,9.0822,105.5854,East Asia,East Asia
+108,China,37.2428,119.6233,East Asia,East Asia
+109,China,32.3706,121.6844,East Asia,East Asia
+110,China,29.531,122.0568,East Asia,East Asia
+111,China,22.6779,115.9363,East Asia,East Asia
+112,Vietnam,9.6266,106.579,East Asia,East Asia
+113,Netherlands,52.607,4.4203,Europe (direction data),Europe (direction data)
+114,China,37.9135,121.8844,East Asia,East Asia
+115,Vietnam,9.9279,106.6985,East Asia,East Asia
+116,United Kingdom,53.8058,0.1494,Europe (no direction data),Europe (direction data)
+117,United States of America,41.0531,-70.4351,Americas,Americas
+118,China,30.7438,121.7988,East Asia,East Asia
+119,China,28.1833,121.5002,East Asia,East Asia
+120,China,20.7161,110.5573,East Asia,East Asia
+121,Germany,53.6928,6.4755,Europe (direction data),Europe (direction data)
+122,United Kingdom,52.6458,1.7875,Europe (direction data),Europe (direction data)
+123,United Kingdom,53.9928,-3.2982,Europe (no direction data),Europe (no direction data)
+124,China,25.2975,119.3727,East Asia,East Asia
+125,China,23.9216,118.2136,East Asia,East Asia
+126,Vietnam,9.5244,106.456,East Asia,East Asia
+127,Sweden,54.8185,13.657,Europe (no direction data),Europe (no direction data)
+128,United Kingdom,54.6456,-1.0941,Europe (no direction data),Europe (no direction data)
+129,United Kingdom,54.7288,1.7951,Europe (direction data),Europe (direction data)
+130,Vietnam,9.1406,105.7125,East Asia,East Asia
+131,China,34.4035,120.1958,East Asia,East Asia
+132,China,38.6684,118.0399,East Asia,East Asia
+133,Vietnam,8.6706,105.1538,East Asia,East Asia
+134,Netherlands,52.6039,5.5748,Europe (direction data),Europe (direction data)
+135,Japan,40.2006,139.9778,East Asia,East Asia
+136,Denmark,56.5932,8.0257,Europe (no direction data),Europe (no direction data)
+137,Germany,54.6098,12.6507,Europe (no direction data),Europe (no direction data)
+138,United States of America,41.1238,-70.9609,Americas,Americas
+139,South Korea,35.4818,126.3176,East Asia,East Asia
+140,Denmark,56.0791,7.9536,Europe (direction data),Europe (direction data)
+141,Vietnam,9.7455,106.585,East Asia,East Asia
+142,Germany,53.8357,8.1683,Europe (direction data),Europe (direction data)
+143,Vietnam,8.5498,104.9308,East Asia,East Asia
+144,Sweden,56.9863,17.0187,Europe (no direction data),Europe (no direction data)
+145,Japan,43.2114,141.2564,East Asia,East Asia
+146,United States of America,41.093,-71.1478,Americas,Americas
+147,China,38.6666,117.6375,East Asia,East Asia
+148,Finland,61.6279,21.3546,Europe (no direction data),Europe (no direction data)
+149,Sweden,55.6945,12.6698,Europe (no direction data),Europe (no direction data)
+150,United Kingdom,57.2233,-1.9953,Europe (no direction data),Europe (no direction data)
+151,South Korea,34.9712,125.9495,East Asia,East Asia
+152,Denmark,56.6648,8.2313,Europe (no direction data),Europe (no direction data)
+153,Denmark,55.9692,10.3553,Europe (no direction data),Europe (no direction data)
+154,Denmark,55.7218,10.5833,Europe (no direction data),Europe (no direction data)
+155,Italy,40.4919,17.1398,Europe (no direction data),Europe (no direction data)
+156,United States of America,41.1929,-71.1658,Americas,Americas
+157,Denmark,55.3441,10.9604,Europe (no direction data),Europe (no direction data)
+158,Ireland,52.7915,-5.9468,Europe (no direction data),Europe (no direction data)
+159,Vietnam,9.2966,106.1245,East Asia,East Asia
+160,United States of America,41.1157,-71.5218,Americas,Americas
+161,United Kingdom,57.0045,-1.8649,Europe (no direction data),Europe (no direction data)
+162,United Kingdom,55.1313,-1.4019,Europe (no direction data),Europe (no direction data)
+163,Sweden,57.0371,18.1467,Europe (no direction data),Europe (no direction data)
+164,United Kingdom,57.4875,-1.3561,Europe (no direction data),Europe (no direction data)
+165,China,38.0457,118.4427,East Asia,East Asia
+166,Japan,39.7726,140.0107,East Asia,East Asia
+167,France,43.1903,4.794,Europe (no direction data),Europe (no direction data)
+168,China,38.6193,117.5806,East Asia,East Asia
+169,China,34.4617,119.888,East Asia,East Asia
+170,Portugal,41.6868,-9.0573,Europe (no direction data),Europe (no direction data)

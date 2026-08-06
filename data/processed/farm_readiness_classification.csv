@@ -1,0 +1,172 @@
+﻿farm_id,country,n_turbines,capacity_kw,centroid_lat,centroid_lon,has_location,has_ecological_overlap,has_direction,has_layout_aep,has_validation,readiness_level,blocker
+0,China,928,9280000,32.8436,121.4239,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+1,China,589,5890000,33.462,121.1856,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+2,Belgium,572,5720000,51.6448,2.9165,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+3,China,443,4430000,32.6831,121.8054,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+4,China,364,3640000,21.2977,111.564,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+5,United Kingdom,339,3390000,53.9099,1.7927,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+6,China,293,2930000,36.4678,121.5419,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+7,Netherlands,284,2840000,54.0049,6.5218,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+8,China,278,2780000,20.9951,111.5761,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+9,United Kingdom,267,2670000,54.0305,-3.5107,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+10,United Kingdom,246,2460000,58.1844,-2.8564,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+11,Germany,246,2460000,54.4594,7.6964,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+12,China,244,2440000,22.6333,116.2218,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+13,United Kingdom,215,2150000,53.4442,-3.5741,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+14,China,189,1890000,39.4746,123.3788,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+15,Netherlands,182,1820000,52.3293,4.0757,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+16,Netherlands,178,1780000,54.3337,5.9083,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+17,United Kingdom,175,1750000,51.6283,1.4972,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+18,Germany,174,1740000,54.0239,6.953,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+19,China,171,1710000,34.2763,120.6226,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+20,Netherlands,167,1670000,54.4774,6.3397,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+21,China,162,1620000,27.286,120.9217,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+22,Germany,161,1610000,54.5529,11.6189,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+23,Netherlands,158,1580000,54.0433,6.1233,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+24,China,156,1560000,32.5335,121.232,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+25,Sweden,152,1520000,55.0056,13.0559,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+26,United Kingdom,140,1400000,51.9273,1.9623,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+27,Denmark,138,1380000,55.6337,7.6098,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+28,China,134,1340000,32.1239,122.1411,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+29,Sweden,131,1310000,54.8111,14.0932,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+30,United Kingdom,129,1290000,53.1798,0.4738,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+31,Netherlands,129,1290000,52.6531,4.2423,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+32,China,128,1280000,21.4359,112.2209,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+33,China,128,1280000,20.1389,109.2031,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+34,China,125,1250000,25.1304,119.3921,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+35,China,120,1200000,20.5948,110.7555,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+36,United Kingdom,117,1170000,50.6703,-0.2781,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+37,China,116,1160000,30.6253,121.57,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+38,China,115,1150000,30.7484,121.983,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+39,Taiwan,114,1140000,23.9706,120.158,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+40,United Kingdom,114,1140000,56.5947,-1.6988,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+41,China,113,1130000,23.243,117.0232,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+42,Taiwan,111,1110000,24.1616,119.9117,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+43,Denmark,111,1110000,56.6015,11.2166,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+44,China,108,1080000,38.2743,118.942,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+45,China,106,1060000,25.2524,119.5441,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+46,China,105,1050000,25.8097,119.9959,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+47,China,104,1040000,22.3059,114.9472,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+48,United Kingdom,102,1020000,52.2364,2.5034,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+49,France,101,1010000,51.4309,1.632,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+50,China,100,1000000,34.5055,120.3623,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+51,United Kingdom,92,920000,53.2764,0.8416,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+52,China,90,900000,25.6651,119.7641,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+53,United Kingdom,90,900000,53.4775,0.8387,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+54,Netherlands,89,890000,53.0019,5.2635,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+55,United Kingdom,88,880000,53.1359,1.1474,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+56,Vietnam,83,830000,21.3394,108.211,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+57,Vietnam,82,820000,9.2189,105.8099,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+58,France,81,810000,47.1594,-2.6062,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+59,Denmark,80,800000,55.4865,7.8406,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+60,Denmark,80,800000,55.141,7.1997,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+61,Denmark,80,800000,55.0168,7.7741,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+62,Taiwan,79,790000,23.5921,120.028,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+63,China,75,750000,38.9986,118.8044,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+64,Vietnam,75,750000,10.1591,106.8469,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+65,Netherlands,75,750000,54.0341,5.8848,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+66,China,74,740000,30.462,121.4796,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+67,United Kingdom,73,730000,53.6443,0.2928,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+68,Denmark,72,720000,55.2017,6.8522,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+69,France,71,710000,49.896,0.2344,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+70,China,70,700000,36.427,121.2355,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+71,Taiwan,69,690000,24.7084,120.7773,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+72,China,68,680000,20.5798,110.6321,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+73,United Kingdom,67,670000,53.2671,1.3778,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+74,China,62,620000,29.5814,122.2286,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+75,France,62,620000,48.857,-2.542,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+76,China,61,610000,38.3074,118.5609,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+77,China,61,610000,20.1437,109.4282,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+78,China,60,600000,39.4769,123.2027,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+79,China,60,600000,37.8351,120.3113,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+80,United Kingdom,60,600000,54.1164,-3.8162,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+81,China,59,590000,25.4058,119.3996,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+82,China,58,580000,33.3213,121.5926,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+83,United Kingdom,58,580000,54.7534,-3.713,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+84,United Kingdom,57,570000,53.4864,-3.2425,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+85,China,56,560000,28.9259,121.9986,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+86,Vietnam,56,560000,8.9219,105.3984,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+87,United Kingdom,56,560000,51.7743,1.9848,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+88,China,55,550000,34.5028,120.0532,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+89,China,55,550000,30.9301,122.1242,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+90,China,55,550000,22.7327,116.1203,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+91,China,55,550000,21.901,113.4405,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+92,China,54,540000,30.4497,121.896,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+93,United Kingdom,51,510000,56.2642,-2.2434,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+94,China,50,500000,37.2621,119.4511,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+95,Sweden,50,500000,54.8305,13.8582,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+96,United Kingdom,50,500000,51.7298,1.2299,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+97,China,49,490000,22.12,113.7329,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+98,China,48,480000,34.6039,119.7916,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+99,Sweden,48,480000,55.5128,12.7808,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+100,Netherlands,48,480000,52.747,5.5908,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+101,China,47,470000,25.5817,119.6054,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+102,United Kingdom,45,450000,51.458,1.0879,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+103,China,41,410000,29.0656,122.0286,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+104,China,40,400000,30.3864,121.6844,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+105,China,40,400000,28.8353,121.8575,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+106,China,39,390000,38.0237,119.2633,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+107,Vietnam,39,390000,9.0822,105.5854,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+108,China,38,380000,37.2428,119.6233,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+109,China,38,380000,32.3706,121.6844,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+110,China,38,380000,29.531,122.0568,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+111,China,36,360000,22.6779,115.9363,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+112,Vietnam,36,360000,9.6266,106.579,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+113,Netherlands,36,360000,52.607,4.4203,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+114,China,35,350000,37.9135,121.8844,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+115,Vietnam,35,350000,9.9279,106.6985,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+116,United Kingdom,35,350000,53.8058,0.1494,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+117,United States of America,33,330000,41.0531,-70.4351,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+118,China,32,320000,30.7438,121.7988,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+119,China,32,320000,28.1833,121.5002,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+120,China,32,320000,20.7161,110.5573,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+121,Germany,30,300000,53.6928,6.4755,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+122,United Kingdom,30,300000,52.6458,1.7875,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+123,United Kingdom,30,300000,53.9928,-3.2982,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+124,China,29,290000,25.2975,119.3727,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+125,China,28,280000,23.9216,118.2136,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+126,Vietnam,28,280000,9.5244,106.456,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+127,Sweden,27,270000,54.8185,13.657,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+128,United Kingdom,27,270000,54.6456,-1.0941,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+129,United Kingdom,27,270000,54.7288,1.7951,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+130,Vietnam,26,260000,9.1406,105.7125,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+131,China,25,250000,34.4035,120.1958,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+132,China,24,240000,38.6684,118.0399,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+133,Vietnam,24,240000,8.6706,105.1538,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+134,Netherlands,24,240000,52.6039,5.5748,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+135,Japan,23,230000,40.2006,139.9778,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+136,Denmark,21,210000,56.5932,8.0257,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+137,Germany,21,210000,54.6098,12.6507,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+138,United States of America,20,200000,41.1238,-70.9609,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+139,South Korea,20,200000,35.4818,126.3176,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+140,Denmark,20,200000,56.0791,7.9536,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+141,Vietnam,18,180000,9.7455,106.585,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+142,Germany,18,180000,53.8357,8.1683,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+143,Vietnam,16,160000,8.5498,104.9308,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+144,Sweden,16,160000,56.9863,17.0187,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+145,Japan,14,140000,43.2114,141.2564,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+146,United States of America,12,120000,41.093,-71.1478,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+147,China,12,120000,38.6666,117.6375,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+148,Finland,11,110000,61.6279,21.3546,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+149,Sweden,11,110000,55.6945,12.6698,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+150,United Kingdom,11,110000,57.2233,-1.9953,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+151,South Korea,10,100000,34.9712,125.9495,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+152,Denmark,10,100000,56.6648,8.2313,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+153,Denmark,10,100000,55.9692,10.3553,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+154,Denmark,10,100000,55.7218,10.5833,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+155,Italy,9,90000,40.4919,17.1398,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+156,United States of America,8,80000,41.1929,-71.1658,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+157,Denmark,7,70000,55.3441,10.9604,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+158,Ireland,7,70000,52.7915,-5.9468,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+159,Vietnam,7,70000,9.2966,106.1245,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+160,United States of America,5,50000,41.1157,-71.5218,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+161,United Kingdom,5,50000,57.0045,-1.8649,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+162,United Kingdom,5,50000,55.1313,-1.4019,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+163,Sweden,5,50000,57.0371,18.1467,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+164,United Kingdom,5,50000,57.4875,-1.3561,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+165,China,4,40000,38.0457,118.4427,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+166,Japan,4,40000,39.7726,140.0107,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+167,France,3,30000,43.1903,4.794,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+168,China,3,30000,38.6193,117.5806,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+169,China,3,30000,34.4617,119.888,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
+170,Portugal,3,30000,41.6868,-9.0573,True,True,False,True,False,U1,Need bird direction data (radar/GPS) to advance to U2
