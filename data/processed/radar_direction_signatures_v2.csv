@@ -1,5 +1,0 @@
-﻿station,season,n_obs,direction_deg,concentration,circular_std_deg,avg_density,max_density,total_flux
-behel,spring,84,289.7,0.512,66.3,116.4,171.9,9774.8
-deess,spring,16,21.0,0.749,43.6,14.8,23.7,236.2
-nlhrw,spring,7715,32.6,0.287,90.6,105.6,2394.9,814663.2
-nlhrw,autumn,6543,233.2,0.373,80.4,304.8,11371.0,1994218.4
