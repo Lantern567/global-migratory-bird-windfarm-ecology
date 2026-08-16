@@ -1,6 +1,0 @@
-﻿station,season,n_obs,direction_deg,concentration,circular_std_deg,avg_density,max_density,total_flux
-bejab,spring,7648,25.7,0.318,86.8,108.3,1033.6,828076.7
-bejab,autumn,6218,217.2,0.354,82.6,140.7,1895.9,875094.5
-frabb,spring,1265,349.4,0.504,67.0,14.7,46.8,18571.2
-frabb,autumn,85,230.2,0.995,5.7,1957.6,3848.8,166393.9
-nldhl,autumn,275,59.4,0.986,9.7,482.6,6327.4,132721.4
