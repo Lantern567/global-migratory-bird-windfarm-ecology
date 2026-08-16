@@ -25,6 +25,7 @@ from scipy.special import gamma as gamma_func
 import requests
 import time
 import os
+import sys
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -179,17 +180,16 @@ def build_thrust_curve(v_rated):
 # ============================================================
 
 def compute_farm_wake_efficiency(turbs_x, turbs_y, rotor_diams, wind_dir_deg,
-                                  thrust_curve, v_rated):
-    """Compute farm efficiency η = P_wake / P_no_wake for a single wind direction.
-
-    Uses sector-mean wind speed for Ct, then applies wake to all turbines.
+                                  thrust_curve, v_ref, power_curve):
+    """Compute farm efficiency η = P_wake / P_no_wake at wind speed v_ref.
 
     Parameters:
       turbs_x, turbs_y: turbine coordinates in meters (local projection)
       rotor_diams: array of rotor diameters [m] per turbine
       wind_dir_deg: wind direction (meteorological: wind FROM)
       thrust_curve: Ct(v) array
-      v_rated: rated wind speed for this turbine
+      v_ref: free-stream wind speed [m/s] for this evaluation
+      power_curve: P(v) array [kW]
 
     Returns:
       eta: farm efficiency ratio [0-1]
@@ -218,12 +218,8 @@ def compute_farm_wake_efficiency(turbs_x, turbs_y, rotor_diams, wind_dir_deg,
     cross_s = cross[order]
     rotor_r_s = rotor_r[order]
 
-    # Use the weighted-average wind speed for this direction to get representative Ct
-    # We don't have per-sector mean speed yet, use a fixed reference (8 m/s, typical)
-    # This is sufficient because efficiency RATIO is insensitive to exact Ct for pitch-regulated turbines
-    v_ref = 8.0  # representative operating wind speed
-    iv = min(int((v_ref - V_MIN) / DV), N_V - 1)
-    Ct_ref = thrust_curve[iv]
+    # Thrust coefficient at the reference wind speed (linear interpolation)
+    Ct_ref = float(np.interp(v_ref, V_BINS, thrust_curve))
     if Ct_ref <= 0:
         return 1.0
 
@@ -248,32 +244,19 @@ def compute_farm_wake_efficiency(turbs_x, turbs_y, rotor_diams, wind_dir_deg,
                 deficit = (1 - np.sqrt(1 - Ct_ref)) / (1 + ALPHA_ONSHORE * dx / rotor_r_s[k]) ** 2
                 deficit_sq[j] += (deficit * overlap) ** 2
 
-    # Effective wind speed: v_eff = v_inf * (1 - sqrt(deficit_sq))
+    # Effective wind speed: v_eff = v_ref * (1 - sqrt(deficit_sq))
     v_deficit = np.sqrt(deficit_sq)
-    v_eff = np.maximum(0, V_BINS[iv] * (1 - v_deficit))
+    v_eff = np.maximum(0.0, v_ref * (1 - v_deficit))
 
-    # Power with wake vs without wake (at reference wind speed)
-    # Interpolate power curve
-    def power_at(v):
-        if v <= V_BINS[0]:
-            return 0
-        if v >= V_BINS[-1]:
-            return 0 if v >= V_CUTOUT else power_curve_global[-1]
-        idx = min(int((v - V_MIN) / DV), N_V - 1)
-        return power_curve_global[idx]
-
-    # For efficiency, we compare farm total power with/without wake at v_ref
-    # Both at same free-stream speed
-    P_no_wake = n_turbs * power_curve_global[iv] if power_curve_global[iv] > 0 else n_turbs
+    # Power with/without wake at v_ref, using linear interpolation (C-17)
+    P_no_wake = n_turbs * float(np.interp(v_ref, V_BINS, power_curve))
     if P_no_wake <= 0:
         return 1.0
 
-    P_with = 0.0
-    for j in range(n_turbs):
-        pw = power_at(v_eff[j])
-        P_with += pw
+    P_with = float(np.sum(np.interp(v_eff, V_BINS, power_curve)))
 
-    eta = min(1.0, max(0.6, P_with / max(P_no_wake, 1e-6)))
+    # A-2: no artificial 0.6 lower bound; only clamp to 1 against overshoot
+    eta = min(1.0, P_with / max(P_no_wake, 1e-6))
     return eta
 
 
@@ -329,13 +312,6 @@ def compute_aep_theta(farm_turbines, A_sector, k_sector, freq_sector,
         E_no_wake_12[s] = sector_energy * freq  # weighted by sector frequency
 
     # ---- Step 2: Compute wake efficiency at 36 directions ----
-    # Interpolate 12 GWA sectors to 36 wind directions
-    freq_36 = np.zeros(N_WD)
-    for i, wd in enumerate(WD_ANGLES):
-        # Find nearest GWA sector
-        s = int(round(wd / (360 / GWA_SECTORS))) % GWA_SECTORS
-        freq_36[i] = freq_sector[s] / (N_WD / GWA_SECTORS)  # redistribute evenly
-
     # Convert turbine coordinates to local meters
     lat_mean = farm_turbines['lat'].mean()
     cos_lat = np.cos(np.radians(lat_mean))
@@ -343,18 +319,40 @@ def compute_aep_theta(farm_turbines, A_sector, k_sector, freq_sector,
     turbs_y = (farm_turbines['lat'].values - farm_turbines['lat'].mean()) * 111320
     rotor_diams = farm_turbines['rotor_diam'].values
 
-    # Pre-compute wake efficiency for each wind direction
+    # Pre-compute wake efficiency for each wind direction.
+    # A-2: evaluate η at multiple representative wind speeds, weighted by the
+    # energy contribution P(v)·Weibull(v), instead of a single 8 m/s point.
+    V_SAMPLES = np.array([4.0, 8.0, 12.0, 16.0])
     eta_36 = np.ones(N_WD)
     for i, wd in enumerate(WD_ANGLES):
-        eta_36[i] = compute_farm_wake_efficiency(turbs_x, turbs_y, rotor_diams,
-                                                   wd, thrust_curve, v_rated)
+        s = int(round(wd / (360 / GWA_SECTORS))) % GWA_SECTORS
+        A = A_sector[s]
+        k = k_sector[s]
+        if A <= 0 or k <= 0:
+            continue
+        num = 0.0
+        den = 0.0
+        for v in V_SAMPLES:
+            p = float(np.interp(v, V_BINS, power_curve))
+            if p <= 0:
+                continue
+            cdf_hi = 1 - np.exp(-((v + DV / 2) / A) ** k)
+            cdf_lo = 1 - np.exp(-((v - DV / 2) / A) ** k)
+            w = p * max(0.0, cdf_hi - cdf_lo)
+            eta_v = compute_farm_wake_efficiency(turbs_x, turbs_y, rotor_diams,
+                                                  wd, thrust_curve, v, power_curve)
+            num += w * eta_v
+            den += w
+        eta_36[i] = num / den if den > 0 else 1.0
 
-    # ---- Step 3: For each orientation, rotate wind rose ----
-    # E_no_wake per 36-direction (distribute 12-sector energy evenly)
+    # ---- Step 3: Distribute 12-sector energy to 36 directions ----
+    # A-3: GWA sector s is centered at 30s (covering [30s-15, 30s+15]), so its
+    # energy must go to directions 30s-10, 30s, 30s+10 (indices 3s-1, 3s, 3s+1),
+    # NOT 3s, 3s+1, 3s+2 (the old code was off by +10°).
     E_no_wake_36 = np.zeros(N_WD)
     for s in range(GWA_SECTORS):
         for i in range(N_WD // GWA_SECTORS):
-            E_no_wake_36[s * (N_WD // GWA_SECTORS) + i] = E_no_wake_12[s] / (N_WD // GWA_SECTORS)
+            E_no_wake_36[(3 * s - 1 + i) % N_WD] = E_no_wake_12[s] / (N_WD // GWA_SECTORS)
 
     aep_kwh = np.zeros(N_ORIENTATIONS)
     for i_theta, theta in enumerate(ORIENTATION_ANGLES):
@@ -363,9 +361,12 @@ def compute_aep_theta(farm_turbines, A_sector, k_sector, freq_sector,
             # Wind direction relative to farm orientation
             rel_wd = int((wd - theta) % 360 / (360 / N_WD))
             total += E_no_wake_36[i_wd] * eta_36[rel_wd]
-        aep_kwh[i_theta] = total * 8760  # kWh/year
+        aep_kwh[i_theta] = total * 8760  # kWh/year (per-turbine, before scaling)
 
-    return aep_kwh
+    # N-1: aep_kwh above is per-turbine (E_no_wake integrates the single-turbine
+    # power curve). Scale by n_turbs so the returned curve is the WHOLE-FARM AEP,
+    # matching how the report and downstream summaries aggregate it.
+    return aep_kwh * n_turbs
 
 
 # ============================================================
@@ -373,19 +374,52 @@ def compute_aep_theta(farm_turbines, A_sector, k_sector, freq_sector,
 # ============================================================
 
 def main():
+    global ALPHA_ONSHORE
+    # Command-line overrides (backward compatible: no args = α=0.075, default file)
+    out_name = 'onshore_aep_curves.csv'
+    argv = sys.argv[1:]
+    for i, a in enumerate(argv):
+        if a == '--alpha' and i + 1 < len(argv):
+            ALPHA_ONSHORE = float(argv[i + 1])
+        if a == '--out' and i + 1 < len(argv):
+            out_name = argv[i + 1]
+
     print("=" * 60)
     print("Onshore Wind Farm AEP(θ) with Jensen Wake Model")
+    print(f"  α = {ALPHA_ONSHORE}, output = {out_name}")
     print("=" * 60)
 
     # Load farm and turbine data
     farms = pd.read_csv(os.path.join(PROC_DIR, 'osm_farm_pca_orientations.csv'))
     turbines_full = pd.read_csv(os.path.join(RAW_DIR, 'osm_turbines_clustered.csv'))
 
-    # Ensure rotor_diam column exists
+    # A-1: normalize OSM generator:output units per turbine.
+    # OSM stores capacity in MW, kW or W inconsistently: <20 is MW, >20000 is W.
+    def _norm_capacity(c):
+        if pd.isna(c) or c <= 0:
+            return c
+        if c < 20:
+            return c * 1000.0   # MW -> kW
+        if c > 20000:
+            return c / 1000.0   # W -> kW
+        return c
+
+    turbines_full['capacity_kw'] = turbines_full['capacity_kw'].map(_norm_capacity)
+    # Recompute farm-level median capacity after normalization
+    cap_med = turbines_full.groupby('farm_id')['capacity_kw'].median()
+    farms['med_capacity_kw'] = farms['farm_id'].map(cap_med)
+
+    # N-2: drop micro / vertical-axis turbines (Jensen wake model not applicable)
+    n_farms_raw = len(farms)
+    farms = farms[~((farms['med_rotor_diam'] < 20) | (farms['med_hub_height'] < 20))].copy()
+    print(f"Filtered micro turbines: {n_farms_raw} -> {len(farms)} farms")
+
+    # Ensure rotor_diam column exists. Missing per-turbine values are filled
+    # per-farm with the farm median below (for consistency with the power
+    # curve), NOT with a global 70.0 default (which would make the wake radius
+    # inconsistent with the power-curve rotor diameter).
     if 'rotor_diam' not in turbines_full.columns:
-        turbines_full['rotor_diam'] = 70.0  # default
-    else:
-        turbines_full['rotor_diam'] = turbines_full['rotor_diam'].fillna(70.0)
+        turbines_full['rotor_diam'] = np.nan
 
     print(f"Farms: {len(farms)}, Turbines: {len(turbines_full)}")
 
@@ -476,21 +510,30 @@ def main():
             n_skip += 1
             continue
 
-        # Hub height and rotor diameter
+        # Hub height and rotor diameter (C-18: record imputation)
         hub_h = farm['med_hub_height']
-        if pd.isna(hub_h) or hub_h <= 0:
+        hub_imputed = pd.isna(hub_h) or hub_h <= 0
+        if hub_imputed:
             hub_h = 70.0
         rotor_d = farm['med_rotor_diam']
-        if pd.isna(rotor_d) or rotor_d <= 0:
+        rotor_imputed = pd.isna(rotor_d) or rotor_d <= 0
+        if rotor_imputed:
             rotor_d = 70.0
         capacity = farm['med_capacity_kw']
-        if pd.isna(capacity) or capacity <= 0:
+        capacity_imputed = pd.isna(capacity) or capacity <= 0
+        if capacity_imputed:
             capacity = 2000.0
 
-        # Ensure rotor_diam column in group
-        if 'rotor_diam' not in turb.columns or turb['rotor_diam'].isna().all():
+        # Ensure rotor_diam column in group. Fill any missing per-turbine rotor
+        # diameters with the farm median (rotor_d) so the wake radius is
+        # consistent with the power curve, which is built from the same median.
+        # (Previously dead code: the global 70.0 fillna ran first.)
+        if 'rotor_diam' not in turb.columns:
             turb = turb.copy()
             turb['rotor_diam'] = rotor_d
+        elif turb['rotor_diam'].isna().any():
+            turb = turb.copy()
+            turb['rotor_diam'] = turb['rotor_diam'].fillna(rotor_d)
 
         # Get Weibull data
         key = f"{farm['gwa_lat']},{farm['gwa_lon']}"
@@ -501,7 +544,7 @@ def main():
 
         try:
             A_interp, k_interp = interpolate_weibull(gwa, hub_h)
-            freq_12 = gwa['frequencies'][3, :] / 100.0  # roughness class 4
+            freq_12 = gwa['frequencies'][3, :] / 100.0  # roughness index 3 (0.400 m)
         except Exception:
             n_err += 1
             continue
@@ -509,10 +552,6 @@ def main():
         # Build power & thrust curves
         power_curve, v_rated, _ = build_power_curve(rotor_d, capacity)
         thrust_curve = build_thrust_curve(v_rated)
-
-        # Set global for use in efficiency computation
-        global power_curve_global
-        power_curve_global = power_curve
 
         # Compute AEP for all orientations
         try:
@@ -532,6 +571,9 @@ def main():
             'hub_height': hub_h,
             'rotor_diam': rotor_d,
             'capacity_kw': capacity,
+            'hub_height_imputed': hub_imputed,
+            'rotor_diam_imputed': rotor_imputed,
+            'capacity_imputed': capacity_imputed,
             'pc1_angle': farm['pc1_angle'],
             'explained_var_ratio': farm['explained_var_ratio'],
             **{f'aep_{int(theta):03d}': round(aep[i_theta], 0)
@@ -551,7 +593,7 @@ def main():
 
     # ---- Step 4: Save ----
     aep_df = pd.DataFrame(results)
-    aep_out = os.path.join(PROC_DIR, 'onshore_aep_curves.csv')
+    aep_out = os.path.join(PROC_DIR, out_name)
     aep_df.to_csv(aep_out, index=False)
     print(f"\nSaved to {aep_out}")
     print(f"  Farms: {len(aep_df)}, Total turbines: {aep_df['n_turbines'].sum():,}")
@@ -581,5 +623,4 @@ def main():
 
 
 if __name__ == '__main__':
-    power_curve_global = None  # module-level, set per farm
     aep_df = main()

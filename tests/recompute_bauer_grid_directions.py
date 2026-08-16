@@ -7,7 +7,7 @@ computed (stored as ~0 degrees in the NPZ instead of ~30-50 degrees NNE-NE).
 Algorithm:
   For each 49×85 grid cell:
     1. Extract hourly birdDir and daynight from birdAtRisk.mat
-    2. Filter: night hours only (daynight == 2, consistent with VPTS analysis)
+    2. Filter: night hours only (daynight == 0, consistent with VPTS analysis)
     3. Split: spring (months 3-5, hours 1416-3623) vs autumn (months 8-11, hours 5088-8015)
     4. Compute circular mean direction for each season
     5. Output as clean CSV for use in onshore exposure computation
