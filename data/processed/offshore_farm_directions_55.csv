@@ -1,0 +1,56 @@
+﻿farm_id,country,centroid_lat,centroid_lon,source,spring_dir,autumn_dir,dist_km
+2,Belgium,51.6448,2.9165,VPTS,35.7,210.7,
+5,United Kingdom,53.9099,1.7927,VPTS,35.7,210.7,
+7,Netherlands,54.0049,6.5218,VPTS,345.3,258.1,
+11,Germany,54.4594,7.6964,VPTS,345.3,258.1,
+15,Netherlands,52.3293,4.0757,VPTS,345.3,258.1,
+16,Netherlands,54.3337,5.9083,VPTS,345.3,258.1,
+17,United Kingdom,51.6283,1.4972,Bauer_grid,56.4,248.8,99.1
+18,Germany,54.0239,6.953,VPTS,345.3,258.1,
+20,Netherlands,54.4774,6.3397,VPTS,345.3,258.1,
+22,Germany,54.5529,11.6189,Bauer_grid,54.3,235.9,56.2
+23,Netherlands,54.0433,6.1233,VPTS,345.3,258.1,
+25,Sweden,55.0056,13.0559,Bauer_grid,52.2,235.8,57.8
+26,United Kingdom,51.9273,1.9623,VPTS,35.7,210.7,
+27,Denmark,55.6337,7.6098,Bauer_grid,67.3,251.5,107.5
+29,Sweden,54.8111,14.0932,Bauer_grid,51.6,235.5,54.6
+30,United Kingdom,53.1798,0.4738,VPTS,35.7,210.7,
+31,Netherlands,52.6531,4.2423,VPTS,345.3,258.1,
+36,United Kingdom,50.6703,-0.2781,Bauer_grid,59.1,249.3,116.3
+48,United Kingdom,52.2364,2.5034,VPTS,35.7,210.7,
+49,France,51.4309,1.632,Bauer_grid,56.4,248.8,76.0
+51,United Kingdom,53.2764,0.8416,VPTS,35.7,210.7,
+53,United Kingdom,53.4775,0.8387,VPTS,35.7,210.7,
+54,Netherlands,53.0019,5.2635,VPTS,345.3,258.1,
+55,United Kingdom,53.1359,1.1474,VPTS,35.7,210.7,
+58,France,47.1594,-2.6062,Bauer_grid,68.7,250.9,38.6
+59,Denmark,55.4865,7.8406,Bauer_grid,67.3,251.5,84.4
+60,Denmark,55.141,7.1997,VPTS,345.3,258.1,
+61,Denmark,55.0168,7.7741,Bauer_grid,67.3,251.5,69.7
+65,Netherlands,54.0341,5.8848,VPTS,345.3,258.1,
+68,Denmark,55.2017,6.8522,VPTS,345.3,258.1,
+69,France,49.896,0.2344,Bauer_grid,59.1,249.3,24.9
+73,United Kingdom,53.2671,1.3778,VPTS,35.7,210.7,
+75,France,48.857,-2.542,Bauer_grid,67.8,253.2,34.8
+87,United Kingdom,51.7743,1.9848,VPTS,35.7,210.7,
+95,Sweden,54.8305,13.8582,Bauer_grid,51.6,235.5,44.7
+96,United Kingdom,51.7298,1.2299,Bauer_grid,56.4,248.8,114.9
+99,Sweden,55.5128,12.7808,Bauer_grid,52.2,235.8,117.3
+100,Netherlands,52.747,5.5908,VPTS,345.3,258.1,
+102,United Kingdom,51.458,1.0879,Bauer_grid,56.4,248.8,91.7
+113,Netherlands,52.607,4.4203,VPTS,345.3,258.1,
+121,Germany,53.6928,6.4755,VPTS,345.3,258.1,
+122,United Kingdom,52.6458,1.7875,VPTS,35.7,210.7,
+127,Sweden,54.8185,13.657,Bauer_grid,51.6,235.5,37.1
+129,United Kingdom,54.7288,1.7951,VPTS,345.3,258.1,
+134,Netherlands,52.6039,5.5748,VPTS,345.3,258.1,
+136,Denmark,56.5932,8.0257,Bauer_grid,67.3,251.5,184.2
+137,Germany,54.6098,12.6507,Bauer_grid,53.1,234.9,40.6
+140,Denmark,56.0791,7.9536,Bauer_grid,67.3,251.5,132.6
+142,Germany,53.8357,8.1683,VPTS,345.3,258.1,
+149,Sweden,55.6945,12.6698,Bauer_grid,52.2,235.8,138.9
+152,Denmark,56.6648,8.2313,Bauer_grid,67.3,251.5,188.5
+153,Denmark,55.9692,10.3553,Bauer_grid,66.3,249.3,133.4
+154,Denmark,55.7218,10.5833,Bauer_grid,64.1,244.6,115.6
+157,Denmark,55.3441,10.9604,Bauer_grid,64.1,244.6,95.1
+167,France,43.1903,4.794,Bauer_grid,47.6,236.9,51.8
