@@ -1,5 +1,0 @@
-﻿station,season,n_obs,direction_deg,concentration,avg_density_birds_km3,total_flux,rotor_height_fraction,evidence_level
-behel,spring,133,280.8,0.698,122.61,16307.7,1.0,radar
-deess,spring,159,43.5,0.405,12.26,1949.3,1.0,radar
-nlhrw,spring,33270,231.3,0.04,284.04,9450132.0,0.5,radar
-nlhrw,autumn,28655,292.5,0.087,759.95,21776409.9,0.5,radar
