@@ -1,0 +1,13 @@
+﻿station,season,n_obs,direction_deg,concentration,circular_std_deg,avg_density,max_density,total_flux
+deess,spring,0,,,,15.3,404.6,369411.6
+deess,autumn,0,,,,16.1,142.8,561018.8
+behel,spring,0,,,,11.6,15.6,615.8
+behel,autumn,0,,,,,,0.0
+bejab,spring,1930,8.9,0.176,106.8,16.0,223.7,174574.5
+bejab,autumn,1722,213.7,0.576,60.2,23.1,525.1,240878.9
+frabb,spring,0,,,,15.1,367.8,179388.5
+frabb,autumn,74,224.7,0.985,9.9,17.8,1286.7,454431.6
+nlhrw,spring,7435,348.9,0.128,116.3,23.8,378.9,333996.7
+nlhrw,autumn,6448,251.8,0.323,86.2,54.1,969.1,825486.1
+nldhl,spring,0,,,,,,0.0
+nldhl,autumn,202,56.1,0.962,16.0,134.9,934.8,60569.5
