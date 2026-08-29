@@ -26,11 +26,13 @@ OUT_PATH = os.path.join(REPO, 'outputs', 'reports',
                         'Wind farm array orientation strongly shapes migratory bird collision exposure (v7).docx')
 
 FIG_FILES = {
-    '1': os.path.join(FIG_DIR, 'fig1_mechanism.png'),
-    '2': os.path.join(FIG_DIR, 'fig2_directional.png'),
-    '3': os.path.join(FIG_DIR, 'fig3_misalign.png'),
-    '4': os.path.join(FIG_DIR, 'fig4_capture.png'),
-    '5': os.path.join(FIG_DIR, 'fig5_tradeoff.png'),
+    # Fig 1 已于 2026-08-28 重做为 figures_v7 的「全幅地图 + 环绕机理链」版，
+    # 不再来自 figures_v6；其余图仍取 v6。
+    '1': os.path.join(REPO, 'figures_v7', 'fig1_map_flow.png'),
+    '2': os.path.join(REPO, 'figures_v7', 'fig2_sensitivity.png'),
+    '3': os.path.join(REPO, 'figures_v7', 'fig3_misalignment.png'),
+    '4': os.path.join(REPO, 'figures_v7', 'fig4_capture.png'),
+    '5': os.path.join(REPO, 'figures_v7', 'fig5_tradeoff.png'),
     'S1': os.path.join(FIG_DIR, 'figS1_threat.png'),
     'S2': os.path.join(FIG_DIR, 'figS2_universality.png'),
 }
@@ -39,134 +41,38 @@ FIG_WIDTH = {k: Inches(6.5) for k in FIG_FILES}
 # 新版 caption（英文，对应 v6 panel 结构）
 NEW_CAPTIONS_EN = {
     '1': (
-        "**Figure 1 | Mechanism of orientation-driven exposure and regional evidence.** "
-        "**a**, Top-down schematic of parallel (low exposure) vs perpendicular (high exposure) "
-        "array geometries relative to migration. **b**, Full exposure surface E(θ, φ) = "
-        "sin²(θ − φ) with contour lines; the AEP-opt and eco-opt orientations diverge by ≈55° "
-        "at an example migration axis of 100°. **c**, Compass-ring view of the median AEP-opt "
-        "vs eco-opt orientations for the three groups (Δ = per-group offset). **d**, Geometric "
-        "model callout with the E ∝ sin²(θ − φ) relation. **e**, Capture curves (median ± IQR "
-        "band) of exposure reduction against rotation from AEP-opt for the three groups; the "
-        "first 20° captures most of the gain. **f**, Energy–exposure Pareto frontier: each "
-        "small point is a farm × budget outcome, coloured by group; large markers mark per-"
-        "budget medians; the shaded band is the ≤1% AEP corridor. **g**, Study region overlaid "
-        "with the spring migration direction quiver (colour = directional concentration) and "
-        "wind-farm locations (4,191 onshore + 29 VPTS + 26 Bauer + 6 radar stations; red "
-        "rectangle marks the North-Sea zoom of panels 5e,f). **h**, Onshore Δθ50 hex-bin map "
-        "(median rotation required to capture half the gain), with offshore farms overlaid."
+        '**Figure 1 | Study region and the orientation mechanism that governs migratory collision exposure.** **a**, Western European study region, shown full-bleed: arrows give the spring migration direction field (2,025 grid cells, one arrow drawn per second cell; colour = directional concentration, 0.84–1.00), overlaid with 4,191 onshore wind farms, 29 offshore farms with VPTS weather-radar bird directions, 26 offshore farms on the Bauer grid, and 6 VPTS radar stations. **b**–**f**, the mechanism chain, arranged around the map over areas that contain no study data, so that no wind farm or migration vector is occluded. **b**, The migration field sets the reference direction φ: the circular mean spring bearing is 52° and the median directional concentration is 0.89. **c**, Array orientation θ relative to φ sets geometric exposure — birds crossing parallel to the turbine rows (θ ∥ φ) pass along the inter-row corridors and are minimally exposed, whereas birds crossing perpendicular (θ ⊥ φ) traverse the rotor-swept plane once per row — giving E ∝ sin²(θ − φ). **d**, The energy optimum and the ecological optimum do not coincide: the median misalignment Δ between the AEP-optimal and exposure-minimal orientations is 48° onshore, 40° for VPTS farms and 45° for Bauer farms (bars, top to bottom, span the interquartile range: 29–60°, 20–50° and 30–67.5°). **e**, Most of the avoidable exposure is recovered by a small rotation: group medians of the fraction of avoidable exposure removed as the array is rotated by Δθ away from its AEP optimum. Half of the maximum gain is reached at Δθ₅₀ = 17° onshore (14° VPTS, 17.5° Bauer), and a rotation of ≤20° (dashed line) already removes 55% of the avoidable exposure onshore. **f**, That rotation is nearly free: median exposure cut attainable within an AEP budget of 0.5, 1, 2 and 5%. At the 1% budget (box) the median cut is 97% onshore, 84% for VPTS and 48% for Bauer farms, while the AEP loss actually incurred is only 0.54%, 0.28% and 0.53%, respectively.'
     ),
     '2': (
-        "**Figure 2 | Directional structure of migration and orientation sensitivity are "
-        "cross-source robust.** **a**, Rose diagram of spring (orange) and autumn (blue) "
-        "migration directions across 2,025 Bauer grid cells; arrows show vector means. "
-        "**b**, Ridgeline of normalised exposure curves E(θ) for representative farms of each "
-        "group, showing that the sin²-family shape is not model-specific. **c**, Per-farm "
-        "sensitivity amplitude (rel = (E_max − E_min)/E_max) shown as violin + jitter; every "
-        "farm exceeds 85% and group medians are 99.9% / 97.6% / 93.4%. **d**, Cumulative "
-        "share of farms above a rel threshold with a bootstrap 95% CI band per group. "
-        "**e**, Hex-bin map of median onshore rel across space with offshore farms overlaid; "
-        "sensitivity is spatially uniform. **f**, Mechanism scatter: onshore per-farm rel "
-        "against spring directional concentration, with a binned median±IQR band; higher "
-        "concentration produces marginally higher sensitivity as the sin² geometry predicts."
+        "**Figure 2 | Migration keeps a stable axis, and that axis makes collision exposure highly sensitive to array orientation.** Panels are grouped by the claim they support. **a–c, migration keeps a stable axis. a**, Flight-direction rose over the 2,025 Bauer grid cells; arrows mark the circular median (spring 52°, autumn 235°). **b**, Directional concentration (median 0.89 in spring, 0.76 in autumn). **c**, The same directions folded onto the 180°-periodic exposure axis: the two seasons reverse as vectors but their exposure axes differ by only 3.4°, so a single orientation can suppress both seasons at once. **d–f, that axis makes exposure sensitive to orientation. d**, Family of exposure curves, each farm aligned on its own minimum (group median and 10–90% band), against the analytic sin² geometry. **e**, Per-farm sensitivity amplitude — the share of a farm's exposure range that rotation alone can span (median 99.9% onshore, 97.6% VPTS, 93.4% Bauer; every farm exceeds 80%); half-violin, interquartile bar and individual farms. **f**, Mechanism: the more concentrated the local flight direction, the wider the reachable range (onshore, binned median ± IQR). **g,h, the sensitivity is universal. g**, Sensitivity across space (onshore hexagon medians, the 55 offshore farms overlaid). **h**, The three independent data sources agree within a 93–100% band; circles are medians, bars the interquartile range, whiskers the 5–95% range."
     ),
     '3': (
-        "**Figure 3 | AEP-optimal and exposure-optimal orientations are systematically "
-        "misaligned.** **a**, Hex-bin scatter of eco-opt θ_min against AEP-opt θ_econ for "
-        "all 4,246 farms (log-scale hex density); the red diagonal marks alignment; median "
-        "positions of each group are shown as large markers. **b**, Marginal density of the "
-        "misalignment angle d_full on top; dumbbell of per-group medians below with per-group "
-        "offset labelled (25°/20°/5° in this snapshot; see main text for full IQR). "
-        "**c**, Log-scale bars of E(θ_econ)/E_min with median±IQR whiskers and sample sizes "
-        "(≈600×, 19×, 10×). **d**, Polar overlay for a representative onshore farm: spring "
-        "and autumn migration direction lobes vs the AEP-opt array orientation. **e**, Case-"
-        "study farms (worst-aligned d ≈ 90° vs best-aligned d ≈ 0°) showing normalised "
-        "exposure E(θ) (solid) and normalised AEP(θ) (dashed) on twin axes; the ecological "
-        "and energy optima are visibly staggered on the worst-aligned farm and coincide on "
-        "the best-aligned one."
+        '**Figure 3 | The energy-optimal and the exposure-optimal orientation are systematically misaligned.** **a–c, the two optima land apart. a**, The AEP-optimal orientation is set by the wind resource and spreads across every angle, whereas the exposure-optimal orientation is pinned to the migration axis (all 4,246 farms, back-to-back histograms). **b**, Per-farm misalignment Δ (median 48° onshore, 40° VPTS, 45° Bauer). **c**, Joint distribution of the two optima; the dashed line marks perfect alignment and the vertical axis is clipped to the range the data occupy. **d–f, the exposure penalty is an order of magnitude. d**, Ratio of the exposure at the AEP optimum to the reachable minimum (median 603× onshore, 19× VPTS, 10× Bauer); the axis is clipped at 10⁵ because E_min approaches zero for purely geometric farms. **e**, A representative onshore farm with Δ near the median — exposure (vermillion) is minimal where AEP (grey) is not. **f**, The ratio grows with misalignment (onshore binned median ± IQR, offshore farms overlaid). **g–i, nearly all of that excess is removable. g**, Avoidable exposure share (median 99.8% / 94.6% / 90.0%). **h**, Share of farms at or above a given avoidable share. **i**, Avoidable share across space.'
     ),
     '4': (
-        "**Figure 4 | A limited rotation captures most of the reducible exposure.** "
-        "**a**, Capture curves (median ± IQR) of exposure reduction versus rotation from "
-        "AEP-opt for the three groups, with vertical drops at each group's Δθ50 (17°/14°/18°) "
-        "and horizontal reference lines at 50%/80%; the inset shows the marginal gain (%/°), "
-        "which peaks near the AEP-opt and decays past 20°. **b**, Half-gain rotation Δθ50 "
-        "against full misalignment d_full: onshore farms as coloured points (colour = rel, "
-        "size = n_turbines), offshore farms as bold markers; the 1:1 diagonal is the upper "
-        "bound. **c**, Bee-swarm + violin of onshore Δθ50 by country (top 6 countries by "
-        "sample size); country medians are similar (≈15–20°). **d**, Bee-swarm + violin of "
-        "Δθ80 by group (29°/25°/30°). **e**, Grouped bars of the fraction of farms crossing "
-        "each threshold (≥50%/≥80% within 20°/30°); the majority of farms recover more than "
-        "half of the benefit within 20°."
+        '**Figure 4 | A limited rotation captures most of the avoidable exposure.** **a–c, the benefit is front-loaded. a**, Capture curves (median and interquartile band) as the array is rotated away from its AEP optimum; shading marks the first 20°. **b**, Median share recovered at 5°, 10°, 20° and 30° of rotation. **c**, Marginal return per extra degree, which falls away beyond about 20°. **d–f, half the gain needs about a third of the turn. **d**, Group medians of Δθ50, Δθ80 and the full misalignment. **e**, Per-farm Δθ50 against full misalignment, with the 1:1 and one-third references. **f**, Δθ50 across space (onshore hexagon medians). **g,h, the rule holds farm by farm. g**, Share of farms recovering 50% or 80% of the avoidable exposure within 20° or 30°. **h**, Cumulative distribution of Δθ50; dots mark the share reached at 20° and 30°.'
     ),
     '5': (
-        "**Figure 5 | Energy–exposure trade-off delivers most of the ecological gain within "
-        "1% AEP.** **a**, Large Pareto scatter of exposure reduction versus AEP loss for "
-        "4,246 farms × 4 budgets (0.5/1/2/5%); small points are individual farm × budget "
-        "outcomes coloured by group; large markers show per-budget medians per group; the "
-        "shaded band is the ≤1% AEP corridor. **b–c**, Ridgeline distributions of exposure "
-        "reduction by AEP budget for onshore (b) and offshore (c) — the distribution "
-        "compresses toward 100% as the budget rises. **d**, Onshore hex-bin choropleth of "
-        "median exposure reduction at 1% AEP. **e–f**, Offshore VPTS (e) and Bauer (f) "
-        "farm-level RR at 1% AEP over the North-Sea zoom. **g**, Median exposure reduction "
-        "versus AEP budget for the three groups; benefit saturates past 1%. **h**, Farm-level "
-        "saturation heatmap for onshore farms (rows sorted by Δθ50 from 1° at the top to 45° "
-        "at the bottom, columns = four AEP budgets, colour = RR); farms with small Δθ50 "
-        "saturate to ≥90% RR by the 1% budget; hard-case farms (large Δθ50) need higher "
-        "budgets. **i**, Compact heatmap of median RR (%) across the four budgets × three "
-        "groups — a visual replacement for the previous Table 2."
+        '**Figure 5 | The ecological gain costs almost no energy.** **a–c, a 1% allowance buys most of the cut. a**, Energy–exposure trade-off for every farm and budget; large markers are per-group medians at the 1% budget. **b**, Mean energy paid against mean exposure bought at the 1% budget, on a logarithmic axis because the two differ by two orders of magnitude. **c**, Distribution of the exposure reduction achieved at the 1% budget (median 97% onshore, 84% VPTS, 48% Bauer). **d,e, the asymmetry is geometric. **d**, Around its own optimum AEP is flat while exposure is steep (onshore, median ± IQR over 500 farms), so a small energy concession buys a large exposure cut. **e**, Median exposure reduction against the AEP budget. **f–h, the return dies out past about 1%. f**, Share of farms that gain nothing when the budget is raised from 2% to 5%. **g**, Policy scenarios: share of farms meeting an ecological floor (≥50%, ≥80%, ≥90% exposure reduction; line style) under each AEP budget ceiling (colour = group). The VPTS ≥90% line is flat from the 1% budget onward — beyond that point a larger energy concession buys no additional farms. **h**, Exposure reduction at the 1% budget across space.'
     ),
 }
 
 # 中文版对应 caption（关键描述与英文一致）
 NEW_CAPTIONS_ZH = {
     '1': (
-        "**Figure 1 | 朝向驱动暴露的机制与区域证据。** "
-        "**a**，阵列几何俯视示意：平行迁徙方向 → 低暴露；垂直 → 高暴露。"
-        "**b**，暴露曲面 E(θ, φ) = sin²(θ − φ) 全景（含等值线）；以迁徙轴 φ = 100° 为例，"
-        "AEP 最优与生态最优朝向相差 ≈55°。**c**，罗盘环视图：三组 AEP-opt 与 eco-opt 中位方向 "
-        "对比（Δ 为分组偏移量）。**d**，几何模型示意与公式 E ∝ sin²(θ − φ)。"
-        "**e**，三组的暴露削减-旋转捕获曲线（中位 ± IQR 带）；前 20° 已捕获大部分收益。"
-        "**f**，能源–暴露 Pareto 前沿：每个小点为 farm × 预算，按组着色；大标记为分组分预算中位；"
-        "阴影带为 ≤1% AEP 走廊。**g**，研究区总览：叠加春季迁徙方向箭矢（色 = 方向集中度）与 "
-        "风电场位置（陆上 4,191、VPTS 海上 29、Bauer 海上 26、雷达站 6；红框为 5e,f 面板的北海放大区）。"
-        "**h**，陆上 Δθ50 六边形聚合空间图（捕获半数收益所需的旋转角中位），并叠加海上场址。"
+        '**Figure 1 | 研究区与决定候鸟碰撞暴露的朝向机制。** **a**，西欧研究区（铺满全幅）：箭矢为春季迁徙方向场（2,025 个格网单元，隔一格绘一支；颜色为方向集中度，0.84–1.00），叠加 4,191 个陆上风电场、29 个具 VPTS 天气雷达鸟类方向的海上风电场、26 个 Bauer 格网海上风电场与 6 个 VPTS 雷达站。**b**–**f**，机理链，沿地图外圈布置于不含任何研究数据的区域，因此未遮挡任何风电场或迁徙矢量。**b**，迁徙场给定参考方向 φ：春季方向的圆均值为 52°，方向集中度中位数为 0.89。**c**，阵列朝向 θ 相对 φ 决定几何暴露：与机组行方向平行穿越（θ ∥ φ）的鸟可沿行间通道通过，暴露极小；垂直穿越（θ ⊥ φ）则须每行穿越一次旋翼扫掠面，故 E ∝ sin²(θ − φ)。**d**，能源最优与生态最优并不重合：AEP 最优朝向与暴露最小朝向的错位中位数为陆上 48°、VPTS 40°、Bauer 45°（横条自上而下为三组的四分位距，分别为 29–60°、20–50°、30–67.5°）。**e**，有限旋转即可收回大部分可削减暴露：三组中位曲线给出阵列自 AEP 最优朝向旋转 Δθ 后已削减的可避免暴露份额。达到最大收益一半所需的 Δθ₅₀ 为陆上 17°（VPTS 14°、Bauer 17.5°）；旋转 ≤20°（虚线）已可削减陆上 55% 的可避免暴露。**f**，这一旋转的能源代价极低：0.5%、1%、2%、5% 四档AEP 预算下可实现的暴露削减中位数。在 1% 预算（方框）下，陆上、VPTS、Bauer 的削减中位数分别为 97%、84%、48%，而实际发生的 AEP 损失仅为 0.54%、0.28%、0.53%。'
     ),
     '2': (
-        "**Figure 2 | 迁徙的方向结构与跨源稳健的朝向敏感性。** **a**，2,025 个 Bauer 网格的春（橙）"
-        "秋（蓝）迁徙方向玫瑰，箭矢为向量均值。**b**，三组代表场址归一化 E(θ) 曲线的岭线图，"
-        "表明 sin² 曲线家族并非模型特有。**c**，逐场址方向敏感性 rel = (E_max − E_min)/E_max 的 "
-        "小提琴 + 抖点：每一场址均 >85%，分组中位分别为 99.9%/97.6%/93.4%。**d**，累积经验分布：给定 "
-        "rel 阈值下的场址占比，每组带自助 95% CI 带。**e**，陆上 rel 中位的六边形聚合空间图，"
-        "叠加海上场址；敏感性空间分布均匀。**f**，机制散点：陆上 rel 对春季方向集中度的关系，带分箱 "
-        "中位±IQR 带；集中度越高，敏感性相应越高，与 sin² 几何一致。"
+        '**Figure 2 | 迁徙方向具有稳定主轴，该主轴使碰撞暴露对阵列朝向高度敏感。** 子图按所支撑的子论点分带。**a–c，迁徙有稳定主轴。a**，2,025 个 Bauer 格点的飞行方向玫瑰图，箭头为圆中位（春 52°、秋 235°）。**b**，方向集中度分布（春季中位 0.89、秋季 0.76）。**c**，同一批方向折叠到以 180° 为周期的暴露轴上：两季作为向量近乎相反，但作为暴露轴仅相差 3.4°，因此单一朝向即可同时压低两季暴露。**d–f，该主轴使暴露对朝向高度敏感。d**，暴露曲线族，各场以自身最小值对齐（分组中位与 10–90% 带），并与解析的 sin² 几何对照。**e**，逐场方向敏感性幅度 —— 仅靠旋转即可覆盖的暴露区间份额（中位陆上 99.9%、VPTS 97.6%、Bauer 93.4%；所有场址均超过 80%）；半小提琴、四分位条与逐场散点。**f**，机制：当地飞行方向越集中，可达区间越宽（陆上，分箱中位 ± 四分位距）。**g,h，该敏感性具有普遍性。g**，敏感性的空间分布（陆上六边形中位，叠加 55 个海上场）。**h**，三套独立数据源一致落在 93–100% 区间；圆点为中位、粗条为四分位距、细线为 5–95% 区间。'
     ),
     '3': (
-        "**Figure 3 | AEP 最优与生态最优朝向的系统性错位。** **a**，4,246 个风电场 θ_min 对 θ_econ "
-        "的六边形密度散点（对数密度），红对角为对齐参考；每组中位以大标记显示。**b**，上：错位角 "
-        "d_full 的边缘密度直方；下：三组中位方向哑铃图（本快照下每组偏移分别为 25°/20°/5°；见正文完整 IQR）。"
-        "**c**，E(θ_econ)/E_min 对数柱（中位±IQR 误差棒，标注样本量）：三组分别约 600×、19×、10×。"
-        "**d**，代表陆上场址极坐标叠加：春秋迁徙方向瓣与 AEP 最优阵列朝向。**e**，个案研究：错位最差 "
-        "（d ≈ 90°）与最好对齐（d ≈ 0°）的两个陆上场址，双轴同框展示归一化 E(θ)（实线）与归一化 "
-        "AEP(θ)（虚线），可直观看到能源与生态最优在错位场上明显错开、在对齐场上重合。"
+        '**Figure 3 | 能源最优朝向与暴露最优朝向系统性错位。** **a–c，两个最优彼此错开。a**，AEP 最优朝向由风资源决定、散布于全部角域，而暴露最优朝向被迁徙轴钉住（全部 4,246 场，背靠背直方图）。**b**，逐场错位角 Δ（中位陆上 48°、VPTS 40°、Bauer 45°）。**c**，两个最优的联合分布，虚线为完全对齐；纵轴按数据实际占据的范围裁剪。**d–f，能源最优处的暴露高出一个数量级。**d**，AEP 最优处暴露与可达最小暴露之比（中位陆上 603×、VPTS 19×、Bauer 10×）；纯几何场址的E_min 趋近于零，故坐标轴在 10⁵ 处裁剪。**e**，错位角接近中位的代表性陆上场址 —— 暴露（朱红）的极小值并不落在 AEP（灰）的极大值处。**f**，该比值随错位角上升（陆上分箱中位 ± 四分位距，叠加海上场）。**g–i，这部分超额暴露绝大多数可消除。g**，可削减暴露比例（中位 99.8% / 94.6% / 90.0%）。**h**，达到或超过给定可削减比例的场址份额。**i**，可削减比例的空间分布。'
     ),
     '4': (
-        "**Figure 4 | 有限旋转即可捕获大部分可削减暴露。** "
-        "**a**，三组捕获曲线（中位 ± IQR），在各组 Δθ50（17°/14°/18°）处纵向标注、50%/80% 水平参考；"
-        "内嵌图展示单位角度的边际增益（%/°），在 AEP-opt 附近最大、超过 20° 后迅速衰减。"
-        "**b**，Δθ50 对 d_full 的散点：陆上点色为 rel、点面积为机组数；海上以大标记；1:1 对角线为上界。"
-        "**c**，陆上 Δθ50 按国家的蜂群 + 小提琴（按样本量前 6 国）；国别中位差异有限（≈15–20°）。"
-        "**d**，三组 Δθ80 蜂群 + 小提琴（29°/25°/30°）。"
-        "**e**，各阈值达成率分组柱（≥50%/≥80% within 20°/30°）：多数场址在 20° 内即可回收超过一半收益。"
+        '**Figure 4 | 有限的朝向调整即可捕获大部分可削减暴露。** **a–c，收益集中在前段。a**，自 AEP 最优起旋转的捕获曲线（中位与四分位带），阴影为最初 20°。**b**，旋转 5°、10°、20°、30° 时回收的中位份额。**c**，每多转一度的边际收益，约 20° 之后迅速衰减。**d–f，半收益仅需约三分之一的转角。d**，各组 Δθ50、Δθ80 与全错位角的中位数。**e**，逐场 Δθ50 对全错位角，并给出 1:1与三分之一参考线。**f**，Δθ50 的空间分布（陆上六边形中位）。**g,h，该规律在场址层面成立。**g**，在 20° 或 30° 内回收 50% 或 80% 可削减暴露的场址比例。**h**，Δθ50 的累积分布，圆点标出20° 与 30° 处的达成比例。'
     ),
     '5': (
-        "**Figure 5 | 能源–暴露权衡：1% AEP 内即可获得大部分生态收益。** "
-        "**a**，大幅 Pareto 散点：暴露削减对 AEP 损失，4,246 场址 × 4 预算（0.5/1/2/5%）；小点为个体，"
-        "按组着色；大标记为分组分预算中位；阴影带为 ≤1% AEP 走廊。**b–c**，按预算分层的暴露削减 "
-        "岭线图，(b) 陆上、(c) 海上：预算上升时分布向 100% 压缩。**d**，1% 预算下陆上 RR 的六边形 "
-        "聚合专题图。**e–f**，1% 预算下海上 VPTS (e) 与 Bauer (f) 场址级 RR（北海放大）。"
-        "**g**，三组 RR 中位对预算：>1% 后收益饱和。**h**，逐场址饱和热图：行按 Δθ50 排序（顶 1° → "
-        "底 45°），列为四个预算，色为 RR；Δθ50 小的场址在 1% 预算即饱和至 ≥90% RR，Δθ50 大的疑难 "
-        "场址需要更高预算。**i**，紧凑热图：三组 × 四预算的 RR (%) 中位——用作原 Table 2 的可视化替代。"
+        '**Figure 5 | 生态收益的能源代价几乎为零。** **a–c，1% 预算即可买到大部分削减。a**，全部场址 × 全部预算的能源–暴露权衡，大标记为各组在 1% 预算下的中位。**b**，1% 预算下平均付出的能源与平均买到的暴露削减；两者相差两个数量级，故用对数轴。**c**，1% 预算下实现的暴露削减分布（中位陆上 97%、VPTS 84%、Bauer 48%）。**d,e，不对称源于几何。d**，在各自最优点附近，AEP 是平的而暴露是陡的（陆上，500 场的中位 ± 四分位距），因此极小的能源让步可换得大幅暴露削减。**e**，暴露削减中位随 AEP 预算的变化。**f–h，约 1% 之后边际回报消失。f**，预算由 2% 提高到5% 时毫无新增收益的场址比例。**g**，政策情境：在各档 AEP 预算上限（横轴）下达到给定生态底线（≥50%、≥80%、≥90% 暴露削减；线型区分）的场址占比，颜色区分三组。VPTS 的 ≥90% 曲线自 1% 预算起走平 —— 越过该点后，更大的能源让步不再换来更多达标场址。**h**，1% 预算下暴露削减的空间分布。'
     ),
 }
 
